@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Data pengguna (jangan ikut di-commit)
+kegiatan.json
+kegiatan-*.md
+kegiatan.json.tmp
+backups/
+exports/
+config.json
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

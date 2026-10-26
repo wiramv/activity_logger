@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "activity-logger"
+version = "1.0.0"
+description = "Pencatat kegiatan harian (Tkinter + Bootstrap style) dengan penyimpanan JSON dan ekspor CSV/Markdown."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{ name = "Activity Logger" }]
+keywords = ["tkinter", "bootstrap", "activity-logger", "journal", "csv", "json"]
+classifiers = [
+  "Environment :: X11 Applications",
+  "Environment :: Win32 (MS Windows)",
+  "Environment :: MacOS X",
+  "Intended Audience :: End Users/Desktop",
+  "Programming Language :: Python :: 3",
+  "Topic :: Office/Business :: Scheduling",
+]
+dependencies = ["ttkbootstrap>=2.0,<3"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "pyflakes>=3"]
+
+[project.scripts]
+activity-logger = "activity_logger.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["activity_logger*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

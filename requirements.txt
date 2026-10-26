@@ -1,0 +1,3 @@
+# Tema Bootstrap untuk Tkinter (opsional tetapi sangat disarankan).
+# Aplikasi tetap berjalan tanpa paket ini (memakai tema ttk dasar).
+ttkbootstrap>=2.0,<3
