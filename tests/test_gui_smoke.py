@@ -671,3 +671,26 @@ def test_shortcut_callbacks_work(app, monkeypatch):
     before = app.mode
     root_bindings["<Control-Shift-D>"][-1](type("E", (), {"widget": app.root})())
     assert app.mode != before
+
+
+def test_theme_engine_description(app):
+    text = app.themes.describe()
+    assert isinstance(text, str) and text
+    assert app.themes.engine_name in ("ttkbootstrap", "ttk")
+    assert app.themes.active_theme_name
+
+
+def test_settings_page_shows_theme_engine(app):
+    app.navigate("pengaturan")
+    labels = []
+
+    def collect(widget):
+        if isinstance(widget, fake_tk.Widget):
+            value = widget._options.get("text")
+            if value:
+                labels.append(str(value))
+            for child in widget.winfo_children():
+                collect(child)
+
+    collect(app.page.stack)
+    assert any("Mesin tema" in text for text in labels)

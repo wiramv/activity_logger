@@ -70,6 +70,30 @@ class SettingsPage(BasePage):
                 size="sm",
             ).pack(side="left", padx=(6, 0))
 
+        theme_info = tk.Frame(body, bg=self.pal["surface"])
+        theme_info.pack(fill="x", pady=(8, 0))
+        icons_canvas = tk.Canvas(
+            theme_info,
+            width=13,
+            height=13,
+            bg=self.pal["surface"],
+            highlightthickness=0,
+            bd=0,
+            takefocus=0,
+        )
+        icons_canvas.pack(side="left", pady=(1, 0))
+        icons.paint(icons_canvas, "info", self.pal["text_faint"], size=13)
+        tk.Label(
+            theme_info,
+            text="Mesin tema: {}".format(self.app.themes.describe()),
+            bg=self.pal["surface"],
+            fg=self.pal["text_faint"],
+            font=self.fonts.get(8),
+            anchor="w",
+            justify="left",
+            wraplength=self._text_width(),
+        ).pack(side="left", padx=(6, 0), fill="x", expand=True)
+
         self._divider(body)
         CheckboxRow(
             body,

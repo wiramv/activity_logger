@@ -1,9 +1,15 @@
 # 📋 Activity Logger
 
-Aplikasi desktop **pencatat kegiatan harian** dengan antarmuka **Tkinter bergaya Bootstrap**
-(`ttkbootstrap`). Cukup **ketik kegiatan → klik Simpan (atau Enter)** — tanggal dan waktu
-terisi otomatis, data langsung tersimpan ke file **JSON**, dan bisa **diekspor ke CSV/Markdown**
-untuk laporan harian, mingguan, atau bulanan.
+Aplikasi desktop **pencatat kegiatan harian** dengan antarmuka **Tkinter** yang memakai
+**sistem desain Bootstrap** (kartu, tombol, badge, nav-pill, alert, tabel, grid responsif).
+Komponen Bootstrap-nya diimplementasikan native di Tkinter, jadi tidak butuh browser maupun
+aset CSS. Bila paket **`ttkbootstrap`** terpasang, aplikasi juga mendaftarkan tema kustom
+`activity-light` / `activitynight-dark` dan memakainya untuk widget ttk (Entry, Combobox,
+Scrollbar, Checkbutton).
+
+Alurnya sesederhana ini: **ketik kegiatan → tekan Enter (atau klik Simpan)**. Tanggal dan
+waktu terisi otomatis, data langsung tersimpan ke file **JSON**, dan bisa **diekspor ke
+CSV/Markdown** untuk laporan harian, mingguan, atau bulanan.
 
 <p align="center">
   <img src="assets/mockup.png" alt="Pratinjau antarmuka Activity Logger dalam mode terang, gelap, tabel, statistik, ekspor, dan tampilan HP" width="900">
@@ -55,8 +61,9 @@ Bila Tkinter belum ada:
 | Fedora | `sudo dnf install python3-tkinter` |
 | Arch / Manjaro | `sudo pacman -S tk` |
 
-> Tanpa `ttkbootstrap`, aplikasi **tetap berjalan** dengan tema ttk dasar — tampilan
-> Bootstrap-nya yang berkurang.
+> `ttkbootstrap` bersifat **opsional**: tanpa paket itu aplikasi tetap berjalan penuh
+> dengan tema ttk dasar. Nama mesin tema yang sedang aktif bisa dilihat di halaman
+> **Pengaturan → Tampilan**.
 
 ---
 
@@ -219,7 +226,7 @@ activity_logger/
 ├── scripts/
 │   ├── seed_demo.py           # isi data contoh
 │   └── make_icon.py           # buat ulang ikon aplikasi
-├── tests/                     # 142 tes (logika + smoke test GUI)
+├── tests/                     # 144 tes (logika + smoke test GUI)
 └── assets/
     ├── mockup.png             # referensi desain
     └── app_icon.png           # ikon aplikasi 64×64
@@ -231,7 +238,7 @@ activity_logger/
 
 ```bash
 pip install pytest pyflakes
-python -m pytest          # 142 tes
+python -m pytest          # 144 tes
 python -m pyflakes activity_logger run.py scripts
 ```
 
@@ -258,8 +265,9 @@ serta logika tanggal/penyimpanan/ekspor. Tak ada layar (X server) yang dibutuhka
 → Kamu menjalankan di server/SSH tanpa GUI. Jalankan di desktop, atau gunakan
 aplikasi web HP lewat `python run.py` di mesin yang punya layar.
 
-**Tampilan kurang "Bootstrap"**
-→ `pip install ttkbootstrap` lalu jalankan ulang aplikasi.
+**Penasaran mesin tema yang dipakai?**
+→ Halaman **Pengaturan → Tampilan** menampilkan `ttkbootstrap · tema activity-light`
+   (atau `ttk dasar` bila paket opsional belum terpasang).
 
 **HP tidak bisa membuka alamat**
 → Pastikan HP & komputer di Wi-Fi yang sama dan firewall mengizinkan port 8765

@@ -249,6 +249,25 @@ class ThemeManager:
             self.mode = mode
             self.apply()
 
+    @property
+    def engine_name(self) -> str:
+        """Nama mesin tema yang aktif (``ttkbootstrap`` atau ``ttk``)."""
+        return "ttkbootstrap" if self.engine is not None else "ttk"
+
+    @property
+    def active_theme_name(self) -> str:
+        """Nama tema aktif pada ``ttk.Style`` (mis. ``activity-light``)."""
+        try:
+            return str(self.style.theme_use())
+        except Exception:  # pragma: no cover - engine tidak siap
+            return "-"
+
+    def describe(self) -> str:
+        """Ringkasan singkat untuk halaman Pengaturan."""
+        if self.engine is None:
+            return "ttk dasar (pasang ttkbootstrap untuk tema Bootstrap)"
+        return "{} · tema {}".format(self.engine_name, self.active_theme_name)
+
     def apply(self) -> None:
         """Pilih tema (bila engine tersedia) lalu pasang gaya widget kustom."""
         pal = self.pal
