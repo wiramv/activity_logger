@@ -640,3 +640,34 @@ def test_app_icon_is_valid_png(app):
     assert raw.startswith(b"\x89PNG\r\n\x1a\n")
     assert len(raw) > 200
     assert load_icon(app.root) is not None
+
+
+def test_keyboard_shortcuts_registered(app):
+    sequences = getattr(app, "shortcut_sequences", [])
+    for expected in (
+        "<Control-n>", "<Control-f>", "<Control-Shift-E>", "<Control-Shift-A>",
+        "<Control-Shift-D>", "<Control-Shift-M>", "<Control-1>", "<F5>", "<Escape>",
+    ):
+        assert expected in sequences, expected
+
+
+def test_shortcut_callbacks_work(app, monkeypatch):
+    app.root.set_size(1280)
+    app._apply_breakpoint(force=True)
+    root_bindings = app.root._all_bindings
+    # Ctrl+N -> fokus kotak input cepat
+    app.navigate("total")
+    handler = root_bindings["<Control-n>"][-1]
+    handler(type("E", (), {"widget": app.root})())
+    assert app.page_key == "beranda"
+
+    # Ctrl+3 -> halaman catatan, lalu Ctrl+F fokus ke pencarian
+    root_bindings["<Control-3>"][-1](type("E", (), {"widget": app.root})())
+    assert app.page_key == "catatan"
+    root_bindings["<Control-f>"][-1](type("E", (), {"widget": app.root})())
+    assert app.page.search is not None
+
+    # Ctrl+Shift+D -> ganti tema
+    before = app.mode
+    root_bindings["<Control-Shift-D>"][-1](type("E", (), {"widget": app.root})())
+    assert app.mode != before

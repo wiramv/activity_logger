@@ -1072,14 +1072,15 @@ class ActivityApp:
     # Pintasan keyboard
     # ------------------------------------------------------------------ #
     def _bind_shortcuts(self) -> None:
-        modifiers = ("Control", "Command") if sys.platform == "darwin" else ("Control",)
-        bindings = [
+        """Daftarkan pintasan global.
+
+        Sengaja menghindari ``Ctrl+E``/``Ctrl+D``/``Ctrl+M`` karena Tk memakainya
+        untuk mengedit teks di dalam Entry (akhir baris, hapus karakter, Enter).
+        """
+        modifiers = ("Command",) if sys.platform == "darwin" else ("Control",)
+        simple = [
             ("n", self._shortcut_new),
             ("f", self._shortcut_search),
-            ("e", lambda: self.export_month("csv")),
-            ("E", lambda: self.export_all("csv")),  # Ctrl+Shift+E
-            ("d", self.toggle_theme),
-            ("m", self.toggle_mobile),
             ("q", self.on_close),
             ("1", lambda: self.navigate("beranda")),
             ("2", lambda: self.navigate("lokasi")),
@@ -1087,19 +1088,36 @@ class ActivityApp:
             ("4", lambda: self.navigate("total")),
             ("5", lambda: self.navigate("export")),
             ("6", lambda: self.navigate("hapus")),
+            ("7", lambda: self.navigate("pengaturan")),
+        ]
+        with_shift = [
+            ("E", lambda: self.export_month("csv")),
+            ("A", lambda: self.export_all("csv")),
+            ("D", self.toggle_theme),
+            ("M", self.toggle_mobile),
         ]
         for modifier in modifiers:
-            for key, handler in bindings:
-                try:
-                    self.root.bind_all(
-                        "<{}-{}>".format(modifier, key),
-                        lambda _event, fn=handler: (fn(), "break")[1],
-                    )
-                except tk.TclError:  # pragma: no cover
-                    pass
-        self.root.bind_all("<F5>", lambda _event: (self.reload_store(), "break")[1])
-        self.root.bind_all("<Escape>", lambda _event: self._on_escape())
-        self.root.bind("<Configure>", self._on_configure)
+            for key, handler in simple:
+                self._bind_shortcut("<{}-{}>".format(modifier, key), handler)
+            for key, handler in with_shift:
+                sequence = "<{}-Shift-{}>".format(modifier, key)
+                self._bind_shortcut(sequence, handler)
+                self._bind_shortcut(sequence.replace("-" + key, "-" + key.lower()), handler)
+        self._bind_shortcut("<F5>", self.reload_store)
+        self._bind_shortcut("<Escape>", self._on_escape)
+
+    def _bind_shortcut(self, sequence: str, handler) -> None:
+        def callback(_event, fn=handler):
+            fn()
+            return "break"
+
+        try:
+            self.root.bind_all(sequence, callback)
+            if not hasattr(self, "shortcut_sequences"):
+                self.shortcut_sequences = []
+            self.shortcut_sequences.append(sequence)
+        except tk.TclError:  # pragma: no cover - platform terbatas
+            pass
 
     def _on_escape(self) -> None:
         if self.drawer is not None:

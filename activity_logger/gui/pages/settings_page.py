@@ -15,11 +15,11 @@ from .base import BasePage
 SHORTCUTS = [
     ("Ctrl + N", "Fokus ke kotak input cepat"),
     ("Ctrl + F", "Cari kegiatan di halaman Catatan"),
-    ("Ctrl + E", "Export CSV bulan ini"),
-    ("Ctrl + Shift + E", "Export CSV semua kegiatan"),
-    ("Ctrl + D", "Ganti mode terang / gelap"),
-    ("Ctrl + M", "Aktifkan / matikan akses dari HP"),
-    ("Ctrl + 1 … 6", "Pindah antar halaman"),
+    ("Ctrl + Shift + E", "Export CSV bulan ini"),
+    ("Ctrl + Shift + A", "Export CSV semua kegiatan"),
+    ("Ctrl + Shift + D", "Ganti mode terang / gelap"),
+    ("Ctrl + Shift + M", "Aktifkan / matikan akses dari HP"),
+    ("Ctrl + 1 … 7", "Pindah antar halaman"),
     ("F5", "Muat ulang data dari file"),
     ("Esc", "Tutup menu / dialog"),
 ]

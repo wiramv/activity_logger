@@ -21,7 +21,7 @@ untuk laporan harian, mingguan, atau bulanan.
 | 📊 | **Total Kegiatan** | Angka ringkas (total, rata-rata/hari, hari aktif, streak) + grafik batang per hari + detail per hari. |
 | 📤 | **Export** | CSV / Markdown / JSON untuk **semua data**, **bulan ini**, **rentang custom**, plus **ringkasan harian**. |
 | 📁 | **Lokasi file bebas** | Pindahkan file JSON ke folder mana pun (Dropbox, Google Drive, repo Git). |
-| 🌙 | **Mode terang/gelap** | Satu klik di topbar atau `Ctrl+D`. |
+| 🌙 | **Mode terang/gelap** | Satu klik di topbar atau `Ctrl+Shift+D`. |
 | 📱 | **Akses dari HP** | Server kecil di jaringan Wi-Fi yang sama; buka lewat browser HP dan catat kegiatan dari sana. |
 | 🧭 | **Responsif** | Sidebar penuh → ringkas → menu geser, mengikuti lebar jendela. |
 | 🔐 | **100% lokal** | Tanpa akun, tanpa cloud, tanpa telemetri. Data milikmu. |
@@ -153,7 +153,7 @@ Aktifkan **cermin Markdown** (Pengaturan / Lokasi File) bila ingin file
 
 ## 📱 Catat dari HP (Wi-Fi yang sama)
 
-1. Halaman **Pengaturan** → **Aktifkan Akses HP** (atau `Ctrl+M`).
+1. Halaman **Pengaturan** → **Aktifkan Akses HP** (atau `Ctrl+Shift+M`).
 2. Aplikasi menampilkan alamat, mis. `http://192.168.1.10:8765`.
 3. Buka alamat itu di browser HP (pastikan satu jaringan Wi-Fi).
 4. Tambah/centang/hapus kegiatan dari HP — desktop otomatis ikut diperbarui.
@@ -169,11 +169,11 @@ sedang memakai Wi-Fi publik.
 |---|---|
 | `Ctrl+N` | Fokus ke kotak input cepat |
 | `Ctrl+F` | Cari di halaman Catatan |
-| `Ctrl+E` | Export CSV bulan ini |
-| `Ctrl+Shift+E` | Export CSV semua kegiatan |
-| `Ctrl+D` | Ganti mode terang/gelap |
-| `Ctrl+M` | Aktifkan/matikan akses HP |
-| `Ctrl+1` … `Ctrl+6` | Pindah halaman |
+| `Ctrl+Shift+E` | Export CSV bulan ini |
+| `Ctrl+Shift+A` | Export CSV semua kegiatan |
+| `Ctrl+Shift+D` | Ganti mode terang/gelap |
+| `Ctrl+Shift+M` | Aktifkan/matikan akses HP |
+| `Ctrl+1` … `Ctrl+7` | Pindah halaman |
 | `F5` | Muat ulang data dari file |
 | `Esc` | Tutup menu geser / dialog |
 
@@ -219,7 +219,7 @@ activity_logger/
 ├── scripts/
 │   ├── seed_demo.py           # isi data contoh
 │   └── make_icon.py           # buat ulang ikon aplikasi
-├── tests/                     # 140 tes (logika + smoke test GUI)
+├── tests/                     # 142 tes (logika + smoke test GUI)
 └── assets/
     ├── mockup.png             # referensi desain
     └── app_icon.png           # ikon aplikasi 64×64
@@ -231,7 +231,7 @@ activity_logger/
 
 ```bash
 pip install pytest pyflakes
-python -m pytest          # 140 tes
+python -m pytest          # 142 tes
 python -m pyflakes activity_logger run.py scripts
 ```
 
