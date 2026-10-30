@@ -1,0 +1,2440 @@
+device,brand,manufacturer,model_name,form_factor,screen,dpi
+1601,vivo,Vivo,1601,Phone,720x1280,320
+1603,vivo,Vivo,Y55,Phone,720x1280,320
+1606,vivo,Vivo,Y53,Phone,540x960,240
+1609,vivo,Vivo,1609,Phone,720x1280,320
+1610,vivo,Vivo,Y55s,Phone,720x1280,320
+1611,vivo,Vivo,vivo 1611,Phone,1080x1920,480
+1714,vivo,Vivo,vivo 1714,Phone,720x1280,320
+1716,vivo,Vivo,vivo 1716,Phone,720x1440,320
+1718,vivo,Vivo,vivo 1718,Phone,720x1440,320
+1719,vivo,Vivo,vivo Y65,Phone,720x1280,320
+1723,vivo,Vivo,vivo 1723,Phone,1080x2280,480
+1723cf,vivo,Vivo,V9 6GB,Phone,1080x2280,480
+1724,vivo,Vivo,vivo 1724,Phone,720x1440,320
+1726,vivo,Vivo,vivo 1726,Phone,720x1520,320
+1727,vivo,Vivo,vivo 1727,Phone,1080x2280,480
+1727id,vivo,Vivo,V9,Phone,1080x2280,480
+1801,vivo,Vivo,Y71,Phone,1080x1920,480
+1802,vivo,Vivo,vivo 1802,Phone,720x1520,320
+1804,vivo,Vivo,vivo 1804,Phone,1080x2340,480
+1806,vivo,Vivo,vivo 1806,Phone,1080x2280,480
+1807,vivo,Vivo,vivo 1807,Phone,720x1520,320
+1808,vivo,Vivo,vivo 1808,Phone,720x1520,320
+1811,vivo,Vivo,vivo 1914,Phone,720x1520,320
+1812,vivo,Vivo,vivo 1812,Phone,720x1520,320
+1814,vivo,Vivo,vivo 1814,Phone,720x1520,320
+1815,vivo,Vivo,vivo 1815,Phone,720x1520,320
+1816,vivo,Vivo,vivo 1816,Phone,720x1520,320
+1817,vivo,Vivo,vivo 1817,Phone,720x1520,320
+1818,vivo,Vivo,vivo 1818,Phone,1080x2340,480
+1819,vivo,Vivo,vivo 1819,Phone,1080x2340,480
+1819n,vivo,Vivo,vivo 1819,Phone,1080x2340,480
+1820,vivo,Vivo,vivo 1820,Phone,720x1520,320
+1901,Coolpad,Coolpad,Cool6,Phone,1080x2340,480
+1901,vivo,Vivo,vivo 1901,Phone,720x1544,320
+1902,vivo,Vivo,vivo 2010,Phone,720x1544,320
+1902d,vivo,Vivo,Y17,Phone,720x1544,320
+1904,coolpad,Coolpad,1904,Phone,720x1520,320
+1904,vivo,Vivo,vivo 1904,Phone,720x1544,320
+1906,vivo,Vivo,vivo 1906,Phone,720x1544,320
+1907,vivo,Vivo,vivo 1907,Phone,1080x2340,480
+1907n,vivo,Vivo,vivo 1907,Phone,1080x2340,480
+1910,vivo,Vivo,vivo 1910,Phone,1080x2400,480
+1910n,vivo,Vivo,vivo 1910,Phone,1080x2400,480
+1915,vivo,Vivo,vivo 1915,Phone,1080x2340,480
+1919,vivo,Vivo,vivo 1919,Phone,1080x2400,480
+1920,vivo,Vivo,vivo 1920,Phone,1080x2340,480
+1930,vivo,Vivo,V1930,Phone,1080x2400,480
+1933,vivo,Vivo,vivo 1933,Phone,1080x2400,480
+1935,vivo,Vivo,vivo 1935,Phone,1080x2340,480
+1938,vivo,Vivo,vivo 2019,Phone,720x1560,320
+1951,vivo,Vivo,Z1 Pro,Phone,1080x2340,480
+2004,vivo,Vivo,X50,Phone,1080x2376,480
+2006,vivo,Vivo,X50 Pro,Phone,1080x2376,480
+2015,vivo,Vivo,vivo 2015_21,Phone,720x1520,320
+2018,iQOO,Vivo,iQOO Z5,Phone,1080x2400,440
+2018,vivo,Vivo,vivo 2018,Phone,1080x2400,440
+2023,vivo,Vivo,V2022,Phone,1080x2400,440
+2025,vivo,Vivo,V2025,Phone,1080x2400,440
+2026,vivo,Vivo,V2048,Phone,720x1600,300
+2027,vivo,Vivo,V2029_PK,Phone,720x1600,300;320
+2030,vivo,Vivo,V2030,Phone,1080x2408,440
+2034,vivo,Vivo,V2102,Phone,720x1600,300
+2036,vivo,Vivo,V2036_21,Phone,1080x2408,440
+2037,vivo,Vivo,V2038,Phone,720x1600,300
+2040,coolpad,Coolpad,Cool 10,Phone,720x1600,320
+2040,vivo,Vivo,V2040,Phone,1080x2400,440
+2041,vivo,Vivo,V2041,Phone,1080x2408,440
+2045,vivo,Vivo,V2045,Phone,1080x2376,440
+2046,vivo,Vivo,V2046,Phone,1080x2376,440
+2050,vivo,Vivo,V2050,Phone,1080x2404,440
+2058,vivo,Vivo,V2058,Phone,1080x2408,440
+2061,vivo,Vivo,V2061,Phone,1080x2400,440
+2105,vivo,Vivo,V2104,Phone,1080x2376,440
+2109,vivo,Vivo,V2109,Phone,1080x2408,440
+2110,vivo,Vivo,V2152,Phone,720x1600,300
+2111,vivo,Vivo,V2111,Phone,720x1600,300
+2116,vivo,Vivo,V2115,Phone,1080x2400,440
+2120,vivo,Vivo,V2118,Phone,720x1600,300
+2124,vivo,Vivo,V2124,Phone,1080x2408,440
+2126,vivo,Vivo,V2126,Phone,1080x2400,440
+2127,vivo,Vivo,V2127,Phone,1080x2408,440
+2130,vivo,Vivo,V2130,Phone,1080x2400,440
+2131,vivo,Vivo,V2140,Phone,720x1600,300
+2135,vivo,Vivo,V2143,Phone,1080x2408,440
+2149,vivo,Vivo,Y21A,Phone,720x1600,300
+2160,vivo,Vivo,Y30 5G,Phone,720x1600,300
+701so,Sony,Sony,Xperia XZ1,Phone,1080x1920,480
+702so,Sony,Sony,Xperia XZ2,Phone,1080x2160,480
+801so,Sony,Sony,Xperia XZ3,Phone,1440x2880,560
+802so,Sony,Sony,Xperia 1,Phone,1096x2560,420
+8227l_demo,alps,,,Tablet,600x1024,160
+8505xs,Lenovo,Lenovo,Lenovo Smrat Tab M8,Phone,800x1280,240
+901so,Sony,Sony,Xperia 5,Phone,1080x2520,420
+a001so,Sony,Sony,Xperia 10 II,Phone,1080x2520,420
+a01core,samsung,Samsung,Galaxy A01 Core,Phone,720x1480,320
+a01q,samsung,Samsung,Galaxy A01,Phone,720x1520,320
+a02,InFocus,Infocus,InFocus M7 Lite,Phone,720x1440,320
+a02,samsung,Samsung,Galaxy M02,Phone,720x1600,300
+a02q,samsung,Samsung,Galaxy M02s,Phone,720x1600,280
+a03,samsung,Samsung,Galaxy A03,Phone,720x1600,300
+a03s,samsung,Samsung,Galaxy A03s,Phone,720x1600,300
+a03su,samsung,Samsung,Galaxy A03s,Phone,720x1600,280;300
+a04,samsung,Samsung,Galaxy A04,Phone,720x1600,300
+a04e,samsung,Samsung,Galaxy A04e,Phone,720x1600,300
+a04s,samsung,Samsung,Galaxy A04s,Phone,720x1600,300
+a05m,samsung,Samsung,Galaxy A05,Phone,720x1600,300
+a05s,samsung,Samsung,Galaxy A05s,Phone,1080x2400,450
+a06,KXD,KXD mobile,A06,Phone,720x1612,320
+a06,samsung,Samsung,Galaxy A06,Phone,720x1600,300
+a06x,samsung,Samsung,Galaxy A06 5G,Phone,720x1600,300
+a07,KXD,KXD mobile,A07,Phone,720x1612,320
+a07,samsung,Samsung,Galaxy A07,Phone,720x1600,300
+a07x,samsung,Samsung,Galaxy A07 5G,Phone,720x1600,300
+a08,InFocus,Infocus,InFocus M7S,Phone,720x1440,320
+a08,KXD,KXD mobile,A08,Phone,720x1600,320
+a10,BESTTAB,BESTTAB,A10_NEU,Tablet,800x1280,160
+a10,Blackview,Blackview,Blackview A10,Phone,720x1280,320
+a10,CONTIXO,Contixo,A10,Tablet,800x1280,160
+a10,CUBOT,Cubot,A10,Phone,720x1612,272
+a10,Caxilysh,Caxilysh,A10,Tablet,800x1280,160
+a10,Concord,Concord,A10,Tablet,1200x1920,240
+a10,LAGENIO,LAGENIO,A10_EEA,Phone,576x1280,213
+a10,Lenovo,Lenovo,A10,Tablet,768x1368,160
+a10,PicassoTab,PicassoTab,PicassoTab_A10,Tablet,800x1280,180
+a10,SGIN,SGIN,A10,Tablet,800x1280,160
+a10,WE,Aamra WE,A10,Phone,480x800,240
+a10,iKU,IkuMobile,A10,Phone,600x1280,280
+a10,iYOU,iYOU,A10,Phone,480x960,200
+a10,samsung,Samsung,Galaxy A10,Phone,720x1520,280
+a100,Blackview,Blackview,A100,Phone,1080x2400,480
+a103so,Sony,Sony,Xperia 5 III,Phone,1080x2520,420
+a10s,Ainmel,Ainmel,A10S_EEA,Tablet,800x1280,160
+a10s,IKU,IkuMobile,A10s,Phone,720x1600,320
+a10s,X-TIGI,X-TIGI,A10S,Phone,720x1520,320
+a10s,samsung,Samsung,Galaxy A10s,Phone,720x1520,280
+a11,IKU,IkuMobile,A11,Phone,720x1600,320
+a11,KXD,KXD mobile,A11,Phone,720x1604,320
+a11,LAGENIO,LAGENIO,A11_V_EEA,Phone,720x1600,280
+a11,RebotAi,RebotAi,A11,Tablet,1600x2560,320
+a11,UMIDIGI,Umidigi,A11 EEA,Phone,720x1600,320
+a11q,samsung,Samsung,Galaxy A11,Phone,720x1560,280
+a12,IKU,IkuMobile,A12,Phone,720x1600,320
+a12,LAGENIO,LAGENIO,A12_EEA,Phone,720x1640,280
+a12,samsung,Samsung,Galaxy A12,Phone,720x1600,300
+a12s,samsung,Samsung,Galaxy A12,Phone,720x1600,300
+a12u,samsung,Samsung,Galaxy A12,Phone,720x1600,300
+a13,Jeazans,Jeazans,A13,Tablet,800x1280,160
+a13,Odea,Odea,A13_EEA,Tablet,1200x1920,280
+a13,UMIDIGI,Umidigi,A13,Phone,720x1650,320
+a13,samsung,Samsung,Galaxy A13,Phone,1080x2408,450
+a13ve,samsung,Samsung,Galaxy A13,Phone,1080x2408,450
+a13x,samsung,Samsung,Galaxy M13 5G,Phone,720x1600,300
+a14,samsung,Samsung,Galaxy A14,Phone,1080x2408,450
+a14m,samsung,Samsung,Galaxy A14,Phone,1080x2408,450
+a14xm,samsung,Samsung,Galaxy A14 5G,Phone,1080x2408,450
+a15,samsung,Samsung,Galaxy A15,Phone,1080x2340,450
+a15x,samsung,Samsung,Galaxy A15 5G,Phone,1080x2340,450
+a16,aigo,aigo,A16,Tablet,1200x2000,240
+a16,samsung,Samsung,Galaxy A16,Phone,1080x2340,450
+a1601,OPPO,Oppo,A1601,Phone,720x1280,320
+a1603,OPPO,Oppo,A1603,Phone,540x960,240
+a16c3h,Smartfren,Smartfren,A16C3H,Phone,480x854,240
+a16x,samsung,Samsung,Galaxy A16 5G,Phone,1080x2340,450
+a16xm,samsung,Samsung,Galaxy A16 5G,Phone,1080x2340,450
+a17,samsung,Samsung,Galaxy A17,Phone,1080x2340,450
+a170,Acepad,Acepad,A170,Tablet,1200x2000,280
+a170,INOI,INOI,INOI A72,Phone,720x1612,320
+a17x,samsung,Samsung,Galaxy Buddy5,Phone,1080x2340,450
+a20,BESTTAB,BESTTAB,A20_EEA,Tablet,1200x1920,280
+a20,Blackview,Blackview,A20,Phone,480x960,240
+a20,CUBOT,Cubot,A20,Phone,720x1600,260
+a20,ENV,ENV(EC),A20,Phone,720x1600,480
+a20,IKU,IkuMobile,A20,Phone,600x1280,280
+a20,TVB,TVB,A20,TV,2160x3840,320
+a20,WINTOUCH,Wintouch,A20,Tablet,800x1280,213
+a20,coolpad,Coolpad,A20,Phone,720x1612,320
+a20,samsung,Samsung,Galaxy A20,Phone,720x1560,280
+a202so,Sony,Sony,Xperia 10 IV,Phone,1080x2520,420
+a204so,Sony,Sony,Xperia 5 IV,Phone,1080x2520,450
+a20e,samsung,Samsung,Galaxy A20e,Phone,720x1560,320
+a20s,X-TIGI,X-TIGI,A20S,Phone,720x1560,320
+a20s,samsung,Samsung,Galaxy A20s,Phone,720x1560,280
+a21s,samsung,Samsung,Galaxy A21s,Phone,720x1600,280
+a22,HIKING,Hiking,A22,Phone,720x1560,320
+a22,samsung,Samsung,Galaxy A22,Phone,720x1600,300
+a22x,samsung,Samsung,Galaxy A22 5G,Phone,1080x2408,450
+a23,HIKING,Hiking,A23,Phone,1080x2340,480
+a23,HiKING,Hiking,A23,Phone,1080x2340,480
+a23,iKU,IkuMobile,A23,Phone,720x1560,320
+a23,samsung,Samsung,Galaxy A23,Phone,1080x2408,450
+a23ex,samsung,Samsung,Galaxy A23 5G,Phone,720x1560,300
+a23xq,samsung,Samsung,Galaxy A23 5G,Phone,1080x2408,450
+a24,Trident,Trident,A24,Phone,720x1612,320
+a24,Vortex,Vortex,A24,Phone,720x1600,280
+a24,samsung,Samsung,Galaxy A24,Phone,1080x2340,450
+a25ex,samsung,Samsung,Galaxy A25 5G,Phone,720x1600,300
+a25x,samsung,Samsung,Galaxy A25 5G,Phone,1080x2340,450
+a26x,samsung,Samsung,Galaxy A26 5G,Phone,1080x2340,450
+a27xq,samsung,Samsung,Galaxy A27 5G,Phone,1080x2340,450
+a2corelte,samsung,Samsung,Galaxy A2 Core,Phone,540x960,240
+a30,AvidPad,AvidPad,A30,Tablet,1200x1920,280
+a30,Blackview,Blackview,Blackview A30,Phone,1080x1920,480
+a30,CUBOT,Cubot,A30,Phone,720x1600,260
+a30,HIKING,Hiking,A30,Phone,1080x2460,480
+a30,Tibuta,Tibuta,A30,Tablet,800x1280,160
+a30,gloria,Gloria,A30,Phone,720x1600,320
+a30,iYOU,iYOU,A30,Phone,720x1600,320
+a30,samsung,Samsung,Galaxy A30,Phone,1080x2340,420
+a30c,samsung,Samsung,Galaxy A40s,Phone,720x1560,280
+a30s,samsung,Samsung,Galaxy A30s,Phone,720x1560,280
+a31,samsung,Samsung,Galaxy A31,Phone,1080x2400,420
+a32,samsung,Samsung,Galaxy A32,Phone,1080x2400,420
+a32x,samsung,Samsung,Galaxy M32 5G,Phone,720x1600,300
+a33g,samsung,Samsung,Galaxy A3,Phone,540x960,240
+a33w,OPPO,Oppo,A33w,Phone,540x960,240
+a33x,samsung,Samsung,Galaxy A33 5G,Phone,1080x2400,450
+a34x,samsung,Samsung,Galaxy A34 5G,Phone,1080x2340,450
+a35x,samsung,Samsung,Galaxy A35 5G,Phone,1080x2340,450
+a36xq,samsung,Samsung,Galaxy A36 5G,Phone,1080x2340,450
+a37,OPPO,Oppo,A37t,Phone,720x1280,320
+a37f,OPPO,Oppo,A37f,Phone,720x1280,320
+a37x,samsung,Samsung,Galaxy A37 5G,Phone,1080x2340,450
+a3core,samsung,Samsung,Galaxy A03 Core,Phone,720x1600,320
+a3xelte,samsung,Samsung,Galaxy A3(2016),Phone,720x1280,320
+a3y17lte,samsung,Samsung,Galaxy A3(2017),Phone,720x1280,320
+a42xq,samsung,Samsung,Galaxy M42 5G,Phone,720x1600,300
+a42xuq,samsung,Samsung,Galaxy A42 5G,Phone,720x1600,300
+a50,Blackview,Blackview,A50,Phone,720x1560,320
+a50,PAX,PAX (CN),A50,Phone,720x1440,320
+a50,WE,Aamra WE,A50,Phone,480x854,240
+a50,WINTOUCH,Wintouch,A50,Tablet,800x1280,160
+a50,gloria,Gloria,A50,Phone,720x1600,320
+a50,iKU,IkuMobile,A50,Phone,720x1600,320
+a50,samsung,Samsung,Galaxy A50,Phone,1080x2340,420
+a50s,samsung,Samsung,Galaxy A50s,Phone,1080x2340,420
+a51,HiKING,Hiking,A51,Phone,1080x2400,480
+a51,OPPO,Oppo,A51w,Phone,540x960,240
+a51,samsung,Samsung,Galaxy A51,Phone,1080x2400,420
+a51x,samsung,Samsung,Galaxy A51 5G,Phone,1080x2400,420
+a52q,samsung,Samsung,Galaxy A52,Phone,1080x2400,420
+a52sxq,samsung,Samsung,Galaxy A52s 5G,Phone,1080x2400,450
+a52xq,samsung,Samsung,Galaxy A52 5G,Phone,1080x2400,420
+a53x,samsung,Samsung,Galaxy A53 5G,Phone,1080x2376;1080x2388;1080x2400;1084x2412,450;480
+a54x,samsung,Samsung,Galaxy A54 5G,Phone,1080x2340,450
+a55x,samsung,Samsung,Galaxy A55 5G,Phone,1080x2340,450
+a56x,samsung,Samsung,Galaxy A56 5G,Phone,1080x2340,450
+a57,OPPO,Oppo,A57t,Phone,720x1280,320
+a57x,samsung,Samsung,Galaxy A57 5G,Phone,1080x2340,450
+a59,OPPO,Oppo,A59,Phone,720x1280,320
+a5lte,samsung,Samsung,Galaxy A5,Phone,720x1280,320
+a5xelte,samsung,Samsung,Galaxy A5(2016),Phone,1080x1920,480
+a5y17lte,samsung,Samsung,Galaxy A5(2017),Phone,1080x1920,480
+a60q,samsung,Samsung,Galaxy A60,Phone,1080x2340,420
+a6lte,samsung,Samsung,Galaxy A6,Phone,720x1480,320
+a6plte,samsung,Samsung,Galaxy A6+,Phone,1080x2220,420
+a6pltechn,samsung,Samsung,Galaxy A6+,Phone,1080x2220,420
+a7010a48,Lenovo,Lenovo,VIBE X3 Lite,Phone,1080x1920,480
+a70q,samsung,Samsung,Galaxy A70,Phone,1080x2400,420
+a71,samsung,Samsung,Galaxy A71,Phone,1080x2400,420
+a71x,samsung,Samsung,Galaxy A71 5G,Phone,1080x2400,420
+a72q,samsung,Samsung,Galaxy A72,Phone,1080x2400,450
+a73,OPPO,Oppo,A73,Phone,1080x2160,480
+a73t,OPPO,Oppo,A73t,Phone,1080x2160,480
+a73xq,samsung,Samsung,Galaxy A73 5G,Phone,1080x2400,450
+a79,OPPO,Oppo,A79,Phone,1080x2160,480
+a7_1,CONTIXO,Contixo,A7_1,Tablet,600x1024,160
+a7_pro,UMIDIGI,Umidigi,A7 Pro,Phone,1080x2340,480
+a7pro,Blackview,Blackview,A7PRO,Phone,720x1280,320
+a7xelte,samsung,Samsung,Galaxy A7(2016),Phone,1080x1920,480
+a7y17lte,samsung,Samsung,Galaxy A7(2017),Phone,1080x1920,420
+a7y18lte,samsung,Samsung,Galaxy A7 (2018),Phone,1080x2220,420
+a83,OPPO,Oppo,A83,Phone,720x1440,320
+a83t,OPPO,Oppo,A83t,Phone,720x1440,320
+a8sqlteks,samsung,Samsung,Galaxy A9 Pro,Phone,1080x2340,420
+a90,Blackview,Blackview,A90,Phone,720x1560,320
+a90,HIKING,Hiking,A90,Phone,720x1600,320
+a9xproltesea,samsung,Samsung,Galaxy A9 Pro,Phone,1080x1920,420
+a9y18qlte,samsung,Samsung,Galaxy A9 (2018),Phone,1080x2220,420
+a9y18qltechn,samsung,Samsung,Galaxy A9 2018,Phone,1080x2220,420
+advan_g2,ADVAN,Advan digital,G2,Phone,1080x1920,480
+advan_g3_pro,ADVAN,Advan digital,G3 Pro,Phone,720x1520,320
+advan_g5,ADVAN,Advan digital,G5,Phone,720x1520,320
+advan_g5_elite,ADVAN,Advan digital,G5 Elite,Phone,720x1560,320
+advan_g5_plus,ADVAN,Advan digital,G5 Plus,Phone,720x1600,320
+advan_g9,ADVAN,Advan digital,G9,Phone,720x1600,320
+advan_g_tab,ADVAN,Advan digital,G-Tab,Tablet,800x1280,213
+advan_gx,ADVAN,Advan digital,GX,Phone,720x1640,320
+advan_macha,ADVAN,ADVAN,S50,Phone,1080x2400,480
+advan_nasa_plus,ADVAN,Advan digital,NASA_Plus,Phone,480x960,240
+advan_sketsa3,ADVAN,ADVAN,Sketsa3,Tablet,800x1280,210
+advan_sketsa5,ADVAN,ADVAN,ADVAN_SKETSA5,Tablet,1200x2000,240
+advan_sketsa_2,ADVAN,Advan digital,ADVAN_SKETSA_2,Tablet,800x1280,213
+advan_tab_10,ADVAN,Advan digital,TAB_10,Phone,800x1280,240
+advan_tab_7,ADVAN,Advan digital,TAB 7,Phone,600x1024,213
+advan_tab_8,ADVAN,Advan digital,TAB 8,Phone,800x1280,240
+advan_tab_a10,ADVAN,ADVAN,ADVAN_TAB_A10,Tablet,800x1280,160
+advan_tab_a8,ADVAN,ADVAN,TAB A8,Tablet,800x1280,213
+advan_tab_gallilea,ADVAN,Advan digital,TAB Gallilea,Tablet,800x1280,213
+advan_tab_vx,ADVAN,Advan digital,TAB VX,Tablet,1200x2000,320
+advan_tab_vx_lite,ADVAN,ADVAN,VX_LITE,Tablet,1200x2000,320
+advan_vx_neo,ADVAN,ADVAN,VX NEO,Phone,800x1280,320
+advan_x1,ADVAN,ADVAN,ADVAN_X1,Phone,1080x2460,480
+advan_xtab,ADVAN,Advan digital,XTAB,Tablet,800x1280,200
+advannasapro,ADVAN,ADVAN,ADVANNASAPro,Phone,720x1560,320
+ae9240,benco,benco,AE9240,Phone,720x1640,320
+aeop520,benco,benco,AEOP520,Phone,720x1612,320
+aether,Redmi,Redmi,Redmi 12C,Phone,720x1650,320
+agta,Nokia,Nokia,Nokia T21,Tablet,1200x2000,280
+air,Redmi,Redmi,Redmi 13C 5G,Phone,720x1600,320
+air,STYLO,Stylo,AIR,Phone,480x960,200
+aito,motorola,Motorola,motorola razr 60,Phone,1080x2640,420
+akita,Trimble,Trimble Navigation,TSC710,Phone,800x1280,240
+akita,google,Google,Pixel 8a,Phone,1080x2400,420
+alicee,lge,LGE,LG G5 SE,Phone,1440x2560,640
+alioth,POCO,POCO,POCO F3,Phone,1080x2400,440
+alioth,Redmi,Redmi,Redmi K40,Phone,1080x2400,440
+alola_max,MTN,MTN,Alola_Max,Phone,576x1152,220
+alphaplus,lge,LGE,LG G8 ThinQ™,Phone,1440x3120,560
+amber,Quest,QUEST,Amber,Phone,480x960,213
+amber,Xiaomi,Xiaomi,Xiaomi 11T,Phone,1080x2400,440
+amber,Yandex,Yandex,YNDX-000SB,Phone,1080x2160,420
+amethyst,Redmi,Redmi,Redmi Note 14 Pro+ 5G,Phone,1220x2712,480
+angelica,Redmi,Redmi,Redmi 9C,Phone,720x1600,320
+angelican,Redmi,Redmi,Redmi 9C NFC,Phone,720x1600,320
+annibale,POCO,POCO,POCO F8 Pro,Phone,1156x2510,480
+annibale,Redmi,Redmi,REDMI K90,Phone,1156x2510,480
+ant,Nokia,Nokia,Nokia 1 Plus,Phone,480x960,213
+ant,TCL,TCL,TCL 505 S,Phone,720x1600,320
+apollo,Coolpad,Coolpad,Coolpad 3706AS,Phone,1080x2340,480
+apollo,Redmi,Redmi,Redmi K30S Ultra,Phone,1080x2400,440
+apollo,Xiaomi,Xiaomi,Mi 10T Pro,Phone,1080x2400,440
+arcfox,motorola,Motorola,motorola razr plus 2024,Phone,1080x2400,420
+arctic,POCO,POCO,POCO C81 Pro,Phone,720x1600,320
+arctic,Redmi,Redmi,REDMI A7 Pro,Phone,720x1600,320
+arctic,STYLO,Stylo,ARCTIC,Phone,720x1560,300
+ares_11_wifi,TCL,TCL,TCL TAB 11 Gen2,Tablet,1200x1920,320
+aristotle,Xiaomi,Xiaomi,Xiaomi 13T,Phone,1220x2712,480
+armor_8_pro,Ulefone,Ulefone,Armor 8 Pro,Phone,720x1560,320
+arp,HMD,HMD,HMD CREST MAX,Phone,1080x2400,400
+aruba,Lenovo,Motorola,Lenovo K14,Phone,720x1600,280
+aruba,motorola,Motorola,moto e20,Phone,720x1600,280
+astarqlte,samsung,Samsung,Galaxy A8 Star,Phone,1080x2220,420
+astarqlteskt,samsung,Samsung,Galaxy A8 Star,Phone,1080x2220,420
+astech_s7,ASTECH,ASTECH,Astech S7,Phone,720x1612,280
+asteroids,Nothing,Nothing,Nothing Phone (3a) Pro,Phone,1080x2392,420
+asus_ai2201,asus,Asus,ROG Phone 6 series,Phone,1080x2448,420
+asus_ai2202,asus,Asus,Zenfone 9,Phone,1080x2400,440
+asus_ai2203,asus,Asus,ROG Phone 6D Ultimate,Phone,1080x2448,420
+asus_ai2205,asus,Asus,ROG Phone 7 series,Phone,1080x2448,420
+asus_ai2302,asus,Asus,Zenfone 10,Phone,1080x2400,440
+asus_ai2401,asus,Asus,Zenfone 11 Ultra,Phone,1080x2400,420
+asus_i001_1,asus,Asus,ROG Phone II,Tablet,900x1600,240
+asus_i003_1,asus,Asus,ROG Phone 3,Phone,1080x2340,420
+asus_i005_1,asus,Asus,ROG Phone 5 series,Phone,1080x2448,420
+asus_i006d,asus,Asus,Zenfone 8,Phone,1080x2400,440
+asus_i01wd,asus,Asus,ZenFone 6 (ZS630KL) (WW) / 6Z (ZS630KL) (IN),Phone,1080x2340,420
+asus_x008_1,asus,Asus,ZenFone 3 Max (ZC520TL),Phone,720x1280,320
+asus_x00dd,asus,Asus,ZenFone 3 Max (ZC553KL),Phone,1080x1920,480
+asus_x00hd_1,asus,Asus,ZenFone 4 Max (ZC520KL),Phone,720x1280,320
+asus_x00idc,asus,Asus,ZenFone 4 Max (ZC554KL),Phone,720x1280,320
+asus_x00ld_1,asus,Asus,ZenFone 4 Selfie (ZD553KL),Phone,720x1280,320
+asus_x00p_6,asus,Asus,ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL),Phone,720x1440,320
+asus_x00qd,asus,Asus,ZenFone 5 (ZE620KL),Phone,1080x2246,480
+asus_x00r_2,asus,Asus,ZenFone Live L1 (ZA550KL),Phone,720x1440,320
+asus_x00r_5,asus,Asus,ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL),Phone,720x1440,320
+asus_x00r_6,asus,Asus,ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL),Phone,720x1440,320
+asus_x00t_2,asus,Asus,ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN),Phone,1080x2160,480
+asus_x00t_3,asus,Asus,ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN),Phone,1080x2160,480
+asus_x00t_6,asus,Asus,ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN),Phone,1080x2160,480
+asus_x017d_2,asus,Asus,ZenFone 5 Lite (ZC600KL),Phone,1080x2160,480
+asus_x018_1,asus,Asus,ZenFone Max Plus M1 (ZB570TL),Phone,720x1440,320
+asus_x01a_1,asus,Asus,ZenFone Max M2 (ZB633KL) (WW) / Max M2 (ZB632KL) (IN),Phone,720x1520,320
+asus_x01bd_2,asus,Asus,ZenFone Max Pro M2 (ZB631KL) (WW) / Max Pro M2 (ZB630KL) (IN),Phone,1080x2280,480
+asus_z00u_1,asus,Asus,ZenFone Selfie (ZD551KL),Phone,1080x1920,480
+asus_z010,asus,Asus,ZenFone Max (ZC550KL),Phone,720x1280,320
+asus_z012d,asus,Asus,ZenFone 3 (ZE552KL),Phone,1080x1920,480
+asus_z017d_1,asus,Asus,ZenFone 3 (ZE520KL),Phone,1080x1920,480
+asus_z01h_1,asus,Asus,ZenFone 3 Zoom (ZE553KL),Phone,1080x1920,480
+asus_z01r_1,asus,Asus,ZenFone 5Z (ZS620KL) (WW) / 5Z (ZS621KL) (IN),Phone,1080x2246,420
+asusai2501,asus,Asus,ROG Phone 9 Pro,Phone,1080x2400,420
+atmos,Redmi,Redmi,Redmi 13C 5G,Phone,720x1600,320
+aurora,STYLO,Stylo,AURORA,Phone,480x1014,213
+aurora,Xiaomi,Xiaomi,Xiaomi 14 Ultra,Phone,1440x3200,560
+aurora,google,Google,Pixel Watch 2,Wearable,384x384,320
+austin,TCL,TCL,TCL 20 SE,Phone,720x1640,320
+austin,motorola,Motorola,moto g 5G (2022),Phone,720x1600,280
+avatrn,motorola,Motorola,motorola edge 2024,Phone,1080x2400,400
+b0q,samsung,Samsung,Galaxy S22 Ultra,Phone,1440x3088;900x1600;900x1920,240;450
+b0s,samsung,Samsung,Galaxy S22 Ultra,Phone,1440x3088,450
+b2q,samsung,Samsung,Galaxy Z Flip3 5G,Phone,1080x2640,480
+b4q,samsung,Samsung,Galaxy Z Flip4,Phone,1080x2640,480
+b5q,samsung,Samsung,Galaxy Z Flip5,Phone,1080x2640,480
+b6q,samsung,Samsung,Galaxy Z Flip6,Phone,1080x2640,480
+b7r,samsung,Samsung,Galaxy Z Flip7 FE,Phone,1080x2640,480
+b7s,samsung,Samsung,Galaxy Z Flip7,Phone,1080x2520,480
+b8s,samsung,Samsung,Galaxy Z Flip8,Phone,1080x2520,480
+bangkk,motorola,Motorola,moto g84 5G,Phone,1080x2400,400
+barbet,google,Google,Pixel 5a 5G,Phone,1080x2400,420
+bbb100,blackberry,BlackBerry,KEYone,Phone,1080x1620,420
+bbc100,blackberry,BlackBerry,Aurora,Phone,720x1280,320
+begonia,Redmi,Redmi,Redmi Note 8 Pro,Phone,1080x2340,440
+berlna,motorola,Motorola,motorola edge (2021),Phone,1080x2460,400
+beryl,POCO,POCO,POCO M7 Pro 5G,Phone,1080x2400,450
+beryl,Redmi,Redmi,Redmi Note 14 5G,Phone,1080x2400,450
+beryllium,Xiaomi,Xiaomi,POCO F1,Phone,1080x2246,440
+beyond0,samsung,Samsung,Galaxy S10e,Phone,1080x2280,480
+beyond0q,samsung,Samsung,Galaxy S10e,Phone,1080x2280,480
+beyond1,samsung,Samsung,Galaxy S10,Phone,1440x3040,420
+beyond1q,samsung,Samsung,Galaxy S10,Phone,1440x3040,420
+beyond2,samsung,Samsung,Galaxy S10+,Phone,1440x3040,420
+beyond2q,samsung,Samsung,Galaxy S10+,Phone,1440x3040,420
+beyondx,samsung,Samsung,Galaxy S10 5G,Phone,1440x3040,420
+blackjack,motorola,Motorola,moto g(8) power lite,Phone,720x1600,260
+blazer,google,Google,Pixel 10 Pro,Phone,1280x2856,480
+blk-l09,iotapk,iotapk,HONOR CHOICE T10,Phone,720x1600,280
+bloomq,samsung,Samsung,Galaxy Z Flip,Phone,1080x2636,480
+blue,POCO,POCO,POCO C61,Phone,720x1650,320
+blue,Redmi,Redmi,Redmi A3,Phone,720x1650,320
+bluejay,google,Google,Pixel 6a,Phone,1080x2400,420
+blueline,google,Google,Pixel 3,Phone,1080x1920;1080x2160,240;440
+bogota,motorola,Motorola,moto g56 5G,Phone,1080x2400,390
+bol,KDDI,Sharp,AQUOS sense6s,Phone,1080x2432,440
+bonito,google,Google,Pixel 3a XL,Phone,1080x2160,400
+bramble,google,Google,Pixel 4a (5G),Phone,1080x2340,420
+c1q,samsung,Samsung,Galaxy Note20 5G,Phone,1080x2400,450
+c1s,samsung,Samsung,Galaxy Note20,Phone,1080x2400,450
+c2q,samsung,Samsung,Galaxy Note20 Ultra 5G,Phone,1440x3088,420
+c2s,samsung,Samsung,Galaxy Note20 Ultra 5G,Phone,1440x3088,420
+c35,OUKITEL,Oukitel,C35_EEA,Phone,720x1612,320
+c51,OUKITEL,Oukitel,C51_EEA,Phone,720x1600,320
+c7ltechn,samsung,Samsung,Galaxy C7,Phone,1080x1920,420
+c7proltechn,samsung,Samsung,Galaxy C7 Pro,Phone,1080x1920,420
+c9lte,samsung,Samsung,Galaxy C9 Pro,Phone,1080x1920,420
+c9ltechn,samsung,Samsung,Galaxy C9 Pro,Phone,1080x1920,420
+cactus,xiaomi,Xiaomi,Redmi 6A,Phone,720x1440,320
+caiman,google,Google,Pixel 9 Pro,Phone,1280x2856,480
+camellian,POCO,POCO,POCO M3 Pro 5G,Phone,1080x2400,440
+camellian,Redmi,Redmi,Redmi Note 10 5G,Phone,1080x2400,440
+cancunf,motorola,Motorola,moto g64 5G,Phone,1080x2400,400
+cannong,Redmi,Redmi,Redmi Note 9T,Phone,1080x2340,440
+cap_sprout,Nokia,Nokia,Nokia 5.3,Phone,720x1600,280
+cattail,Redmi,Redmi,Redmi 9,Phone,720x1600,320
+caymanlm,lge,LGE,VELVET,Phone,1080x2460,420
+cebu,Lenovo,Motorola,Lenovo K12 Pro,Phone,720x1640,280
+cebu,OnePlus,OnePlus,C00,TV,1080x1920,320
+cebu,motorola,Motorola,moto g(9) power,Phone,720x1640,280
+cepheus,Xiaomi,Xiaomi,MI 9,Phone,1080x2340,440
+cereus,xiaomi,Redmi,Redmi 6,Phone,720x1440,320
+chagall,Xiaomi,Xiaomi,Xiaomi 17T,Phone,1268x2756,520
+charoite,Redmi,Redmi,REDMI Note 15 Pro,Phone,1080x2392,450
+cheetah,DeutscheTelekom,Deutsche Telekom,T Phone 2 Pro,Phone,1080x2436,480
+cheetah,google,Google,Pixel 7 Pro,Phone,1440x3120,560
+chiron,Xiaomi,Xiaomi,MIX 2,Phone,1080x2160,440
+chopin,POCO,Redmi,Redmi Note 10 Pro,Phone,1080x2400,440
+chopin,Redmi,Redmi,Redmi Note 10 pro,Phone,1080x2248,480
+citrine,POCO,POCO,Poco M7 Pro 5G,Phone,1080x2400,450
+citrine,Redmi,Redmi,Redmi Note 14 5G,Phone,1080x2400,450
+citrus,POCO,POCO,POCO M3,Phone,1080x2340,440
+cloud,Redmi,Redmi,Redmi A2,Phone,720x1600,320
+clover,Xiaomi,Xiaomi,MI PAD 4,Phone,1080x1920,480
+clover,coolpad,Coolpad,Coolpad COR-I0,Phone,1080x1920,480
+clover,vsmart,Vsmart,Bee 3,Phone,720x1440,320
+cmi,Xiaomi,Xiaomi,Mi 10 Pro,Phone,1080x2376;1080x2388;1084x2412;1256x2760;720x1600,320;480;540
+comet,STYLO,Stylo,Comet,Phone,480x960,200
+comet,google,Google,Pixel 9 Pro Fold,Tablet,2076x2152,390
+coral,google,Google,Pixel 4 XL,Phone,1440x3040,560
+corot,Redmi,Redmi,Redmi K60 Ultra,Phone,1220x2712,480
+corot,Xiaomi,Xiaomi,Xiaomi 13T Pro,Phone,1220x2712,480
+cos,Nokia,Nokia,Nokia C20,Phone,720x1600,280
+courbet,Xiaomi,Xiaomi,Mi 11 Lite,Phone,1080x2400,440
+cp08_j1,FPD,FPD,CP08_J1,Tablet,1200x1920,280
+cpad10,Callsky,Callsky,Cpad10,Tablet,800x1280,160
+cpad10,Callsky-tab,Callsky,Cpad10,Tablet,800x1280,160
+cph1605,OPPO,Oppo,CPH1605,Phone,720x1280,320
+cph1607,OPPO,Oppo,R9s,Phone,1080x1920,480
+cph1609,OPPO,Oppo,CPH1609fw,Phone,1080x1920,480
+cph1613,OPPO,Oppo,CPH1613,Phone,1080x1920,480
+cph1701,OPPO,Oppo,CPH1701,Phone,720x1280,320
+cph1717,OPPO,Oppo,CPH1717,Phone,720x1280,320
+cph1719,OPPO,Oppo,CPH1719,Phone,1080x2160,480
+cph1723,OPPO,Oppo,CPH1723,Phone,1080x2160,480
+cph1725,OPPO,Oppo,CPH1725,Phone,1080x2160,480
+cph1727,OPPO,Oppo,CPH1727,Phone,1080x2160,480
+cph1729,OPPO,Oppo,CPH1729,Phone,720x1440,320
+cph1801,OPPO,Oppo,CPH1801,Phone,720x1280,320
+cph1803,OPPO,Oppo,CPH1803RU,Phone,720x1520,320
+cph1819,OPPO,Oppo,F7,Phone,1080x2280,480
+cph1821,OPPO,Oppo,F7,Phone,1080x2280,480
+cph1823,OPPO,Oppo,F9,Phone,1080x2340,480
+cph1825,OPPO,Oppo,F9,Phone,1080x2340,480
+cph1835,OPPO,Oppo,R15,Phone,1080x2280,480
+cph1851,OPPO,Oppo,CPH1851,Phone,720x1520,320
+cph1853,OPPO,Oppo,A3s,Phone,720x1520,320
+cph1859,OPPO,Oppo,realme 1,Phone,1080x2160,480
+cph1871,OPPO,Oppo,Find X,Phone,1080x2340,480
+cph1877,OPPO,Oppo,R17 Pro,Phone,1080x2340,480
+cph1879,OPPO,Oppo,R17,Phone,1080x2340,480
+cph1893,OPPO,Oppo,CPH1893RU,Phone,1080x2340,480
+cph1901,OPPO,Oppo,A7,Phone,720x1520,320
+cph1903,OPPO,Oppo,AX7,Phone,720x1520,320
+cph1909,OPPO,Oppo,CPH1909,Phone,720x1520,320
+cph1920,OPPO,Oppo,AX5s,Phone,720x1520,320
+creek,POCO,POCO,POCO M7,Phone,1080x2340,450
+creek,Redmi,Redmi,Redmi 15,Phone,1080x2340,450
+crosshatch,google,Google,Pixel 3 XL,Phone,1440x2960,560
+crownlte,samsung,Samsung,Galaxy Note9,Phone,1440x2960,420
+crownlteks,samsung,Samsung,Galaxy Note9,Phone,1440x2960,420
+crownqltechn,samsung,Samsung,Galaxy Note9,Phone,1440x2960,420
+crownqltesq,samsung,Samsung,Galaxy Note9,Phone,1440x2960,420
+crownqlteue,samsung,Samsung,Galaxy Note9,Phone,1440x2960,420
+cruze_lite_s,Sharp,TCL,AQUOS V6,Phone,720x1600,320
+cruze_lite_s,TCL,TCL,TCL 306,Phone,720x1600,320
+cruze_pro,Alcatel,TCT (Alcatel),Alcatel 5H Plus,Phone,720x1600,320
+cruze_pro,Sharp,TCL,AQUOS V6 plus,Phone,720x1600,320
+cruze_pro,TCL,TCL,TCL 30 SE,Phone,720x1600,320
+cupid,Xiaomi,Xiaomi,Xiaomi 12,Phone,1080x2400,440
+curtana,Redmi,Redmi,Redmi Note 9S,Phone,1080x2400,440
+cuscoi,motorola,Motorola,motorola edge 50 fusion,Phone,1080x2400,400
+cybert,motorola,Motorola,motorola edge 60 pro,Phone,1220x2712,450
+d0068,DIGIT,Digit,D0068,Phone,720x1600,320
+d1,Kozen,kozen,D1,Phone,720x1600,320
+d1,Maximus,Maximus,D1,Phone,720x1280,320
+d1,samsung,Samsung,Galaxy Note10,Phone,1080x2280,420
+d1q,samsung,Samsung,Galaxy Note10,Phone,1080x2280,420
+d1x,samsung,Samsung,Galaxy Note10 5G,Phone,1080x2280,420
+d2q,samsung,Samsung,Galaxy Note10+,Phone,1440x3040,420
+d2s,samsung,Samsung,Galaxy Note10+,Phone,1440x3040,420
+d2x,samsung,Samsung,Galaxy Note10+ 5G,Phone,1440x3040,420
+d2xq,samsung,Samsung,Galaxy Note10+ 5G,Phone,1440x3040,420
+d2xq2,samsung,Samsung,Galaxy Note10+ 5G,Phone,1440x3040,420
+d360,SEUIC,Seuic,AUTOIDQ9,Phone,480x800,240
+d500b,SEUIC,Seuic,AUTOID9N,Phone,480x800,240
+d550,SEUIC,Seuic,AUTOIDQ9G,Phone,480x800,240
+dada,Xiaomi,Xiaomi,Xiaomi 15,Phone,1200x2670,520
+daisy_sprout,xiaomi,Xiaomi,Mi A2 Lite,Phone,1080x2280,480
+dandelion,Redmi,Redmi,Redmi 10A,Phone,720x1600,320
+dandelion,ZTE,ZTE,Zmax 3,Phone,1080x1920,480
+dash,POCO,POCO,POCO X8 Pro Max,Phone,1280x2772,520
+dash,Redmi,Redmi,REDMI Turbo 5 Max,Phone,1280x2772,520
+dash,STYLO,Stylo,STYLO_DASH,Phone,480x854,200
+davinci,NIO,NIO,N2301,Phone,1440x3200,600
+davinci,Xiaomi,Redmi,Redmi K20,Phone,1080x2340,440
+dedede_cheets,google,Google,Intel Jasper Lake Chromebook,Chromebook,1080x1920,160
+degas,Xiaomi,Xiaomi,Xiaomi 14T,Phone,1220x2712,520
+denver,motorola,Motorola,moto g stylus 5G,Phone,1080x2400,400
+dew,POCO,POCO,POCO C85,Phone,720x1600,320
+dew,Redmi,Redmi,Redmi 15C,Phone,720x1600,320
+dipper,Xiaomi,Xiaomi,MI 8,Phone,1080x2248,440
+diting,Redmi,Xiaomi,Xiaomi 12T Pro,Phone,1220x2712,480
+diting,Xiaomi,Xiaomi,Xiaomi 12T Pro,Phone,1220x2712,480
+dizi,POCO,POCO,POCO Pad,Tablet,1600x2560,320
+dizi,Redmi,Redmi,Redmi Pad Pro,Tablet,1600x2560,320
+dm1q,samsung,Samsung,Galaxy S23,Phone,1080x2340,480
+dm2q,samsung,Samsung,Galaxy S23+,Phone,1080x2340,450
+dm3q,samsung,Samsung,Galaxy S23 Ultra,Phone,1440x3088,450
+drd,Nokia,Nokia,Nokia 5.4,Phone,720x1560,280
+drd_sprout,Nokia,Nokia,Nokia 5.4,Phone,720x1560,280
+drda_sprout,Nokia,Nokia,Nokia 5.4,Phone,720x1560,280
+dream2lte,samsung,Samsung,Galaxy S8+,Phone,1080x2220;1440x2960,420
+dream2lteks,samsung,Samsung,Galaxy S8+,Phone,1440x2960,420
+dream2qltechn,samsung,Samsung,Galaxy S8+,Phone,1440x2960,420
+dream2qltesq,samsung,Samsung,Galaxy S8+,Phone,1440x2960,420
+dream2qlteue,samsung,Samsung,Galaxy S8+,Phone,1440x2960,420
+dreamlte,samsung,Samsung,Galaxy S8,Phone,1080x2220;1440x2960,480
+dreamlteks,samsung,Samsung,Galaxy S8,Phone,1440x2960,480
+dreamqltechn,samsung,Samsung,Galaxy S8,Phone,1440x2960,480
+dreamqltesq,samsung,Samsung,Galaxy S8,Phone,1440x2960,480
+drg_sprout,Nokia,Nokia,Nokia 6.1 Plus,Phone,1080x2280,420
+ds_bd2,DCODE,Dcode,DS_BD2,Phone,720x1600,320
+dsb0230,Doro,Doro,DSB-0230,Phone,720x1440,320
+duchamp,POCO,POCO,POCO X6 Pro 5G,Phone,1220x2712,480
+duchamp,Redmi,Redmi,Redmi K70E,Phone,1220x2712,480
+e1,Olike,Olike,E1,Tablet,800x1280,213
+e1q,lge,LGE,Spree,Phone,480x854,240
+e1q,samsung,Samsung,Galaxy S24,Phone,1080x2340,480
+e1s,samsung,Samsung,Galaxy S24,Phone,1080x2340,480
+e2q,samsung,Samsung,Galaxy S24+,Phone,1440x3120,450
+e2s,samsung,Samsung,Galaxy S24+,Phone,1440x3120,450
+e3,ILA,iLa Mobile,E3,Phone,480x960,240
+e3,MAXHUB,MAXHUB,E3,Tablet,2160x3840,480
+e3,Olike,Olike,E3,Phone,1080x2248,480
+e3,redbeat,redbeat,E3,Phone,720x1612,320
+e3q,samsung,Samsung,Galaxy S24 Ultra,Phone,1440x3120,450
+e73g,samsung,Samsung,Galaxy E7,Phone,720x1280,320
+earth,POCO,POCO,POCO C55,Phone,720x1650,320
+earth,Redmi,Redmi,Redmi 12C,Phone,720x1650,320
+ellis,motorola,Motorola,moto g pure,Phone,720x1600,280
+elsa,KDDI,LGE,V20,Phone,1440x2560,640
+elsa,lge,LGE,V20,Phone,1440x2560,640
+emerald,POCO,POCO,POCO M6 Pro,Phone,1080x2400,440
+emerald,Redmi,Redmi,Redmi Note 13 Pro,Phone,1080x2400,440;450
+emerald,eSSL,eSSL,Emerald,Phone,600x1024,213
+emu64xa,google,Google,emulator,Phone,1080x2400,420
+eos,Redmi,Redmi,Redmi 10 2022,Phone,1080x2400,440
+eos,google,Google,Pixel Watch 2,Wearable,384x384,320
+equuleus,Xiaomi,Xiaomi,MI  8  Pro,Phone,1080x2248,440
+erhu,Redmi,Redmi,REDMI Pad 2 9.7 4G,Tablet,1280x2048,280
+evergreen,POCO,POCO,POCO M4 Pro 5G,Phone,1080x2400,440
+f13,HOOZO,Hoozo,F13,Tablet,800x1280,160
+f1f,OPPO,Oppo,F1w,Phone,720x1280,320
+f2q,samsung,Samsung,Galaxy Z Fold2 5G,Phone,1768x2208,480
+f42x,samsung,Samsung,Galaxy F42 5G,Phone,1080x2408,450
+felix,google,Google,Pixel Fold,Tablet,1840x2208,420
+fire,Admiral,Admiral Overseas Corporation,Fire,Tablet,600x1024,160
+fire,Redmi,Redmi,Redmi 12,Phone,1080x2460,440
+fire,Turbo-X,Plaisio,Fire,Tablet,800x1280,160
+flame,POCO,POCO,POCO M7 5G,Phone,720x1640,320
+flame,Redmi,Redmi,Redmi 14C 5G,Phone,720x1640,320
+flame,google,Google,Pixel 4,Phone,1080x2280,440
+flare,Redmi,Redmi,Redmi Pad SE 8.7,Tablet,800x1340,213
+fleur,POCO,POCO,POCO M4 Pro,Phone,1080x2400,440
+fleur,Redmi,Redmi,Redmi Note 11S,Phone,1080x2400,440
+flex_2,VGO_TEL,Vgo Tel,Flex_2,Phone,720x1612,320
+flourite,POCO,POCO,POCO M8 Pro 5G,Phone,1280x2772,520
+flourite,Redmi,Redmi,REDMI Note 15 Pro+5G,Phone,1280x2772,520
+flute,POCO,POCO,POCO Pad M1,Tablet,1600x2560,320
+flute,Redmi,Redmi,Redmi Pad 2 Pro,Tablet,1600x2560,320
+fog,Redmi,Redmi,Redmi 10C,Phone,720x1650,320
+fogo,motorola,Motorola,moto g 5G - 2024,Phone,720x1612,280
+fogona,motorola,Motorola,moto g play - 2024,Phone,720x1600,280
+fogorow,motorola,Motorola,moto g24 power,Phone,720x1612,280
+fogos,motorola,Motorola,moto g34 5G,Phone,720x1600,280
+frankel,google,Google,Pixel 10,Phone,1080x2424,420
+franklin,Droidlogic,,,Tablet,1080x1920,240
+fuxi,Xiaomi,Xiaomi,Xiaomi 13,Phone,1080x2400,440
+g0530ww,BLU,Blu,G91 Pro,Phone,1080x2400,480
+g0q,samsung,Samsung,Galaxy S22+,Phone,1080x2340,450
+g3226,Sony,Sony,Xperia XA1 Ultra,Phone,1080x1920,480
+g5,ELEVATE,Elevate,LUNA G5,Phone,720x1560,320
+g5,G-TAB,G-Tab,G5,Phone,600x1024,213
+g6e,LUNA,LUNA,LUNA_G6E,Phone,720x1520,320
+g8142,Sony,Sony,Xperia XZ Premium,Phone,1080x1920,480
+gale,POCO,POCO,POCO C65,Phone,720x1600,320
+gale,Redmi,Redmi,Redmi 13C,Phone,720x1600,320
+garnet,POCO,POCO,POCO X6 5G,Phone,1220x2712,480
+garnet,Redmi,Redmi,Redmi Note 13 Pro 5G,Phone,1220x2712,480
+gauguin,Xiaomi,Xiaomi,Mi 10T Lite,Phone,1080x2400,440
+gauguinpro,Redmi,Redmi,Redmi Note 9 pro,Phone,1080x2400,440
+gemini,KOOLMAAX,KOOLMAAX,GEMINI,Phone,480x960,220
+gemini,Xiaomi,Xiaomi,Mi 5,Phone,1080x1920,480
+ginkgo,Xiaomi,,,Phone,1256x2760,540
+ginkgo,xiaomi,Redmi,Redmi Note 8,Phone,1080x2340,440
+gmr,Nokia,Nokia,Nokia C3,Phone,720x1440,280
+gold,Redmi,Redmi,Redmi Note 13R Pro,Phone,1080x2400,440
+goya,Xiaomi,Xiaomi,Xiaomi 15T,Phone,1280x2772,520
+goyave3gsea,samsung,Samsung,Galaxy Tab Plus 7.0,Tablet,600x1024,160
+gracelte,samsung,Samsung,Galaxy Note7,Phone,1440x2560,560
+gracerlte,samsung,Samsung,Galaxy Note Fan Edition,Phone,1440x2560,420
+grandpplte,samsung,Samsung,Galaxy J2 Prime,Phone,540x960,240
+greatlte,samsung,Samsung,Galaxy Note8,Phone,1080x2220;1440x2960,420
+greatlteks,samsung,Samsung,Galaxy Note8,Phone,1440x2960,420
+greatqlte,samsung,Samsung,Galaxy Note8,Phone,1440x2960,420
+greatqltechn,samsung,Samsung,Galaxy Note8,Phone,1440x2960,420
+grus,Xiaomi,Xiaomi,MI 9 SE,Phone,1080x2340,480
+gt5note8lte,samsung,Samsung,Galaxy Tab A,Tablet,768x1024,160
+gta11,samsung,Samsung,Galaxy Tab A11,Tablet,800x1340,213
+gta11p,samsung,Samsung,Galaxy Tab A11+ 5G,Tablet,1200x1920,240
+gta11pwifi,samsung,Samsung,Galaxy Tab A11+,Tablet,1200x1920,240
+gta11wifi,samsung,Samsung,Galaxy Tab A11,Tablet,800x1340,213
+gta2slte,samsung,Samsung,Galaxy Tab A (2017),Tablet,800x1280,213
+gta2xllte,samsung,Samsung,"Galaxy Tab A (2018, 10.5)",Tablet,1200x1920,240
+gta2xlwifi,samsung,Samsung,"Galaxy Tab A (2018, 10.5)",Tablet,1200x1920,240
+gta3xl,samsung,Samsung,Galaxy Tab A,Tablet,1200x1920,240
+gta3xlwifi,samsung,Samsung,Galaxy Tab A,Tablet,1200x1920,240
+gta4l,samsung,Samsung,Galaxy Tab A7,Tablet,1200x2000,240
+gta4lwifi,samsung,Samsung,Galaxy Tab A7,Tablet,1200x2000,240
+gta4xl,samsung,Samsung,Galaxy Tab S6 Lite,Tablet,1200x2000,240
+gta4xlswifi,samsung,Samsung,Galaxy Tab S6 Lite,Tablet,1200x2000,240
+gta4xlve,samsung,Samsung,Galaxy Tab S6 Lite,Tablet,1200x2000,240
+gta4xlvewifi,samsung,Samsung,Galaxy Tab S6 Lite,Tablet,1200x2000,240
+gta4xlwifi,samsung,Samsung,Galaxy Tab S6 Lite,Tablet,1200x2000,240
+gta7lite,samsung,Samsung,Galaxy Tab A7 Lite,Tablet,800x1340,213
+gta7litewifi,samsung,Samsung,Galaxy Tab A7 Lite,Tablet,800x1340,213
+gta8,samsung,Samsung,Galaxy Tab A8,Tablet,1200x1920,240
+gta8wifi,samsung,Samsung,Galaxy Tab A8,Tablet,1200x1920,240
+gta9,samsung,Samsung,Galaxy Tab A9,Tablet,800x1340,213
+gta9p,samsung,Samsung,Galaxy Tab A9+ 5G,Tablet,1200x1920,240
+gta9pwifi,samsung,Samsung,Galaxy Tab A9+,Tablet,1200x1920,240
+gta9wifi,samsung,Samsung,Galaxy Tab A9,Tablet,800x1340,213
+gtactive3,samsung,Samsung,Galaxy Tab Active3,Tablet,1200x1920,320
+gtactive5,samsung,Samsung,Galaxy Tab Active5 5G,Tablet,1200x1920,320
+gtanotexllte,samsung,Samsung,Galaxy Tab A (2016) with S Pen,Tablet,1200x1920,240
+gtexslte,samsung,Samsung,Galaxy Tab A 7.0,Tablet,800x1280,213
+gto,samsung,Samsung,"Galaxy Tab A (8.0"", 2019)",Tablet,800x1280,213
+gtowifi,samsung,Samsung,Galaxy Tab A Kids Edition,Tablet,800x1280,213
+gts10fe,samsung,Samsung,Galaxy Tab S10 FE 5G,Tablet,1440x2304,280
+gts10fep,samsung,Samsung,Galaxy Tab S10 FE+ 5G,Tablet,1800x2880,320
+gts10fepwifi,samsung,Samsung,Galaxy Tab S10 FE+,Tablet,1800x2880,320
+gts10fewifi,samsung,Samsung,Galaxy Tab S10 FE,Tablet,1440x2304,280
+gts10lite,samsung,Samsung,Galaxy Tab S10 Lite 5G,Tablet,1320x2112,240
+gts10litewifi,samsung,Samsung,Galaxy Tab S10 Lite,Tablet,1320x2112,240
+gts10p,samsung,Samsung,Galaxy Tab S10+ 5G,Tablet,1752x2800,320
+gts10pwifi,samsung,Samsung,Galaxy Tab S10+,Tablet,1752x2800,320
+gts10u,samsung,Samsung,Galaxy Tab S10 Ultra 5G,Tablet,1848x2960,280
+gts10uwifi,samsung,Samsung,Galaxy Tab S10 Ultra,Tablet,1848x2960,280
+gts11,samsung,Samsung,Galaxy Tab S11 5G,Tablet,1600x2560,340
+gts11u,samsung,Samsung,Galaxy Tab S11 Ultra 5G,Tablet,1848x2960,280
+gts11wifi,samsung,Samsung,Galaxy Tab S11,Tablet,1600x2560,340
+gts210lte,samsung,Samsung,Galaxy Tab S2,Tablet,1536x2048,320
+gts210velte,samsung,Samsung,Galaxy Tab S2,Tablet,1536x2048,320
+gts28lte,samsung,Samsung,Galaxy Tab S2 8.0,Tablet,1536x2048,320
+gts28velte,samsung,Samsung,Galaxy Tab S2,Tablet,1536x2048,320
+gts3llte,samsung,Samsung,Galaxy TabS3,Tablet,1536x2048,320
+gts4llte,samsung,Samsung,Galaxy Tab S4,Tablet,1600x2560,360
+gts4lv,samsung,Samsung,Galaxy Tab S5e,Tablet,1600x2560,360
+gts4lwifi,samsung,Samsung,Galaxy Tab S4,Tablet,1600x2560,360
+gts6l,samsung,Samsung,Galaxy Tab S6,Tablet,1600x2560,360
+gts6x,samsung,Samsung,Galaxy Tab S6 5G,Tablet,1600x2560,360
+gts7fewifi,samsung,Samsung,Galaxy Tab S7 FE,Tablet,1600x2560,340
+gts7l,samsung,Samsung,Galaxy Tab S7,Tablet,1600x2560,340
+gts7lwifi,samsung,Samsung,Galaxy Tab S7,Tablet,1600x2560,340
+gts7xl,samsung,Samsung,Galaxy Tab S7+ 5G,Tablet,1752x2800,340
+gts7xllite,samsung,Samsung,Galaxy Tab S7 FE,Tablet,1600x2560,340
+gts7xlwifi,samsung,Samsung,Galaxy Tab S7+,Tablet,1752x2800,340
+gts8,samsung,Samsung,Galaxy Tab S8 5G,Tablet,1600x2560,340
+gts8p,samsung,Samsung,Galaxy Tab S8+ 5G,Tablet,1752x2800,340
+gts8u,samsung,Samsung,Galaxy Tab S8 Ultra 5G,Tablet,1848x2960,320
+gts8wifi,samsung,Samsung,Galaxy Tab S8,Tablet,1600x2560,340
+gts9,samsung,Samsung,Galaxy Tab S9 5G,Tablet,1600x2560,340
+gts9fe,samsung,Samsung,Galaxy Tab S9 FE 5G,Tablet,1440x2304,280
+gts9fep,samsung,Samsung,Galaxy Tab S9 FE+ 5G,Tablet,1600x2560,340
+gts9fepwifi,samsung,Samsung,Galaxy Tab S9 FE+,Tablet,1600x2560,340
+gts9fewifi,samsung,Samsung,Galaxy Tab S9 FE,Tablet,1440x2304,280
+gts9p,samsung,Samsung,Galaxy Tab S9+ 5G,Tablet,1752x2800,340
+gts9pwifi,samsung,Samsung,Galaxy Tab S9+,Tablet,1752x2800,340
+gts9u,samsung,Samsung,Galaxy Tab S9 Ultra 5G,Tablet,1848x2960,280
+gts9uwifi,samsung,Samsung,Galaxy Tab S9 Ultra,Tablet,1848x2960,280
+gts9wifi,samsung,Samsung,Galaxy Tab S9,Tablet,1600x2560,340
+guamp,Lenovo,Lenovo,Lenovo K12 Note,Phone,720x1600,280
+guamp,motorola,Motorola,moto g(9) play,Phone,720x1600,280
+guitar,POCO,POCO,POCO Pad C1,Tablet,1280x2048,280
+guitar,Redmi,Redmi,REDMI Pad 2 9.7,Tablet,1280x2048,280
+gust,POCO,POCO,POCO C65,Phone,720x1600,320
+gust,Redmi,Redmi,Redmi 13C,Phone,720x1600,320
+h10,HOMTOM,OTOT,H10,Phone,720x1512,320
+h10,KENSHI,KENSHI,H10,Tablet,800x1280,210
+h10,SENRAISE,SENRAISE,H10_EEA,Phone,720x1440,320
+h10,WINNOVO,Winnovo,H10,Tablet,800x1280,160
+h4233,Sony,Sony,Xperia XA2 Ultra,Phone,1080x1920,480
+h8216,Sony,Sony,Xperia XZ2,Phone,1080x2160,480
+h8416,Sony,Sony,Xperia XZ3,Phone,1440x2880,560
+h8q,samsung,Samsung,Galaxy Z Fold8,Tablet,1848x2448,420
+haier_leisure_l7,Haier,Haier,Haier Leisure L7,Phone,1080x1920,480
+haotian,Xiaomi,Xiaomi,Xiaomi 15 Pro,Phone,1080x2400,600
+hawaii,Lenovo,Motorola,Lenovo K15,Phone,720x1600,280
+hawaii,motorola,Motorola,moto e32,Phone,720x1600,280
+hawaiip,Lenovo,Motorola,moto g22,Phone,720x1600,280
+hawaiip,motorola,Motorola,moto g22,Phone,720x1600,280
+haydn,Redmi,Redmi,Redmi K40 Pro,Phone,1080x2400,440
+haydn,Xiaomi,Xiaomi,Mi 11i,Phone,1080x2400,440
+heat,Redmi,Redmi,Redmi 12,Phone,1080x2460,440
+helium,Xiaomi,Xiaomi,MI MAX,Phone,1080x1920,480
+hennessy,Xiaomi,Xiaomi,Redmi Note 3,Phone,1080x1920,480
+hermes,Xiaomi,Xiaomi,HM Note 2,Phone,1080x1920,480
+hero2lte,samsung,Samsung,Galaxy S7 edge,Phone,1080x1920,480
+hero2ltektt,samsung,Samsung,Galaxy S7 Edge,Phone,1080x1920,480
+hero2ltelgt,samsung,Samsung,Galaxy S7 edge,Phone,1080x1920,480
+hero2lteskt,samsung,Samsung,Galaxy S7 Edge,Phone,1080x1920,480
+hero2qltechn,samsung,Samsung,Galaxy S7 edge,Phone,1080x1920,480
+hero2qlteue,samsung,Samsung,Galaxy S7 edge,Phone,1080x1920,480
+hero_70,Reekoo,Reekoo,HERO_70,Phone,720x1640,320
+herolte,samsung,Samsung,Galaxy S7,Phone,1080x1920,480
+herolteskt,samsung,Samsung,Galaxy S7,Phone,1080x1920,480
+heroqltevzw,Verizon,Samsung,Galaxy S7,Phone,1080x1920,640
+hiphi,motorola,Motorola,motorola edge plus (2022),Phone,1080x2400,400
+hlte,samsung,Samsung,Galaxy Note3,Phone,1080x1920,480
+hnabr-m,HONOR,Honor,HONOR 400 Lite,Phone,1080x2412,480
+hnagm3,HONOR,Honor,HONOR Pad X8,Tablet,1200x1920,320
+hnali-q,HONOR,Honor,HONOR Magic6 Lite 5G,Phone,1200x2652,520
+hnalt-q1,HONOR,Honor,HONOR X7c 5G,Phone,1080x2412,480
+hnalt-ql,HONOR,Honor,HONOR X7c,Phone,720x1610,320
+hnany-q,HONOR,Honor,HONOR X9 5G,Phone,1080x2388,480
+hnbrc-m1,HONOR,Honor,Honor X9c Smart,Phone,1080x2412,480
+hnbrp-q1,HONOR,Honor,HONOR X9c,Phone,1224x2700,520
+hnbvl,HONOR,Honor,PORSCHE DESIGN HONOR Magic6 RSR,Phone,1280x2800,560
+hnclk-m1,HONOR,Honor,HONOR 90 Smart,Phone,1080x2412,480
+hnclk-q,HONOR,Honor,HONOR X7b,Phone,1080x2412,480
+hncma-q,HONOR,Honor,HONOR X7,Phone,720x1600,320
+hncrt-m1,HONOR,Honor,HONOR X8a,Phone,1080x2388,480
+hncrt-m2,HONOR,Honor,HONOR 90 Lite,Phone,1080x2388,480
+hndnpx,HONOR,Honor,HONOR 400 Pro,Phone,1280x2800,560
+hndnyx,HONOR,Honor,HONOR 400,Phone,1264x2736,560
+hnela-m,HONOR,Honor,Elsa,Phone,720x1600,320
+hnelix,HONOR,Honor,HONOR 200,Phone,1200x2664,520
+hneln-q,HONOR,Honor,HONOR Pad X9,Tablet,1200x2000,280
+hneln2-q1,HONOR,Honor,HONOR Pad X9a,Tablet,1504x2508,360
+hnelpx,HONOR,Honor,HONOR 200 Pro,Phone,1224x2700,520
+hnfcpx,HONOR,Honor,HONOR Magic V3,Tablet,2156x2344,480
+hnfne,HONOR,Honor,HONOR 70,Phone,1080x2400,480
+hngfy-m,HONOR,Honor,HONOR X5b,Phone,720x1612,320
+hnhey2-q,HONOR,Honor,HONOR Pad 9,Tablet,1600x2560,340
+hnhey3-q1,HONOR,Honor,HONOR Pad 10,Tablet,1600x2560,360
+hnjdy-m1,HONOR,Honor,HONOR X6b,Phone,720x1612,320
+hnlab-m,HONOR,Honor,HONOR X7e,Phone,720x1604,320
+hnlbu-m,HONOR,Honor,HONOR X6e,Phone,720x1604,320
+hnlgn-q1,HONOR,Honor,HONOR 400 Smart,Phone,720x1610,320
+hnlgn-ql,HONOR,Honor,HONOR X7d,Phone,720x1610,320
+hnlly-m1,HONOR,Honor,Honor 200 Lite,Phone,1080x2412,480
+hnlly-q,HONOR,Honor,HONOR X8b,Phone,1080x2412,480
+hnlna-m1,HONOR,Honor,HONOR 600 Lite,Phone,1200x2600,520
+hnmbhx,HONOR,Honor,HONOR Magic V5,Tablet,2172x2352,480
+hnmtn-q1,HONOR,Honor,HONOR Magic8 Lite,Phone,1200x2640,520
+hnndl-q,HONOR,Honor,HONOR Pad X8a,Tablet,1200x1920,280
+hnndl2-q,HONOR,Honor,HONOR Pad X8b,Tablet,1200x1920,280
+hnnic-m1,HONOR,Honor,HONOR X6c,Phone,720x1604,320
+hnnla-m,HONOR,Honor,HONOR X5d,Phone,720x1600,320
+hnnla-m2,HONOR,Honor,HONOR X6d 5G,Phone,720x1600,320
+hnnth,HONOR,Honor,HONOR 50,Phone,1080x2340,480
+hnpgt,HONOR,Honor,HONOR Magic5 Pro,Phone,1312x2848,560
+hnptpx,HONOR,Honor,PORSCHE DESIGN HONOR Magic7 RSR,Phone,1280x2800,560
+hnrbn-q,HONOR,Honor,HONOR 70 Lite,Phone,720x1600,320
+hnrea,HONOR,Honor,HONOR 90,Phone,1200x2664,480
+hnrky-m1,HONOR,Honor,HONOR X7a,Phone,720x1600,320
+hnrmo-q,HONOR,Honor,HONOR Magic5 Lite 5G,Phone,1080x2400,480
+hntfy-q,HONOR,Honor,HONOR X8,Phone,1080x2388,480
+hnvne-m,HONOR,Honor,HONOR X6,Phone,720x1600,320
+hnvne-q,HONOR,Honor,HONOR X8 5G,Phone,720x1600,320
+hnwdy-m,HONOR,Honor,HONOR X6a,Phone,720x1612,320
+houji,Xiaomi,Xiaomi,Xiaomi 14,Phone,1200x2670,480
+hpe,Nokia,Nokia,Nokia C21 Plus,Phone,720x1600,280
+htc_bre2pdugl,HTC,HTC,HTC Desire19+,Phone,720x1520,320
+htc_haydugl,htc,HTC,HTC U11 EYEs,Phone,1080x2160,480
+husky,google,Google,Pixel 8 Pro,Phone,1344x2992,480
+hw-01k,HUAWEI,Huawei,P20 Pro,Phone,1080x2240,480
+hw-02l,HUAWEI,Huawei,P30 Pro,Phone,1080x2340,480
+hwags2,HONOR,Huawei,荣耀平板5,Tablet,1200x1920,320
+hwags2,HUAWEI,Huawei,Huawei MediaPad T5,Tablet,1200x1920,320
+hwalp,HUAWEI,Huawei,Mate 10,Phone,1440x2560,480
+hwamn-m,HUAWEI,Huawei,HUAWEI Y5 2019,Phone,720x1520,320
+hwane,HUAWEI,Huawei,P20 lite,Phone,1080x2280,480
+hwaum-q,HONOR,Huawei,Honor 7C,Phone,720x1440,320
+hwbgo,HUAWEI,Huawei,MediaPad T2 7.0,Phone,600x1024,200
+hwbla,HUAWEI,Huawei,Mate 10 Pro,Phone,1080x2160,480
+hwbnd-h,HONOR,Huawei,Honor 7X,Phone,1080x2160,480
+hwbnd-h,HUAWEI,Huawei,HUAWEI Mate SE,Phone,1080x2160,480
+hwcam-h,HONOR,Huawei,荣耀畅玩5A,Phone,720x1280,320
+hwcam-h,HUAWEI,Huawei,Y6II,Phone,720x1280,320
+hwclt,HUAWEI,Huawei,P20 Pro,Phone,1080x2240,480
+hwcol,HONOR,Huawei,Honor 10,Phone,1080x2280,480
+hwdra-mg,HONOR,Huawei,Honor 7S,Phone,720x1440,320
+hwdra-mg,HUAWEI,Huawei,HUAWEI Y5 lite,Phone,720x1440,320
+hwdua-m,HONOR,Huawei,Honor 7S,Phone,720x1440,320
+hwdub-q,HUAWEI,Huawei,HUAWEI Y7 2019,Phone,720x1520,320
+hwele,HUAWEI,Huawei,HUAWEI P30,Phone,1080x2340,480
+hweml,HUAWEI,Huawei,P20,Phone,1080x2244,480
+hweva,HUAWEI,Huawei,P9,Phone,1080x1920,480
+hwevr,HUAWEI,Huawei,HUAWEI Mate 20 X (5G),Phone,1080x2244,480
+hwhma,HUAWEI,Huawei,Mate 20,Phone,1080x2244,480
+hwhry-h,HONOR,Huawei,honor 10 Lite,Phone,1080x2340,480
+hwhry-hf,HONOR,Huawei,HONOR 10i,Phone,1080x2340,480
+hwine,HUAWEI,Huawei,nova 3i,Phone,1080x2340,480
+hwjat-m,HONOR,Huawei,Honor 8A,Phone,720x1560,320
+hwjat-m,HUAWEI,Huawei,HUAWEI Y6s,Phone,720x1560,320
+hwjkm-h,HUAWEI,Huawei,HUAWEI Y9 2019,Phone,1080x2340,480
+hwjsn-h,HONOR,Huawei,Honor 8X,Phone,1080x2340,480
+hwjsn-hm,HONOR,Huawei,荣耀 8X,Phone,720x1600,320
+hwldn-q,HUAWEI,Huawei,HUAWEI Y7 2018,Phone,720x1440,320
+hwlld-h,HONOR,Huawei,Honor 9 Lite,Phone,1080x2160,480
+hwlld-h2,HONOR,Huawei,荣耀9i,Phone,1080x2280,480
+hwlya,HUAWEI,Huawei,Mate 20 Pro,Phone,1440x3120,480
+hwmar,HONOR,Huawei,HONOR 20S,Phone,1080x2312,480
+hwmar,HUAWEI,Huawei,HUAWEI P30 lite,Phone,1080x2312,480
+hwmrd-m1,HUAWEI,Huawei,HUAWEI Y6 2019,Phone,720x1560,320
+hwpot-h,HUAWEI,Huawei,HUAWEI P smart 2020,Phone,1080x2340,480
+hwrne,HONOR,Huawei,nova 2i,Phone,1080x2160,480
+hwrne,HUAWEI,Huawei,Mate 10 lite,Phone,1080x2160,480
+hwstk-hf,HONOR,Huawei,HONOR 9X,Phone,1080x2340,480
+hwstk-hf,HUAWEI,Huawei,Y9 Prime 2019,Phone,1080x2340,480
+hwtrt-q,HONOR,Huawei,荣耀畅享7 Plus,Phone,720x1280,320
+hwtrt-q,HUAWEI,Huawei,Y7,Phone,720x1280,320
+hwtxz,HUAWEI,,,Tablet,2456x1600,300
+hwvce,HUAWEI,Huawei,nova 4,Phone,1080x2310,480
+hwvns-h,HONOR,Huawei,Honor 8 Smart,Phone,1080x1920,480
+hwvns-h,HUAWEI,Huawei,P9 lite,Phone,1080x1920,480
+hwvog,HUAWEI,Huawei,P30 Pro,Phone,1080x2340;1080x2388,480
+hwwas-h,HUAWEI,Huawei,P10 lite,Phone,1080x1920,480
+hwyal,HONOR,Huawei,HONOR 20,Phone,1080x2340,480
+hwyal,HUAWEI,Huawei,HUAWEI nova 5T,Phone,1080x2340,480
+hydrogen,Xiaomi,Xiaomi,MI MAX,Phone,1080x1920,480
+i15,Symphony,Symphony,i15,Phone,720x1440,320
+i15,ajib,ajib,i15,Phone,720x1600,320
+i2212,iQOO,Vivo,iQOO 11,Phone,1080x2400,440
+i2213,iQOO,Vivo,iQOO Z7 5G,Phone,1080x2388,440
+i2216,iQOO,Vivo,iQOO Z7x 5G,Phone,1080x2388,440
+i2218,iQOO,Vivo,iQOO Z9 5G,Phone,1260x2800,420
+i2219,iQOO,Vivo,iQOO Z9x 5G,Phone,1080x2408,440
+i2220,iQOO,Vivo,iQOO 12,Phone,1260x2800,480
+i2401,iQOO,Vivo,iQOO 13,Phone,1440x3168,440
+i2405,iQOO,iQOO,iQOO Neo 10,Phone,1260x2800,480
+i2407,iQOO,Vivo,iQOO Z10 5G,Phone,1080x2392,440
+i2501,iQOO,iQOO,iQOO 15,Phone,1440x3168,600
+i2502,iQOO,iQOO,iQOO Z10 Lite,Phone,1080x2400,440
+i2505,iQOO,iQOO,iQOO Z10R 5G,Phone,1080x2392,440
+i2507,iQOO,iQOO,iQOO Z11x 5G,Phone,1080x2344,440
+i2508,iQOO,iQOO,iQOO 15R,Phone,1260x2750,520
+i2512,iQOO,iQOO,iQOO Z11 5G,Phone,1260x2800,440
+i4293,Sony,Sony,Xperia 10 Plus,Phone,1080x2520,420
+i9_plus_wirefree,BMAX,BMAX,I9_Plus_WireFree,Tablet,800x1280,160
+ice,Redmi,Redmi,Redmi A1,Phone,720x1600,320
+ido,Xiaomi,Xiaomi,Redmi 3,Phone,720x1280,320
+im-h031,iMUZ,iMuz,IM-H031,Tablet,1200x2000,213
+infinix-x1101,Infinix,Infinix,XPAD,Tablet,1200x1920,280
+infinix-x1101b,Infinix,Infinix,XPAD,Tablet,1200x1920,280
+infinix-x1102,Infinix,Infinix,XPAD 20,Tablet,1200x1920,240
+infinix-x1102b,Infinix,Infinix,XPAD 30E,Tablet,1200x1920,240
+infinix-x1103,Infinix,Infinix,Infinix XPAD 30 pro,Tablet,1600x2560,360
+infinix-x1103b,Infinix,Infinix,Infinix XPAD 30 pro,Tablet,1600x2560,360
+infinix-x1201,Infinix,Infinix,XPAD 20 Pro,Tablet,1200x2000,240
+infinix-x1302,Infinix,Infinix,Infinix XPAD Edge,Tablet,1600x2400,240
+infinix-x5515f,Infinix,Infinix,Smart 2,Phone,720x1440,320
+infinix-x573,Infinix,Infinix,HOT S3,Phone,720x1440,320
+infinix-x603,Infinix,Infinix,Zero 5 Pro,Phone,1080x1920,480
+infinix-x612b,Infinix,Infinix,SMART HD,Phone,720x1560,320
+infinix-x625d,Infinix,Infinix,HOT 7 PRO,Phone,720x1500,320
+infinix-x626b,Infinix,Infinix,S4,Phone,720x1520,320
+infinix-x626b-lte,Infinix,Infinix,S4,Phone,720x1520,320
+infinix-x627stu,Infinix,Infinix,Smart 3 Plus,Phone,720x1520,320
+infinix-x650b,Infinix,Infinix,HOT 8,Phone,720x1600,320
+infinix-x650c,Infinix,Infinix,HOT 8,Phone,720x1600,320
+infinix-x6511,Infinix,Infinix,SMART 6,Phone,720x1600,320
+infinix-x6511b,Infinix,Infinix,SMART 6,Phone,720x1600,320
+infinix-x6511e,Infinix,Infinix,SMART 6,Phone,720x1600,320
+infinix-x6512,Infinix,Infinix,SMART 6 HD,Phone,720x1612,320
+infinix-x6515,Infinix,Tecno,Infinix SMART 7,Phone,720x1612,320
+infinix-x6516,Infinix,Infinix,Infinix SMART 7 HD,Phone,720x1612,320
+infinix-x6525,Infinix,Infinix,Infinix SMART 8,Phone,720x1612,320
+infinix-x6525b,Infinix,Infinix,Infinix SMART 8 Pro,Phone,720x1612,320
+infinix-x6525d,Infinix,Infinix,Infinix SMART 10 HD,Phone,720x1612,320
+infinix-x6526,Infinix,Infinix,SMART 8 Plus,Phone,720x1612,320
+infinix-x6528,Infinix,Infinix,Infinix HOT 40i,Phone,720x1612,320
+infinix-x6528b,Infinix,Infinix,Infinix HOT 40i,Phone,720x1612,320
+infinix-x652a,Infinix,Infinix,S5,Phone,720x1600,320
+infinix-x652b,Infinix,Infinix,S5 Lite,Phone,720x1600,320
+infinix-x6531,Infinix,Infinix,Infinix HOT 50i,Phone,720x1600,320
+infinix-x6531b,Infinix,Infinix,Infinix HOT 50i,Phone,720x1600,320
+infinix-x6532,Infinix,Infinix,SMART 9,Phone,720x1600,320
+infinix-x6532c,Infinix,Infinix,Infinix SMART 9 HD,Phone,720x1600,320
+infinix-x653c,Infinix,Infinix,Smart 4,Phone,720x1600,320
+infinix-x655c,Infinix,Infinix,Infinix HOT 9,Phone,720x1600,320
+infinix-x656,Infinix,Infinix,Infinix NOTE 7 Lite,Phone,720x1600,320
+infinix-x657b,Infinix,Infinix,SMART,Phone,720x1600,320
+infinix-x657c,Infinix,Infinix,SMART 5,Phone,720x1600,320
+infinix-x662,Infinix,Infinix,HOT 11,Phone,1080x2408,480
+infinix-x663,Infinix,Infinix,NOTE,Phone,1080x2400,480
+infinix-x663b,Infinix,Infinix,Infinix NOTE 11,Phone,1080x2400,480
+infinix-x665b,Infinix,Infinix,HOT 12i,Phone,720x1612,320
+infinix-x665e,Infinix,Infinix,HOT 20i,Phone,720x1612,320
+infinix-x668c,Infinix,Infinix,Infinix HOT 12 PRO,Phone,720x1612,320
+infinix-x669,Infinix,Infinix,Infinix HOT 30i,Phone,720x1612,320
+infinix-x669c,Infinix,Infinix,Infinix HOT 30i,Phone,720x1612,320
+infinix-x669d,Infinix,Infinix,Infinix HOT 30i,Phone,720x1612,320
+infinix-x670,Infinix,Infinix,NOTE 12,Phone,1080x2400,480
+infinix-x672,Infinix,Infinix,NOTE 12 VIP,Phone,1080x2400,480
+infinix-x6720b,Infinix,Infinix,Infinix HOT 50 5G,Phone,720x1600,320
+infinix-x6725,Infinix,Infinix,Infinix SMART 10,Phone,720x1600,280
+infinix-x6725b,Infinix,Infinix,SMART 10 PLUS,Phone,720x1600,280
+infinix-x6725c,Infinix,Infinix,SMART 10 PLUS,Phone,720x1600,280
+infinix-x6726b,Infinix,Infinix,HOT 60 5G,Phone,720x1600,320
+infinix-x6728,Infinix,Infinix,HOT 60i,Phone,720x1600,320
+infinix-x6728b,Infinix,Infinix,Infinix HOT 60i,Phone,720x1600,320
+infinix-x6730b,Infinix,Infinix,HOT 60i 5G,Phone,720x1600,280
+infinix-x6731,Infinix,Infinix,ZERO 30 5G,Phone,1080x2400,480
+infinix-x6731b,Infinix,Infinix,Infinix ZERO 30,Phone,1080x2400,480
+infinix-x6739,Infinix,Infinix,GT 10 Pro,Phone,1080x2400,480
+infinix-x676c,Infinix,Infinix,Infinix NOTE 12 2023,Phone,1080x2400,480
+infinix-x677,Infinix,Infinix,NOTE 12i 2022,Phone,1080x2400,480
+infinix-x678b,Infinix,Infinix,NOTE 30 Pro,Phone,1080x2400,480
+infinix-x680,Infinix,Infinix,Infinix HOT 9 Play,Phone,720x1640,320
+infinix-x680b,Infinix,Infinix,Infinix HOT 9 Play,Phone,720x1640,320
+infinix-x6810,Infinix,Infinix,Infinix ZERO X NEO,Phone,1080x2460,480
+infinix-x6811,Infinix,Infinix,Infinix ZERO X Pro,Phone,1080x2400,480
+infinix-x6812b,Infinix,Infinix,Infinix HOT 11S NFC,Phone,1080x2460,480
+infinix-x6815b,Infinix,Infinix,Infinix ZERO 5G,Phone,1080x2460,480
+infinix-x6815d,Infinix,Infinix,ZERO 5G 2023,Phone,1080x2460,480
+infinix-x6816d,Infinix,Infinix,Infinix HOT 12 Play NFC,Phone,720x1640,320
+infinix-x6817,Infinix,Infinix,Infinix HOT 12,Phone,720x1640,320
+infinix-x6820,Infinix,Infinix,ZERO ULTRA,Phone,1080x2400,480
+infinix-x6821,Infinix,Infinix,Infinix ZERO 20,Phone,1080x2400,480
+infinix-x6823c,Infinix,Infinix,SMART 6 PLUS,Phone,720x1640,320
+infinix-x6827,Infinix,Infinix,HOT 20S,Phone,1080x2460,480
+infinix-x682b,Infinix,Infinix,HOT 10,Phone,720x1640,320
+infinix-x682c,Infinix,Infinix,HOT 10,Phone,720x1640,320
+infinix-x6833b,Infinix,Infinix,Infinix NOTE 30,Phone,1080x2460,480
+infinix-x6835,Infinix,Infinix,Infinix HOT 30 PLAY,Phone,720x1640,320
+infinix-x6836,Infinix,Infinix,Infinix HOT 40,Phone,1080x2460,480
+infinix-x6837,Infinix,Infinix,Infinix HOT 40 Pro,Phone,1080x2460,480
+infinix-x6838,Infinix,Infinix,Infinix NOTE 40X 5G,Phone,1080x2460,480
+infinix-x6840,Infinix,Infinix,SMART 20,Phone,720x1576,280
+infinix-x6840b,Infinix,Infinix,SMART 20,Phone,720x1576,280
+infinix-x6850,Infinix,Infinix,Infinix NOTE 40 Pro,Phone,1080x2436,440;480
+infinix-x6850b,Infinix,Infinix,Infinix NOTE 40S,Phone,1080x2436,440
+infinix-x6851,Infinix,Infinix,Infinix NOTE 40 Pro 5G,Phone,1080x2436,480
+infinix-x6851b,Infinix,Infinix,NOTE 40 Pro+ 5G,Phone,1080x2436,480
+infinix-x6852,Infinix,Infinix,Infinix NOTE 40 5G,Phone,1080x2436,480
+infinix-x6853,Infinix,Infinix,Infinix NOTE 40,Phone,1080x2436,480
+infinix-x6855,Infinix,Infinix,NOTE 50 Pro,Phone,1080x2436,440
+infinix-x6857,Infinix,Infinix,NOTE 50X 5G,Phone,720x1600,280
+infinix-x6858,Infinix,Infinix,NOTE 50,Phone,1080x2436,440
+infinix-x687,Infinix,Infinix,Infinix ZERO8,Phone,1080x2460,480
+infinix-x6870,Infinix,Infinix,Infinix NOTE 50S 5G,Phone,1080x2436,440
+infinix-x6871,Infinix,Infinix,GT 20 Pro,Phone,1080x2436,480
+infinix-x6873,Infinix,Infinix,GT 30 Pro,Phone,1224x2720,480
+infinix-x6876,Infinix,Infinix,GT 30,Phone,1224x2720,480
+infinix-x6877,Infinix,Infinix,Infinix NOTE 60 Ultra,Phone,1080x2364,480
+infinix-x6878,Infinix,Infinix,NOTE 60 Pro,Phone,1208x2644,480
+infinix-x6879,Infinix,Infinix,Infinix NOTE 60,Phone,1208x2644,520
+infinix-x6880,Infinix,Infinix,HOT 50 Pro+,Phone,1080x2436,440;480
+infinix-x6881,Infinix,Infinix,Infinix HOT 50 Pro,Phone,1080x2436,480
+infinix-x6882,Infinix,Infinix,Infinix HOT 50,Phone,1080x2460,480
+infinix-x6885,Infinix,Infinix,Infinix HOT 60 Pro,Phone,1080x2400,420
+infinix-x6886,Infinix,Infinix,HOT 60 Pro+,Phone,1080x2400,420
+infinix-x6887,Infinix,Infinix,NOTE Edge,Phone,1208x2644,480
+infinix-x688b,Infinix,Infinix,HOT Play,Phone,720x1640,320
+infinix-x688c,Infinix,Infinix,HOT Play,Phone,720x1640,320
+infinix-x689,Infinix,Infinix,Infinix HOT 10S,Phone,720x1640,320
+infinix-x6891,Infinix,Infinix,GT 50 Pro,Phone,1208x2644,480
+infinix-x6895,Infinix,Infinix,Infinix HOT 70,Phone,720x1576,280
+infinix-x6895b,Infinix,Infinix,Infinix HOT 70,Phone,720x1576,280
+infinix-x689b,Infinix,Infinix,Infinix HOT 10S,Phone,720x1640,320
+infinix-x689d,Infinix,Infinix,Infinix HOT 10S NFC,Phone,720x1640,320
+infinix-x690b,Infinix,Infinix,NOTE 7,Phone,720x1640,320
+infinix-x692,Infinix,Infinix,NOTE 8,Phone,720x1640,320
+infinix-x693,Infinix,Infinix,Infinix NOTE 10,Phone,1080x2460,480
+infinix-x695c,Infinix,Infinix,NOTE 10 Pro,Phone,1080x2460,480
+infinix-x697,Infinix,Infinix,NOTE 11 Pro,Phone,1080x2460,480
+infinix-x698,Infinix,Infinix,NOTE 11S,Phone,1080x2460,480
+ingres,POCO,POCO,POCO F4 GT,Phone,1080x2400,440
+ingres,Redmi,Redmi,Redmi K50G,Phone,1080x2400,440
+inkosi_pro,STYLO,Stylo,INKOSI-PRO,Phone,720x1600;720x1612,300
+inoi_a35_adventure,INOI,INOI,INOI A35 Adventure,Phone,720x1612,320
+inoi_a75_elegance,INOI,INOI,INOI A75 Elegance,Phone,1080x2460,480
+iqm960,MLS,Making Life Simple,iQM960,Tablet,800x1280,160
+iris88,LAVA,Lava,iris88,Phone,720x1440,320
+iris88_lite,LAVA,Lava,iris88_lite,Phone,720x1440,320
+iron,Redmi,Redmi,Redmi Note 13 5G,Phone,1080x2400,440
+ishtar,Xiaomi,Xiaomi,Xiaomi 13 Ultra,Phone,1440x3200,560
+itel-a507lsu,Itel,Itel,itel A24 Pro,Phone,480x854,200
+itel-a551l,Itel,Itel,itel A27(P17 Pro 4G),Phone,480x960,213
+itel-a551l-pro,Itel,Itel,itel A27(P17 Pro 4G),Phone,480x960,213
+itel-a571l,Itel,Itel,A26,Phone,720x1520,320
+itel-a6610l,Itel,Itel,itel A90,Phone,720x1612,320
+itel-a6611l,itel,Itel,itel A100C,Phone,720x1612,320
+itel-a661l,Itel,Itel,A49,Phone,720x1612,320
+itel-a662lm,Itel,Itel,itel A60s,Phone,720x1612,320
+itel-a665l,Itel,Itel,A70,Phone,720x1612,320
+itel-a666l,Itel,Itel,itel P55,Phone,720x1612,320
+itel-a666ln,Itel,Itel,itel P55,Phone,720x1612,320
+itel-a667l,Itel,Itel,itel A50,Phone,720x1612,320
+itel-a667lp,Itel,Itel,itel A50,Phone,720x1612,320
+itel-a671lc,Itel,Itel,itel A80,Phone,720x1600,320
+itel-a675l,itel,Itel,itel A200,Phone,720x1600,320
+itel-c671l,Itel,Itel,City100,Phone,720x1600,320
+itel-c681ln,itel,Itel,itel CITY 200/200s,Phone,720x1576,280
+itel-l6005,Itel,Itel,itel Vision1(P36 Play),Phone,720x1560,320
+itel-l6501,Itel,Itel,Vision1 Plus(P36 Pro LTE),Phone,720x1600,320
+itel-l6502,Itel,Itel,Vision1Pro,Phone,720x1600,320
+itel-l6503,Itel,Itel,itel S16 Pro（Vision 2）,Phone,720x1600,320
+itel-p10001l,Itel,Itel,Pad1,Tablet,800x1280,160
+itel-p10003l,Itel,Itel,itel VistaTab  30,Tablet,1200x1920,320
+itel-p10004l,Itel,Itel,itel VistaTab 10,Phone,800x1280,320
+itel-p10005l,Itel,Itel,itel VistaTab 11,Phone,800x1280,320
+itel-p11002l,Itel,Itel,itel VistaTab 30S,Tablet,1200x1920,240
+itel-p1102gt,Itel,Itel,P1102GT-OP,Tablet,1200x1920,240
+itel-p13001l,Itel,Itel,P13001L,Tablet,1200x1920,240
+itel-p661n,Itel,Itel,itel P55 5G,Phone,720x1612,320
+itel-p662l,Itel,Itel,itel P40,Phone,720x1612,320
+itel-p663ln,Itel,Itel,itel P55+,Phone,720x1612,320
+itel-p671l,Itel,Itel,P65,Phone,720x1600,320
+itel-p682lp,Itel,Itel,itel Vision 3 Plus(P38 Pro),Phone,720x1640,320
+itel-p683l,Itel,Itel,itel P40+,Phone,720x1640,320
+itel-p685l,itel,Itel,POWER 80,Phone,720x1576,280
+itel-pad-2,itel,Itel,Pad-2,Tablet,800x1280,200
+itel-s661l,Itel,Itel,itel Vision 3,Phone,720x1612,320
+itel-s663lc,Itel,Itel,itel Vision 5,Phone,720x1612,320
+itel-s665l,Itel,Itel,itel S23,Phone,720x1612,320
+itel-s666ln,Itel,Itel,itel RS4,Phone,720x1612,320
+itel-s667ln,Itel,Itel,itel S24,Phone,720x1612,320
+itel-s681ln,Itel,Itel,itel S23+,Phone,1080x2400,480
+itel-s685ln,Itel,Itel,itel S25,Phone,1080x2436,480
+itel-s686ln,Itel,Itel,itel S25 Ultra,Phone,1080x2436,480
+itel-s688ln,itel,Itel,itel Super 26 Ultra,Phone,1080x2400,480
+j1acevelte,samsung,Samsung,Galaxy J1 Ace,Phone,480x800,240
+j1minilte,samsung,Samsung,Galaxy J1 Mini,Phone,480x800,240
+j1xlte,samsung,Samsung,Galaxy J1 (2016),Phone,480x800,240
+j2corelte,samsung,Samsung,Galaxy J2 Core,Phone,540x960,240
+j2lte,samsung,Samsung,Galaxy J2,Phone,540x960,240
+j2y18lte,samsung,Samsung,Galaxy J2 Pro,Phone,540x960,240
+j3xlte,samsung,Samsung,Galaxy J3(2016),Phone,720x1280,320
+j3xproltechn,samsung,Samsung,Galaxy J3 Pro,Phone,720x1280,320
+j3y17lte,samsung,Samsung,Galaxy J3(2017),Phone,720x1280,320
+j4corelte,samsung,Samsung,Galaxy J4 Core,Phone,720x1480,320
+j4lte,samsung,Samsung,Galaxy J4,Phone,720x1280,280
+j4primelte,samsung,Samsung,Galaxy J4+,Phone,720x1480,280
+j5lte,samsung,Samsung,Galaxy J5,Phone,720x1280,320
+j5xnlte,samsung,Samsung,Galaxy J5(2016),Phone,720x1280,320
+j5y17lte,samsung,Samsung,Galaxy J5,Phone,720x1280,320
+j5y17ltedx,samsung,Samsung,Galaxy J5 Pro,Phone,720x1280,320
+j6lte,samsung,Samsung,Galaxy J6,Phone,720x1480,320
+j6primelte,samsung,Samsung,Galaxy J6+,Phone,720x1480,280
+j7duolte,samsung,Samsung,Galaxy J7 Duo,Phone,720x1280,280
+j7elte,samsung,Samsung,Galaxy J7,Phone,720x1280,320
+j7velte,samsung,Samsung,Galaxy J7 Neo,Phone,720x1280,320
+j7xelte,samsung,Samsung,Galaxy J7(2016),Phone,720x1280,320
+j7y17lte,samsung,Samsung,Galaxy J7 Pro,Phone,1080x1920,420
+j8110,Sony,Sony,Xperia 1,Phone,1096x2560,420
+j8y18lte,samsung,Samsung,Galaxy On8,Phone,720x1480,280
+j9110,Sony,Sony,Xperia 1,Phone,1096x2560,420
+jackpot2lte,samsung,Samsung,Galaxy A8+(2018),Phone,1080x2220,420
+jackpotlte,samsung,Samsung,Galaxy A8(2018),Phone,1080x2220,480
+jadelte,samsung,Samsung,Galaxy J7+,Phone,1080x1920,420
+jakarta,Alcatel,TCT (Alcatel),Alcatel 1SE,Phone,720x1520,320
+jakarta,TCL,TCL,TCL L10+,Phone,720x1520,320
+jasmine_sprout,xiaomi,Xiaomi,Mi A2,Phone,1080x2160,480
+jason,Xiaomi,Xiaomi,MI Note 3,Phone,1080x1920,440
+jms-w09,Honor,Honor,HONOR Pad X7,Phone,800x1340,240
+joan,KDDI,LGE,V30+,Phone,1440x2880,640
+joan,lge,LGE,V30,Phone,1440x2880,640
+joyeuse,Redmi,Redmi,Redmi Note 9 Pro,Phone,1080x2400,440
+judyln,lge,LGE,LG G7 ThinQ,Phone,1440x3120,560
+k10,Azeyou,Azeyou,K10U,Tablet,800x1280,160
+k10,BLU,Kudae,K10,Phone,1080x2340,480
+k10,COLORROOM,COLORROOM,K10,Tablet,800x1280,213
+k10,OUKITEL,Oukitel,K10,Phone,1080x2160,480
+k10,Surfans,Surfans,K10,Tablet,800x1280,160
+k10,okulaku,okulaku,K10,Tablet,800x1280,160
+k33a42,Lenovo,Lenovo,VIBE K6 Power,Phone,1080x1920,480
+k7_pro,OUKITEL,Oukitel,K7_Pro,Phone,720x1440,320
+k7pro,PRITOM,Pritom,K7Pro,Tablet,600x1024,160
+k80_bsp,alps,,,Tablet,600x1024,160
+kaiser-os,blackshark,Blackshark,Black shark 4 pro,Phone,1080x2400,440
+kansas,motorola,Motorola,moto g - 2025,Phone,720x1604,280
+kb10,MUISOO,MUISOO,KB10_EEA,Tablet,800x1280,160
+kenzo,Xiaomi,Xiaomi,Redmi Note 3,Phone,1080x1920,480
+kiev,motorola,Motorola,moto g 5G,Phone,1080x2400,400
+kingpad_sa10_eea,Vastking,Vastking,KingPad_SA10_EEA,Phone,720x1280,240
+klee,POCO,POCO,POCO X8 Pro,Phone,1268x2756,520
+klee,Redmi,Redmi,REDMI Turbo 5,Phone,1268x2756,520
+klein,Redmi,Redmi,Redmi A3x,Phone,720x1650,320
+klein,blackshark,Blackshark,KLE-A0,Phone,1080x2400,440
+klimt,Xiaomi,Xiaomi,Xiaomi 15T Pro,Phone,1280x2772,520
+klimtlte,samsung,Samsung,Galaxy TabS 8.4,Tablet,1600x2560,320
+komodo,SMART,SMART Technologies,AM60 series,Tablet,2160x3840,320
+komodo,google,Google,Pixel 9 Pro XL,Phone,1344x2992,480
+koto,Redmi,Redmi,Redmi Pad 2 4G,Tablet,1600x2560,360
+ktb-168,KANSELIR,KANSELIR,KTB-168,Tablet,800x1280,213
+kukui_cheets,google,Google,Mediatek MT8183 Tablet,Chromebook,1200x1920,240
+kunlun,AirTV,AirTV,AirTV Mini,TV,1080x1920,320
+kunlun,Lenovo,Lenovo,K5X,Phone,1080x2160,480
+kunlun,eSTREAM4K,eSTREAM 4K,IPA1104HDW-02,TV,1080x1920,320
+kunzite,POCO,POCO,POCO M8 5G,Phone,1080x2392,450
+kunzite,Redmi,Redmi,REDMI Note 15 SE 5G,Phone,1080x2392,450
+ky24l-st100,KYOCERA,Kyocera,DIGNO BX3,Phone,720x1560,300
+l503f_plus,HYUNDAI,Hyundai,L503F Plus,Phone,480x960,213
+l70_lite,SPC,SPC Mobile,L70_Lite,Tablet,600x1024,160
+l80,SPC,SPC Mobile,L80,Tablet,800x1280,213
+l80_s,SPC,SPC Mobile,L80_S,Phone,800x1280,240
+lagos,motorola,Motorola,moto g06 power,Phone,720x1640,280
+lake,POCO,POCO,POCO C75,Phone,720x1640,320
+lake,Redmi,Redmi,Redmi 14C,Phone,720x1640,320
+lake,motorola,Motorola,moto g(7) plus,Phone,1080x2270,480
+lamu,motorola,Motorola,moto g15,Phone,1080x2400,400
+lamul,motorola,Motorola,moto g05,Phone,720x1604,280
+lancelot,Redmi,Redmi,Redmi 9,Phone,1080x2340,440
+land,Xiaomi,Xiaomi,Redmi 3S,Phone,720x1280,320
+lapis,Redmi,Redmi,REDMI Note 15 Pro 5G,Phone,1280x2772,520
+laurel_sprout,Xiaomi,Xiaomi,Mi A3,Phone,720x1560,160;320
+lavender,AIWA,Aiwa,AIWA,TV,1080x1920,320
+lavender,BLAUPUNKT,Blaupunkt,BLAUPUNKT,TV,1080x1920,320
+lavender,CHALLENGER,Challenger,CHALLENGER,TV,1080x1920,320
+lavender,COLORVIEW,KTCtv,COLORVIEW,TV,1080x1920,320
+lavender,DAEWOO,Daewoo,DAEWOO,TV,1080x1920,320
+lavender,DAIWA,KTCtv,DAIWA,TV,1080x1920,320
+lavender,DAMASCO,KTCtv,DAMASCO,TV,1080x1920,320
+lavender,DIGGIO,KTCtv,DIGGIO,TV,1080x1920,320
+lavender,ESLEY,KTCtv,ESLEY,TV,1080x1920,320
+lavender,FPD,FPD,FPD,TV,1080x1920,320
+lavender,GLOBAL,KTCtv,Global,TV,1080x1920,320
+lavender,HYUNDAI,Hyundai,HYUNDAI,TV,1080x1920,320
+lavender,INNOVA,KTCtv,INNOVA,TV,1080x1920,320
+lavender,JVC,JVC,JVC,TV,1080x1920,320
+lavender,KENWOOD,Kenwood,Kenwood,TV,1080x1920,320
+lavender,KIOWA,Kiowa,KIOWA,TV,1080x1920,320
+lavender,KTC,KTC,EcoTVCOL,TV,1080x1920,320
+lavender,MAG,MAG,MAG,TV,1080x1920,320
+lavender,MASTER-G,Master-G,MASTER-G,TV,1080x1920,320
+lavender,MASTERTECH,MASTERTECH,MASTERTECH,TV,1080x1920,320
+lavender,MITSUKI,KTCtv,MITSUKI,TV,1080x1920,320
+lavender,MULTISMART,KTCtv,MULTISMART,TV,1080x1920,320
+lavender,NEXUS,KTCtv,NEXUS,TV,1080x1920,320
+lavender,PEL,PEL (PAK),PEL,TV,1080x1920,320
+lavender,PHILIPS,Philips,PHILIPS,TV,1080x1920,320
+lavender,PHIMARK,KTCtv,PHIMARK,TV,1080x1920,320
+lavender,QRIOM,KTCtv,QRIOM,TV,1080x1920,320
+lavender,RANGS,Rangs,RANGS,TV,1080x1920,320
+lavender,RCA,RCA,RCA,TV,1080x1920,320
+lavender,SHARP,Sharp,SHARP,TV,1080x1920,320
+lavender,SIRAGON,Siragon,SIRAGON,TV,1080x1920,320
+lavender,STAR-TRACK,KTCtv,STAR-TRACK,TV,1080x1920,320
+lavender,VIMEEL,KTCtv,VIMEEL,TV,1080x1920,320
+lavender,VOXELECTRONICS,VOXelectronics,VOXELECTRONICS,TV,1080x1920,320
+lavender,WYBOR,KTCtv,WYBOR,TV,1080x1920,320
+lavender,ZTE,ZTE,Z717VL,Phone,480x800,240
+lavender,xiaomi,Redmi,Redmi  Note  7,Phone,1080x2340,440
+leap,motorola,Motorola,motorola razr 60 ultra,Phone,1080x2400,480
+lemon,Redmi,Redmi,Redmi 9T,Phone,1080x2340,440
+lemon,ZTE,ZTE,Jasper LTE,Phone,480x800,240
+levin,SHARP,Sharp,AQUOS V6 5G,Phone,720x1612,320
+levin,TCL,TCL,TCL 40 R 5G,Phone,720x1612,320
+lexl11g_64,MotorolaSolutions,Motorola Solutions,LEX L11,Phone,720x1280,320
+lgp,HMD,HMD,HMD Pulse+,Phone,720x1612,280
+light,POCO,POCO,POCO M4 5G,Phone,1080x2408,440
+light,Redmi,Redmi,Redmi 10 5G,Phone,1080x2408,440
+lime,Redmi,Redmi,Redmi 9T,Phone,1080x2340,440
+lion,DeutscheTelekom,Deutsche Telekom,T Phone Pro,Phone,720x1640,280
+lion,motorola,Motorola,moto g04,Phone,720x1612,280
+lisa,Xiaomi,Xiaomi,Mi 11 LE,Phone,1080x2400,440
+lithium,Coolpad,Coolpad,3705A,Phone,1080x1920,480
+lithium,Xiaomi,Xiaomi,MIX,Phone,1080x2040,480
+liuqin,Xiaomi,Xiaomi,Xiaomi pad 6 Pro,Tablet,1800x2880,400
+lmi,POCO,POCO,POCO F2 Pro,Phone,1080x2400,440
+lmi,Redmi,Redmi,K30 PRO,Phone,1080x2400,440
+lotus,TCL,TCL,TCL 502,Phone,720x1612,280
+lotus,xiaomi,Xiaomi,MI PLAY,Phone,1080x2280,480
+lucye,lge,LGE,LG G6,Phone,1440x2880,640
+luna_g9,LUNA,LUNA,LUNA G9,Phone,720x1560,320
+luna_v6,LUNA,LUNA,LUNA V6,Phone,1080x2248,480
+lyle,SG,Sharp,AQUOS sense10,Phone,1080x2340,440
+lyle,SHARP,Sharp,AQUOS sense10,Phone,1080x2340,440
+lynx,DeutscheTelekom,Deutsche Telekom,T Phone 3,Phone,1080x2408,480
+lynx,Getnord,Getnord,LYNX,Phone,480x854,240
+lynx,google,Google,Pixel 7a,Phone,1080x2400,420
+lyriq,motorola,Motorola,motorola edge 40,Phone,1080x2400,400
+lyv,KDDI,Sharp,AQUOS R2 SHV42,Phone,1440x3040,640
+m10,CWELL,CWELL,M10,Tablet,800x1280,160
+m10,Evertek,Evertek,M10,Phone,480x960,240
+m10,PHONEMAX,Phone Max,M10,Phone,1080x2280,480
+m10,PRITOM,Pritom,M10_B01,Tablet,800x1280,160
+m10,Telpo,Telpo,M10,Tablet,800x1280,160
+m10,UAUU,UAUU,M10,Tablet,1536x2048,240
+m10lte,samsung,Samsung,Galaxy M10,Phone,720x1520,320
+m11q,samsung,Samsung,Galaxy M11,Phone,720x1560,280
+m12,LEAGOO,Leagoo,M12,Phone,720x1520,320
+m12,MARVUE,MARVUE,M12,Tablet,800x1280,160
+m12,samsung,Samsung,Galaxy M12,Phone,720x1600,300
+m13,LEAGOO,Leagoo,M13,Phone,1440x2960,560
+m13,samsung,Samsung,Galaxy M13,Phone,1080x2408,450
+m14x,samsung,Samsung,Galaxy M14 5G,Phone,1080x2408,450
+m15x,samsung,Samsung,Galaxy M15 5G,Phone,1080x2340,450
+m16x,samsung,Samsung,Galaxy Wide8,Phone,1080x2340,450
+m1q,samsung,Samsung,Galaxy S26,Phone,1080x2340,480
+m1s,samsung,Samsung,Galaxy S26,Phone,1080x2340,480
+m20lte,samsung,Samsung,Galaxy M20,Phone,1080x2340,420
+m21,AOC,AOC,M21,Tablet,1200x1920,260
+m21,DOOGEE,Doogee,S41,Phone,720x1440,320
+m21,samsung,Samsung,Galaxy M21 2021 Edition,Phone,1080x2340,420
+m22,DOOGEE,Doogee,S100,Phone,1080x2408,480
+m22,samsung,Samsung,Galaxy M22,Phone,720x1600,300
+m23xq,samsung,Samsung,Galaxy M23 5G,Phone,1080x2408,450
+m2q,samsung,Samsung,Galaxy S26+,Phone,1440x3120,450
+m2s,samsung,Samsung,Galaxy S26+,Phone,1440x3120,450
+m30lte,samsung,Samsung,Galaxy M30,Phone,1080x2340,420
+m30s,samsung,Samsung,Galaxy M30s,Phone,1080x2340,420
+m31,samsung,Samsung,Galaxy M31,Phone,1080x2340,420
+m32,samsung,Samsung,Galaxy M32,Phone,1080x2400,450
+m33x,samsung,Samsung,Galaxy M33 5G,Phone,1080x2408,450
+m34x,samsung,Samsung,Galaxy M34 5G,Phone,1080x2340,450
+m36x,samsung,Samsung,Galaxy F36 5G,Phone,1080x2340,450
+m3q,samsung,Samsung,Galaxy S26 Ultra,Phone,1440x3120,450
+m40_plus_row,Teclast,Teclast,M40_Plus_ROW,Phone,720x1560,320
+m40plus_row,Teclast,Teclast,M40Plus_ROW,Tablet,1200x1920,286
+m44x,samsung,Samsung,Galaxy Jump3,Phone,1080x2408,450
+m51,samsung,Samsung,Galaxy M51,Phone,1080x2400,420
+m52xq,samsung,Samsung,Galaxy M52 5G,Phone,1080x2400,420
+m53x,samsung,Samsung,Galaxy M53 5G,Phone,1080x2400,450
+m54x,samsung,Samsung,Galaxy F54 5G,Phone,1080x2400,450
+m6,EVERCOSS,Evercoss,M6,Phone,720x1440,320
+m6,FreeYond,FreeYond,M6,Phone,1080x2460,480
+m6,HOMII,HOMII,HOMII M6,Phone,720x1560,320
+m6,HOTWAV,Hotwav,M6,Phone,720x1440,320
+m6,Meberry,Meberry,M6_V_EEA,Tablet,800x1280,213
+m6,Meitu,Meitu,M6,Phone,1080x1920,480
+m6,OLLA,Olla,M6,Phone,480x960,240
+m6,XPLORE,Xplore Technologies,M6,Phone,1080x1920,480
+m6,vernee,Vernee,M6,Phone,720x1440,320
+m60,EVERCOSS,Evercoss,M60,Phone,720x1440,320
+m62,samsung,Samsung,Galaxy M62,Phone,1080x2400,450
+m6a,EVERCOSS,Evercoss,M6A,Phone,600x1280,280
+m9_pro,LEAGOO,Leagoo,M9 Pro,Phone,720x1440,320
+malachite,POCO,POCO,POCO X7,Phone,1220x2712,520
+malachite,Redmi,Redmi,Redmi Note 14 Pro 5G,Phone,1220x2712,520
+malmo,motorola,Motorola,moto g85 5G,Phone,1080x2400,400
+manaus,motorola,Motorola,motorola edge 40 neo,Phone,1080x2400,400
+manila,motorola,Motorola,moto g35 5G,Phone,1080x2400,400
+marble,POCO,POCO,POCO F5,Phone,1080x2400,440
+marble,Redmi,Redmi,Redmi Note 12 Turbo,Phone,1080x2400,440
+markw,Xiaomi,Xiaomi,Redmi 4 Pro,Phone,1080x1920,480
+marlin,google,Google,Pixel XL,Phone,1440x2560,560
+marvel,STYLO,Stylo,MARVEL,Phone,480x854,213
+marvel,motorola,Motorola,motorola edge 70 fusion +,Phone,1080x2400,450
+maxtron_genio,MAXTRON,Maxtron,MAXTRON Genio,Tablet,800x1280,213
+mcaymanlm,lge,LGE,VELVET,Phone,1080x2460,420
+mdh30lm,lge,LGE,LG Reflect,Phone,720x1560,280
+meizu_mblu,meizu,Meizu,Mblu 21,Phone,720x1640,320
+merlin,Redmi,Redmi,Redmi Note 9,Phone,1080x2340,440
+merlin,motorola,Motorola,Moto G Turbo Edition,Phone,720x1280,320
+merlinnfc,Redmi,Redmi,Redmi Note 9,Phone,1080x2340,440
+metroid,Nothing,Nothing,Nothing Phone (3),Phone,1260x2800,480
+mh,lge,LGE,LG Q6,Phone,1080x2160,480
+mh2lm,lge,LGE,G8X ThinQ,Phone,1080x2340,420
+mido,xiaomi,Xiaomi,Redmi Note 4,Phone,1080x1920,480
+miel,POCO,POCO,POCO M4 Pro,Phone,1080x2400,440
+miel,Redmi,Redmi,Redmi Note 11S,Phone,1080x2400,440
+milan,Alcatel,TCT (Alcatel),Alcatel 3X,Phone,720x1600,320
+milan,motorola,Motorola,moto g stylus (2022),Phone,1080x2460,400
+miro,POCO,POCO,Poco F7 Ultra,Phone,1080x2400,600
+miro,Redmi,Redmi,REDMI K80 Pro,Phone,1080x2400,600
+mist,Redmi,Redmi,REDMI Note 17,Phone,1080x2396,450
+model_3,SHARP,Sharp,AQUOS V7 plus,Phone,720x1600,320
+model_3,SUNMAX,SUNMAX,Model_3,Phone,480x854,213
+model_3,TCL,TCL,TCL 40 SE,Phone,720x1600,320
+mona,Xiaomi,Xiaomi,Xiaomi Civi,Phone,1080x2400,440
+mona,motorola,Motorola,moto g stylus 5G - 2025,Phone,1220x2712,450
+mondrian,Redmi,Redmi,Redmi K60,Phone,1440x3200,560
+moon,POCO,POCO,POCO M6,Phone,1080x2460,440
+moon,Redmi,Redmi,Redmi 13,Phone,1080x2460,440
+mumba,motorola,Motorola,moto g57 power,Phone,1080x2400,390
+munch,POCO,POCO,POCO F4,Phone,1080x2400,440
+munch,Redmi,Redmi,Redmi K40S,Phone,1080x2400,440
+mustang,Amazon,,,Tablet,600x1024,160
+mustang,google,Google,Pixel 10 Pro XL,Phone,1344x2992,480
+muyu,Xiaomi,Xiaomi,Xiaomi Pad 7 Pro,Tablet,2136x3200,440
+myron,POCO,POCO,POCO F8 Ultra,Phone,1200x2608,480
+myron,Redmi,Redmi,REDMI K90 Pro Max,Phone,1200x2608,480
+nabu,Xiaomi,Xiaomi,Xiaomi Pad 5,Tablet,1600x2560,360
+naples,motorola,Motorola,moto g67,Phone,1080x2352,390
+naze,SG,Sharp,AQUOS sense9,Phone,1080x2340,440
+naze,SHARP,Sharp,AQUOS sense9,Phone,1080x2340,440
+nb1,Nokia,Nokia,Nokia 8,Phone,1440x2560,560
+nd1,Nokia,Nokia,Nokia 5,Phone,720x1280,320
+ne1,Nokia,Nokia,Nokia 3,Phone,720x1280,320
+neo_6,Sparx,SparX,NEO_6,Phone,720x1600,320
+nexg_n72,WALTON,Walton,NEXG N72,Phone,720x1600,280
+nexg_n75,WALTON,Walton,NEXG N75,Phone,720x1600,480
+nezha,Xiaomi,Xiaomi,Leitzphone powered by Xiaomi,Phone,1200x2608,480
+nice,motorola,Motorola,moto g86 5G,Phone,1220x2712,450
+nicklaus_f,motorola,Motorola,Moto E (4) Plus,Phone,720x1280,320
+nikel,Xiaomi,Xiaomi,Redmi Note 4,Phone,1080x1920,480
+nitrogen,Xiaomi,Xiaomi,MI MAX 3,Phone,1080x2160,440
+nls-mt93,Newland,Newland,NLS-MT93,Phone,720x1440,320
+noblelte,samsung,Samsung,Galaxy Note5,Phone,1080x1920,420
+noblelteskt,samsung,Samsung,Galaxy Note5,Phone,1080x1920,420
+note_13s,INOI,INOI,Note_13s256,Phone,720x1640,320
+note_6,Ulefone,Ulefone,Note 6,Phone,720x1612,320
+nva,Nokia,Nokia,Nokia C12 Pro,Phone,720x1560,280
+nx669j-un,nubia,ZTE,NX669J,Phone,1080x2400,480
+nx729j-un,nubia,ZTE,NX729J,Phone,1116x2480,480
+nx769j,nubia,ZTE,REDMAGIC 9 Pro,Phone,1116x2480,480
+nx789j,nubia,ZTE,红魔10 Pro,Phone,1216x2688,520
+nx809j,REDMAGIC,ZTE,红魔11 Pro游戏手机,Phone,1216x2688,520
+nyx,HMD,HMD,HMD ARC,Phone,576x1280,213
+o1q,samsung,Samsung,Galaxy S21 5G,Phone,1080x2400,480
+o1s,samsung,Samsung,Galaxy S21 5G,Phone,1080x2400,480
+ob_628,Altron,Altron,OB_628,Phone,480x960,204
+obsidian,Redmi,Redmi,Redmi Note 14 Pro,Phone,1080x2400,450
+ocean,Redmi,Redmi,Redmi Note 12S,Phone,1080x2400,440
+ocean,motorola,Motorola,moto g(7) power,Phone,720x1520,320
+octopus_cheets,google,Google,Intel Gemini Lake Chromebook,Chromebook,1080x1920;768x1366,160
+olive,Xiaomi,Xiaomi,Redmi 8,Phone,720x1520;720x1600,320
+olivelite,Xiaomi,Redmi,Redmi 8A,Phone,720x1520,320
+olivewood,Redmi,Redmi,Redmi 8A Dual,Phone,720x1520,320
+on5xelte,samsung,Samsung,Galaxy J5 Prime,Phone,720x1280,320
+on5xltechn,samsung,Samsung,Galaxy J5 Prime,Phone,720x1280,320
+on7xelte,samsung,Samsung,Galaxy J7 Prime,Phone,1080x1920,480
+on7xltechn,samsung,Samsung,Galaxy On7(2016),Phone,1080x1920,420
+on7xreflte,samsung,Samsung,Galaxy J7 Prime2,Phone,1080x1920,420
+onc,xiaomi,Redmi,Redmi 7,Phone,720x1520,320
+oneplus5,OnePlus,OnePlus,OnePlus5,Tablet,1080x1920;900x1600,240;420
+oneplus5t,OnePlus,OnePlus,OnePlus5T,Phone,1080x2160,420
+oneplus6,OnePlus,OnePlus,OnePlus 6,Phone,1080x2280,450
+oneplus6t,OnePlus,OnePlus,OnePlus6T,Phone,1080x2340,450
+oneplus7,OnePlus,OnePlus,OnePlus 7,Phone,1080x2340,450
+oneplus7pro,OnePlus,OnePlus,OnePlus 7 Pro,Phone,1440x3120,600
+onyx,Amazon,,,Phone,1080x1920,480
+onyx,POCO,POCO,Poco F7,Phone,1280x2772,520
+onyx,Redmi,Redmi,REDMI Turbo 4 Pro,Phone,1280x2772,520
+op46f1,OPPO,Oppo,A9 中国版,Phone,1080x2340,480
+op47dd,OPPO,Oppo,Reno,Phone,1080x2340,480
+op4845,OPPO,Oppo,Reno 10x Zoom,Phone,1080x2340,480
+op4847,OPPO,Oppo,Reno 10x room,Phone,1080x2340,480
+op4863,OPPO,Oppo,F11 Pro,Phone,1080x2340,480
+op486b,OPPO,Oppo,K3,Phone,1080x2340,480
+op486c,OPPO,Oppo,A1k,Phone,720x1560,320
+op4883,OPPO,Oppo,F11,Phone,1080x2340,480
+op48a1,OPPO,Oppo,Reno Z,Phone,1080x2340,480
+op4a43,OPPO,Oppo,Reno2 Z 中国版,Phone,1080x2340,480
+op4a4d,OPPO,Oppo,A11 中国版,Tablet,720x1600,160
+op4add,OPPO,Oppo,Reno3 5G 中国版,Phone,1080x2400,480
+op4b65l1,OPPO,Oppo,Reno2 Z,Phone,1080x2340,480
+op4b79l1,OPPO,Oppo,A5 2020,Phone,720x1600,160;320
+op4b80l1,OPPO,Oppo,A9 2020,Phone,720x1600,160;320
+op4b83l1,OPPO,Oppo,CPH1907,Phone,1080x2400,480
+op4b9b,OPPO,Oppo,CPH2021,Phone,1080x2400,480
+op4b9el1,OPPO,Oppo,Reno3,Phone,1080x2400,480
+op4ba1l1,OPPO,Oppo,Find X2,Phone,1440x3168,640
+op4ba2l1,OPPO,Oppo,Find X2 Pro,Phone,1440x3168,640
+op4ba5l1,OPPO,Oppo,CPH2113,Phone,1080x2400,480
+op4bafl1,OPPO,Oppo,Reno3 A,Phone,1080x2400,480
+op4bdcl1,OPPO,Oppo,Reno 4Z 5G,Phone,1080x2400,480
+op4bfb,OPPO,Oppo,CPH2083,Phone,720x1520,320
+op4c2dl1,OPPO,Oppo,Find X2 Neo/Reno3 Pro,Phone,1080x2400,480
+op4c41l1,OPPO,Oppo,Find X2 Lite,Phone,1080x2400,480
+op4c45l1,OPPO,Oppo,Reno4 5G,Phone,1080x2400,480
+op4c4bl1,OPPO,Oppo,CPH1989,Phone,1080x2340,480
+op4c51l1,OPPO,Oppo,Reno4 F,Phone,1080x2400,480
+op4c5fl1,OPPO,Oppo,Reno3 Pro,Phone,1080x2400,480
+op4c72l1,OPPO,Oppo,A72,Phone,1080x2400,480
+op4c77l1,OPPO,Oppo,A52,Phone,1080x2400,480
+op4c7bl1,OPPO,Oppo,A52,Phone,1080x2400,480
+op4c7d,OPPO,Oppo,CPH2081,Phone,720x1600,320
+op4c87l1,OPPO,Oppo,Reno4 Pro 5G,Phone,1080x2400,480
+op4e5d,OPPO,Oppo,Find X3 中国版,Phone,1440x3216,480
+op4e99,OPPO,Oppo,PEHM00,Tablet,1200x2000;1440x2200;1600x2456;1600x2560;1840x2800,300;320;360;400
+op4ea7,OPPO,Oppo,OPPO Reno5 Pro+ 5G,Phone,1080x2388,480
+op4ecb,OPPO,Oppo,PEPM00,Phone,1080x2388,480
+op4ee8l1,OPPO,Oppo,CPH2161,Phone,1080x2400,480
+op4eea,OPPO,Oppo,OPPO A33,Phone,720x1600,320
+op4ef3l1,OPPO,Oppo,CPH2095,Phone,1080x2400,480
+op4efdl1,OPPO,Oppo,A53,Phone,720x1600,320
+op4f11l1,OPPO,Oppo,CPH2365,Phone,1080x2400,480
+op4f1bl1,OPPO,Oppo,CPH2145,Phone,1080x2400,480
+op4f1fl1,OPPO,Oppo,OPPO Reno5 pro,Phone,1080x2400,480
+op4f25l1,OPPO,Oppo,Reno5,Phone,1080x2400,480
+op4f2bl1,OPPO,Oppo,Reno5 A (eSIM),Phone,1080x2400,480
+op4f2f,OPPO,Oppo,CPH2239,Phone,720x1600,320
+op4f39l1,OPPO,Oppo,OPPO A74 5G,Phone,1080x2400,480
+op4f43l1,OPPO,Oppo,Reno5 Lite,Phone,1080x2400,480
+op4f4dl1,OPPO,Oppo,CPH2213,Phone,1080x2400,480
+op4f53l1,OPPO,Oppo,OPPO A53s 5G,Phone,720x1600,320
+op4f57l1,OPPO,Oppo,Find X3 Pro,Phone,1440x3216,480
+op4f7fl1,OPPO,Oppo,CPH2247,Phone,1080x2400,480
+op4f81l1,OPPO,Oppo,CPH2249,Phone,1080x2400,480
+op4f83l1,OPPO,Oppo,CPH2251,Phone,1080x2400,480
+op4f97,OPPO,Oppo,CPH2269,Phone,720x1600,320
+op4fa7l1,OPPO,Oppo,OPPO Reno6 Z 5G,Phone,1080x2400,480
+op516fl1,OnePlus,OnePlus,OnePlus 10 Pro 5G,Tablet,1440x3216;900x1920,240;480
+op5226l1,OPPO,Oppo,OPD2102A,Tablet,1200x2000,280
+op5227,OPPO,Oppo,Reno7 中国版,Phone,1080x2400,480
+op526d,OPPO,Oppo,PFTM20,Phone,720x1612,320
+op5295,OPPO,Oppo,PGGM10,Phone,1080x2412,480
+op52d1l1,OPPO,Oppo,Find X5 Pro,Phone,1440x3216,480
+op52e1l1,OPPO,Oppo,CPH2293,Phone,1080x2400,480
+op52ebl1,OPPO,Oppo,A55s 5G,Phone,1080x2400,480
+op52f3l1,OPPO,Oppo,A77 5G,Phone,720x1612,320
+op5303,OPPO,Oppo,CPH2325,Phone,720x1600,320
+op5321,OPPO,Oppo,A16K,Phone,720x1600,320
+op5325,OPPO,Oppo,CPH2421,Phone,720x1600,320
+op532bl1,OPPO,Oppo,OPPO Reno7 A,Phone,1080x2400,480
+op532fl1,OPPO,Oppo,Reno7 Z 5G/Reno7 Lite 5G/Reno8 Lite 5G,Phone,1080x2400,480
+op5335l1,OPPO,Oppo,OPPO Reno8 Pro 5G,Phone,1080x2412,480
+op5339l1,OPPO,Oppo,OPPO Reno8 5G,Phone,1080x2400,480
+op533fl1,OPPO,Oppo,OPPO Reno7,Phone,1080x2400,480
+op5353l1,OPPO,Oppo,OPPO A57s,Phone,720x1612,320
+op5355,OPPO,Oppo,A57,Phone,720x1612,320
+op535dl1,OnePlus,OnePlus,OnePlus Nord CE 2 Lite 5G,Phone,1080x2412,480
+op5637l1,OPPO,Oppo,CPH2473,Phone,720x1612,320
+op5647,OPPO,Oppo,A2 5G,Phone,1080x2400,480
+op56bbl1,OPPO,Oppo,Find N3,Tablet,2268x2440,520
+op56cdl1,OPPO,Oppo,Find N2 Flip,Phone,1080x2520,480
+op56cfl1,OPPO,Oppo,Find N3 Flip,Phone,1080x2520,480
+op56d3l1,OPPO,Oppo,Reno10 Pro+ 5G,Phone,1240x2772,560
+op56dbl1,OPPO,Oppo,Reno10 Pro 5G,Phone,1080x2412,480
+op56e1l1,OPPO,Oppo,CPH2457,Phone,1080x2400,480
+op56e8l1,OPPO,Oppo,A98 5G,Phone,1080x2400,480
+op56edl1,OPPO,Oppo,Reno8 T 5G,Phone,1080x2412,480
+op56f5,OPPO,Oppo,A17,Phone,720x1612,320
+op5701l1,OPPO,Oppo,Reno9 A,Phone,1080x2400,480
+op5705l1,OPPO,Oppo,Reno10 5G,Phone,1080x2412,480
+op5709l1,OPPO,Oppo,OPPO Reno8 T,Phone,1080x2400,480
+op571f,OPPO,Oppo,CPH2407,Phone,720x1612,320
+op573dl1,OPPO,Oppo,A79 5G,Phone,1080x2400,480
+op5745l1,OPPO,Oppo,A78,Phone,1080x2400,480
+op574fl1,OPPO,Oppo,A58,Phone,1080x2400,480
+op5759l1,OPPO,Oppo,OPPO A38,Phone,720x1612,320
+op575dl1,OPPO,Oppo,A18,Phone,720x1612,320
+op5943l1,OnePlus,OnePlus,Oneplus Ace 2 Pro,Phone,1240x2772,560
+op5958l1,OnePlus,OnePlus,OnePlus Nord CE 3 Lite 5G,Phone,1080x2400,480
+op59bbl1,OPPO,Oppo,OPPO Pad 2,Tablet,2000x2800,400
+op5a0bl1,OPPO,Oppo,Reno11 A,Phone,1080x2412,480
+op5a3dl1,OPPO,Oppo,Find X8,Phone,1256x2760,560
+op5a47,OPPO,Oppo,A3x 5G,Phone,720x1604,320
+op5aa5l1,OPPO,Oppo,Find X8,Phone,1256x2760,560
+op5ab0l1,OPPO,Oppo,Find X8 Pro,Phone,1264x2780,560
+op5abfl1,OPPO,Oppo,Reno 11,Phone,1080x2412,480
+op5ad3l1,OPPO,Oppo,Reno 11 Pro,Phone,1080x2412,480
+op5addl1,OPPO,Oppo,Reno12 5G,Phone,1080x2412,480
+op5ae1l1,OPPO,Oppo,Reno12 Pro 5G,Phone,1080x2412,480
+op5ae7l1,OPPO,Oppo,A60,Phone,720x1604,320
+op5af2l1,OPPO,Oppo,Reno12 F/FS 5G,Phone,1080x2400,480
+op5b05l1,OPPO,Oppo,A3 5G,Phone,720x1604,320
+op5b16l1,OPPO,Oppo,A60,Phone,720x1604,320
+op5cf9l1,OnePlus,OnePlus,OnePlus Ace 3,Phone,1264x2780,560
+op5d06l1,OnePlus,OnePlus,Oneplus Ace 3 Pro,Phone,1264x2780,560
+op5d0dl1,OnePlus,OnePlus,OnePlus 13,Phone,1440x3216,640
+op5d55l1,OnePlus,OnePlus,OnePlus 13,Phone,1440x3216,640
+op5da3l1,OPPO,Oppo,OPPO Pad Neo,Tablet,1720x2408,360
+op5ddf,OPPO,Oppo,A3i 5G,Phone,720x1604,320
+op5df5l1,OPPO,Oppo,OPPO A5x 5G,Phone,720x1604,320
+op5e11l1,OPPO,Oppo,Find X9 Pro,Phone,1272x2772,560
+op5e1bl1,OPPO,Oppo,F33 5G,Phone,1080x2372,480
+op5e89l1,OPPO,Oppo,Find N5,Tablet,2248x2480,520
+op5e8bl1,OPPO,Oppo,Find X9,Phone,1256x2760,560
+op5e8el1,OPPO,Oppo,Find X9 Pro,Phone,1272x2772,560
+op5e9el1,OPPO,Oppo,Reno13 5G,Phone,1256x2760,560
+op5ea7l1,OPPO,Oppo,A3x 5G,Phone,720x1604,320
+op5eb1l1,OPPO,Oppo,Reno12 F,Phone,1080x2400,480
+op5ebbl1,OPPO,Oppo,A5 Pro 5G,Phone,720x1604,320
+op5ec5l1,OPPO,Oppo,Reno13 Pro 5G,Phone,1272x2800,560
+op5ec7l1,OPPO,Oppo,Reno13 F 5G,Phone,1080x2400,480
+op5ecbl1,OPPO,Oppo,Reno13 F,Phone,1080x2400,480
+op5ed9l1,OPPO,Oppo,A5 Pro,Phone,720x1604,320
+op5eedl1,OPPO,Oppo,A5x,Phone,720x1604,320
+op5ef7l1,OPPO,Oppo,A5 5G,Phone,720x1604,320
+op5f02l1,OPPO,Oppo,Reno14 5G,Phone,1256x2760,560
+op5f05l1,OPPO,Oppo,Reno14 Pro 5G,Phone,1272x2800,560
+op5f0fl1,OPPO,Oppo,Reno14 F 5G,Phone,1080x2372,480
+op5f2bl1,OPPO,Oppo,A6x 5G,Phone,720x1570,320
+op60f5l1,OnePlus,OnePlus,OnePlus 13T,Phone,1216x2640,560
+op613bl1,OnePlus,OnePlus,Nord CE5,Phone,1080x2392,480
+op6192l1,OPPO,Oppo,Pad SE,Tablet,1200x1920,280
+op61c1l1,OPPO,Oppo,Find X9s Pro,Phone,1216x2640,560
+op6275l1,OPPO,Oppo,Find X9s,Phone,1256x2760,560
+op627cl1,OPPO,Oppo,Find X9 Ultra,Phone,1440x3168,640
+op6285l1,OPPO,Oppo,A6 Pro,Phone,1080x2372,480
+op628fl1,OPPO,Oppo,Reno15 F 5G/Reno15 A,Phone,1080x2372,480
+op6293l1,OPPO,Oppo,Reno15 Pro Max 5G,Phone,1272x2772,560
+op62a3l1,OPPO,Oppo,A6k,Phone,720x1570,320
+op62b1l1,OPPO,Oppo,Reno15 5G,Phone,1256x2760,560
+op62f3l1,OPPO,Oppo,Reno16 F 5G,Phone,1080x2372,480
+op62fdl1,OPPO,Oppo,Reno16 Pro 5G,Phone,1216x2640,560
+op6307l1,OPPO,Oppo,Reno16 5G,Phone,1216x2640,560
+op632f,OPPO,Oppo,A6c,Phone,720x1570,320
+opal,Redmi,Redmi,Redmi Note 11S 5G,Phone,1080x2400,440
+opd4a1l1,OPPO,Oppo,OPPO Reno7 5G/Find X5 Lite,Phone,1080x2400,480
+oriole,google,Google,Pixel 6,Phone,1080x2400,420
+oxygen,Xiaomi,Xiaomi,MI MAX 2,Phone,1080x1920,480
+p024_4,asus,Asus,ZenPad 8.0 (Z380KL),Tablet,800x1280,213
+p1a42,Lenovo,Lenovo,P1,Phone,1080x1920,480
+p30_b,Teclast,Teclast,P30_ROW,Tablet,800x1280,213
+p3pro,DOOGEE,Doogee,T30Pro,Tablet,1600x2560,320
+p3q,samsung,Samsung,Galaxy S21 Ultra 5G,Phone,1440x3200,450
+p3s,samsung,Samsung,Galaxy S21 Ultra 5G,Phone,1080x1920;1440x3200;900x1600;900x1920,240;320;450
+p6,DOOGEE,Doogee,Tab E3 Max,Tablet,1440x2160,280
+p6,Panasonic,Panasonic,P6,Phone,480x960,240
+p606f01,ZTE,ZTE,ZTE A7040,Phone,720x1600,320
+p606f02,ZTE,ZTE,ZTE 8045,Phone,720x1600,320
+p606f08,ZTE,ZTE,ZTE 8050,Phone,1080x2408,480
+p606f10,ZTE,ZTE,ZTE Blade V60 Design,Phone,720x1612,320
+p606f10,nubia,ZTE,nubia V60 Design,Phone,720x1612,320
+p606f17,ZTE,ZTE,ZTE Blade V70 Vita,Phone,720x1600,320
+p606f17,nubia,ZTE,nubia V70 Design,Phone,720x1600,320
+p606f19,ZTE,ZTE,ZTE Blade V70 Max,Phone,720x1640,320
+p606f19,nubia,ZTE,ZTE Blade V70 Max,Phone,720x1640,320
+p606f20,ZTE,ZTE,Z2472,Phone,720x1600,320
+p606f20,nubia,ZTE,Z2472,Phone,720x1600,320
+p606f20_a,ZTE,ZTE,Z2472,Phone,720x1600,320
+p606f21,ZTE,ZTE,ZTE Blade A56,Phone,720x1600,320
+p606f21,nubia,ZTE,nubia A56,Phone,720x1600,320
+p60pro,Plimpton,Plimpton,P60Pro,Tablet,800x1280,213
+p60pro,XGODY,Xgody,P60Pro,Tablet,800x1280,213
+p615f02,nubia,ZTE,Z2577,Phone,720x1640,320
+p615f03,ZTE,ZTE,Z2581,Phone,720x1570,320
+p616f02,ZTE,ZTE,ZTE Blade V60,Phone,1080x2400,480
+p616f02,nubia,ZTE,nubia V60,Phone,1080x2400,480
+p616f05,ZTE,ZTE,Z2459,Phone,720x1600,320
+p616f05,nubia,ZTE,Z2459,Phone,720x1600,320
+p618f08,ZTE,ZTE,ZTE 9047,Phone,1080x2400,480
+p633f08,ZTE,ZTE,ZTE 7540N,Phone,720x1600,320
+p688f02,nubia,ZTE,Z2570N,Phone,1224x2720,520
+p720f02,ZTE,ZTE,Optus X Pro 5G,Phone,720x1600,320
+p720f03_a,ZTE,ZTE,nubia Neo 5G,Phone,1080x2408,480
+p720f08,nubia,ZTE,Z2351N,Phone,1080x2400,480
+p720f09,ZTE,ZTE,ZTE Blade A75 5G,Phone,720x1612,320
+p720f09,nubia,ZTE,nubia Focus 5G,Phone,720x1612,320
+p720f11,nubia,ZTE,nubia Focus 2 5G,Phone,720x1600,320
+p780f01,nubia,ZTE,nubia Neo 3 5G,Phone,900x2030,400
+p780f03,ZTE,ZTE,ZTE Blade A76 5G,Phone,720x1600,320
+p780f03,nubia,ZTE,nubia A76 5G,Phone,720x1600,320
+p820f03,nubia,ZTE,nubia Neo 2 5G,Phone,1080x2400,480
+p820f05,nubia,ZTE,Z2465N,Phone,1080x2392,480
+p830f01,nubia,ZTE,Z2571N,Phone,900x1940,400
+p85t,Teclast,Teclast,P85T_ROW,Tablet,800x1280,160
+p963f11,nubia,ZTE,nubia Music,Phone,720x1612,320
+p963f61_a,ZTE,ZTE,ZTE 1010L,Phone,720x1600,320
+p963f63,ZTE,ZTE,ZTE Blade A53 Pro,Phone,720x1600,320
+p963f64,ZTE,ZTE,ZTE Blade A54,Phone,720x1612,320
+p963f65,ZTE,ZTE,Optus X-Total,Phone,720x1600,320
+p963f66,ZTE,ZTE,ZTE Blade A35e,Phone,576x1280,240
+p963f80,ZTE,ZTE,P601,Phone,480x960,240
+p963f95,ZTE,ZTE,Z2453,Phone,720x1600,320
+pa1q,samsung,Samsung,Galaxy S25,Phone,1080x2340,480
+pa2q,samsung,Samsung,Galaxy S25+,Phone,1440x3120,450
+pa3q,samsung,Samsung,Galaxy S25 Ultra,Phone,1440x3120,450
+pacman,Nothing,Nothing,Nothing Phone (2a),Phone,1084x2412,420
+pacmanpro,Nothing,Nothing,Nothing Phone (2a) Plus,Phone,1084x2412,420
+padm00,OPPO,Oppo,A3中国版,Phone,1080x2280,480
+padt00,OPPO,Oppo,A3中国版,Phone,1080x2280,480
+pan_sprout,Nokia,Nokia,Nokia 4.2,Phone,720x1520,300
+pandora,Xiaomi,Xiaomi,Xiaomi 17 Pro,Phone,1220x2656,520
+panther,google,Google,Pixel 7,Phone,1080x2400,420
+pbam00,OPPO,Oppo,A5,Phone,720x1520,320
+pbat00,OPPO,Oppo,A5,Phone,720x1520,320
+pbbm00,OPPO,Oppo,A7x 中国版,Phone,1080x2340,480
+pbbm30,OPPO,Oppo,A5,,1080x1920,240
+pbbt00,OPPO,Oppo,A7x 中国版,Phone,1080x2340,480
+pbbt30,OPPO,Oppo,A5,Phone,720x1520,320
+pd1612,vivo,Vivo,Y67,Phone,720x1280,320
+pd1613,vivo,Vivo,Y55A,Phone,720x1280,320
+pd1621,vivo,Vivo,Y66,Phone,720x1280,320
+pd1730,vivo,Vivo,vivo  Y85A,Phone,1080x1920,480
+pd1731,vivo,Vivo,vivo Y71A,Phone,1080x1920,480
+pd1803,vivo,Vivo,vivo Y83A,Phone,1080x1920,480
+pd1809,vivo,Vivo,V1809A,Phone,1080x1920,480
+pd1813,vivo,Vivo,Y97,Phone,1080x1920,480
+pd1813c,vivo,Vivo,Z3i,Phone,1080x2280,480
+pd1818,vivo,Vivo,V1818A,Phone,1080x1920,480
+pd1818b,vivo,Vivo,Y93标准版 64G,,1080x1920,320
+pd1818c,vivo,Vivo,Y93s,,1080x1920,240
+pd1829,vivo,Vivo,V1829A,Tablet,1200x1920,280
+pd1831,vivo,Vivo,vivo S1,Phone,1080x2340,480
+pd1901,vivo,Vivo,V1901K,Phone,720x1544,320
+pd1913,vivo,Vivo,V1913A,Phone,1080x1920,480
+pd1928,vivo,Vivo,V1928A,Phone,1080x2248,480
+pd1934,vivo,Vivo,V1934A,Phone,720x1280,320
+pd2002,vivo,Vivo,V2002A,Phone,1080x2340,480
+pd2019,vivo,Vivo,V2002A,Phone,720x1600,320
+pd2031,vivo,Vivo,V2031A,Phone,1080x2400,480
+pd2036,vivo,Vivo,V2036A,Phone,720x1600,320
+pd2057,vivo,Vivo,V2057A,Phone,1080x2408,480
+pd2066b,vivo,Vivo,V2066BA,Phone,720x1600,320
+pd2068,vivo,Vivo,V2068A,Phone,720x1600,320
+pd2168,vivo,Vivo,V2168A,Phone,720x1600,320
+pd2230,vivo,Vivo,Y53t,Phone,720x1600,320
+pd2279j,vivo,Vivo,V2279A,Phone,1080x2388,480
+pd2405,vivo,Vivo,X200 Pro,Phone,1260x2800,560
+pd2408,vivo,Vivo,iQOO 13,Phone,1440x3168,480
+pd2419,vivo,Vivo,vivo X200 Pro mini,Phone,1216x2640,560
+pd2454,vivo,Vivo,X200 Ultra,Phone,1440x3168,480
+pd2464,vivo,vivo,S30,Phone,1260x2800,480
+pd2465,vivo,vivo,S30 Pro mini,Phone,1216x2640,560
+pd2502,vivo,vivo,X300 Pro 卫星通信版,Phone,1260x2800,560
+pd2505,vivo,iQOO,iQOO 15,Phone,1440x3168,640
+pda_sprout,Nokia,Nokia,Nokia 5.1 Plus,Phone,720x1520,320
+pearl_k3,HOTWAV,Hotwav,Pearl K3,Phone,720x1560,320
+penang,motorola,Motorola,moto g53 5G,Phone,720x1600,280
+penrose,blackshark,Blackshark,SHARK PRS-A0,Phone,1080x2400,440
+peridot,POCO,POCO,POCO F6,Phone,1220x2712,480
+peridot,Redmi,Redmi,Redmi Turbo 3,Phone,1220x2712,480
+perseus,Xiaomi,Xiaomi,MIX 3,Phone,1080x2340,440
+piano,Xiaomi,Xiaomi,Xiaomi Pad 8 Pro,Tablet,2136x3200,440
+picopad-7h,AXIOO,Axioo,PICOpad-7H,Phone,800x1280,240
+picopad_7h_jl,AXIOO,Axioo,PICOpad_7H_JL,Tablet,800x1280,213
+pine,Redmi,Redmi,Redmi 7A,Phone,720x1440,320
+pine,Xiaomi,Xiaomi,Redmi 7A,Phone,720x1440,320
+pine,hp,HP,Slate 7,Tablet,600x976,160
+pipa,Xiaomi,Xiaomi,Xiaomi Pad 6,Tablet,1800x2880,400
+pissarro,Redmi,Redmi,Redmi Note 11 Pro,Phone,1080x2400,440
+pissarropro,Redmi,Redmi,Redmi Note 11 Pro+ 5G,Phone,1080x2400,440
+platina,Xiaomi,Xiaomi,MI 8 Lite,Phone,1080x2280,440
+plato,Xiaomi,Xiaomi,Xiaomi 12T,Phone,1220x2712,480
+ple,Nokia,Nokia,Nokia 6,Phone,1080x1920,480
+pnx_sprout,Nokia,Nokia,Nokia 8.1,Phone,1080x2246,420
+polaris,Selvas,Selvas,BrailleSense Polaris,Tablet,1080x1920,240
+polaris,Xiaomi,Xiaomi,MIX 2S,Phone,1080x2160,440
+pond,Redmi,Redmi,Redmi A3 Pro,Phone,720x1640,320
+pong,Nothing,Nothing,Nothing Phone (2),Phone,1080x2412,420
+popsicle,Xiaomi,Xiaomi,Xiaomi 17 Pro Max,Phone,1200x2608,480
+portov,motorola,Motorola,moto g67 power 5G,Phone,1080x2400,390
+psq,samsung,Samsung,Galaxy S25 Edge,Phone,1440x3120,450
+psyche,Xiaomi,Xiaomi,Xiaomi 12X,Phone,1080x2400,440
+pudding,Xiaomi,Xiaomi,Xiaomi 17,Phone,1220x2656,520
+pulse_2_4g,AIPLUS,AIPLUS,AI+ Pulse 2 4G,Phone,720x1600,480
+q2q,samsung,Samsung,Galaxy Z Fold3 5G,Tablet,1768x2208,420
+q4q,samsung,Samsung,Galaxy Z Fold4,Tablet,1812x2176,420
+q5q,samsung,Samsung,Galaxy Z Fold5,Tablet,1812x2176,420
+q6q,samsung,Samsung,Galaxy Z Fold6,Tablet,1856x2160,420
+q7q,samsung,Samsung,Galaxy Z Fold7,Tablet,1968x2184,420
+q8q,samsung,Samsung,Galaxy Z Fold8 Ultra,Tablet,2256x2504,480
+quess,SHARP,Sharp,AQUOS sense8,Phone,1080x2432,440
+r0q,samsung,Samsung,Galaxy S22,Phone,1080x2340,480
+r0s,samsung,Samsung,Galaxy S22,Phone,1080x2340,480
+r11q,samsung,Samsung,Galaxy S23 FE,Phone,1080x2340,450
+r11s,OPPO,Oppo,R11st,Phone,1080x2160,480
+r11s,samsung,Samsung,Galaxy S23 FE,Phone,1080x2340,450
+r12s,samsung,Samsung,Galaxy S24 FE,Phone,1080x2340,450
+r13s,samsung,Samsung,Galaxy S25 FE,Phone,1080x2340,450
+r1q,samsung,Samsung,Galaxy A80,Phone,1080x2400,420
+r3q,samsung,Samsung,Galaxy A90 5G,Phone,1080x2400,420
+r5q,samsung,Samsung,Galaxy S10 Lite,Phone,1080x2400,420
+r678l5,Orbic,Orbic,R678L5V,Phone,720x1600,320
+r7,Mobicel,Mobicell,R7,Phone,480x960,240
+r7,OPPO,Oppo,R7,Phone,1080x1920,480
+r7,samsung,Samsung,Galaxy Note10 Lite,Phone,1080x2400,420
+r7sf,OPPO,Oppo,R7sfg,Phone,1080x1920,480
+r8q,samsung,Samsung,Galaxy S20 FE 5G,Phone,1080x2400,480
+r8s,samsung,Samsung,Galaxy S20 FE,Phone,1080x2400,480
+r9q,samsung,Samsung,Galaxy S21 FE 5G,Phone,1080x2340,480
+r9s,OPPO,Oppo,R9st,Phone,1080x1920,480
+r9s,samsung,Samsung,Galaxy S21 FE 5G,Phone,1080x2340,480
+rakan,SHARP,Sharp,AQUOS sense7,Phone,1080x2432,440
+rango,Redmi,Redmi,MiTV,TV,720x1280,213
+rango,Xiaomi,Xiaomi,MiTV,TV,720x1280,213
+rango,google,Google,Pixel 10 Pro Fold,Tablet,2076x2152,390
+raphael,Xiaomi,Redmi,Redmi K20 Pro,Phone,1080x2340;1080x2376;1080x2388;1084x2412;1256x2760;720x1600;720x1604,320;440;480;540
+raven,google,Google,Pixel 6 Pro,Phone,1440x3120,560
+rdd,Nokia,Nokia,Nokia T20,Tablet,1200x2000,280
+re50bf,realme,Realme,realme C17,Phone,720x1600,320
+re50c1,realme,Realme,realme 7i,Phone,720x1600,320
+re513cl1,realme,realme,realme 8 5G,Phone,1080x2400,480
+re549c,realme,realme,realme C31,Phone,720x1600,320
+re54abl1,realme,Realme,realme GT Master Edition,Phone,1080x2400,480
+re54b4l1,realme,realme,realme 8i,Phone,1080x2412,480
+re54cbl1,realme,realme,realme 9Pro 5G,Phone,1080x2412,480
+re54d8l1,realme,realme,realme narzo 50A Prime,Phone,1080x2408,480
+re54e2l1,realme,realme,realme 9,Phone,1080x2400,480
+re54e4l1,realme,realme,realme GT NEO 3T,Phone,1080x2400,480
+re5887,realme,realme,realme C30,Phone,720x1600,320
+re588bl1,realme,realme,realme 10 Pro 5G,Phone,1080x2400,480
+re588dl1,realme,realme,RMX3612,Phone,1080x2408,480
+re588e,realme,realme,realme narzo 50i Prime,Phone,720x1600,320
+re5894,realme,realme,realme C33,Phone,720x1600,320
+re58a6l1,realme,realme,realme 10 Pro+ 5G,Phone,1080x2412,480
+re58ab,realme,realme,realme C30s,Phone,720x1600,320
+re58af,realme,realme,realme C33 128GB,Phone,720x1600,320
+re58b6l1,realme,realme,realme 11 Pro+ 5G,Phone,1080x2412,480
+re58b8l1,realme,realme,RMX3771,Phone,1080x2412,480
+re58bc,realme,realme,realme C51,Phone,720x1600,320
+re58c2,realme,realme,realme C53,Phone,720x1600,320
+re5c42,realme,realme,realme C65,Phone,720x1604,320
+re5c51,realme,realme,realme C51s,Phone,720x1600,320
+re5c6cl1,realme,realme,realme 11 5G,Phone,1080x2400,480
+re5c7cl1,realme,realme,realme 11,Phone,1080x2400,480
+re5c82l1,realme,realme,realme 12 Pro+ 5G,Phone,1080x2412,480
+re5c86l1,realme,realme,NARZO 70 5G,Phone,1080x2400,480
+re5c91l1,realme,realme,realme C67,Phone,1080x2400,480
+re5c94l1,realme,realme,realme 12 5G,Phone,1080x2400,480
+re5c9al1,realme,realme,realme 12x 5G,Phone,720x1604,320
+re5c9f,realme,realme,realme Note 50,Phone,720x1600,320
+re5ca3l1,realme,realme,realme P2 Pro 5G,Phone,1080x2412,480
+re5ca6l1,realme,realme,realme GT 6,Phone,1264x2780,560
+re6054,realme,realme,realme C61,Phone,720x1600,320
+re6063l1,realme,realme,RMX3871,Phone,1080x2400,480
+re6066l1,realme,realme,RMX5000,Phone,1080x2400,480
+re606fl1,realme,realme,realme GT 6T,Phone,1264x2780,560
+re6070l1,realme,realme,realme C63 5G,Phone,1080x2400;720x1604,320;480
+re607cl1,realme,realme,realme C75,Phone,1080x2400,480
+re6089,realme,realme,realme C75x,Phone,720x1604,320
+re608el1,realme,realme,realme P3 5G,Phone,1080x2400,480
+re6090l1,realme,realme,realme GT 7T,Phone,1280x2800,560
+re6092,realme,realme,realme C75 5G,Phone,720x1604,320
+re6095,realme,realme,realme Note 60x,Phone,720x1600,320
+re60adl1,realme,realme,RMX5061,Phone,1264x2780,560
+re60afl1,realme,realme,realme 14T 5G,Phone,1080x2400,480
+re60b4l1,realme,realme,realme 15 Pro 5G,Phone,1280x2800,480
+re60b8,realme,realme,realme P3 Lite,Phone,720x1604,320
+re60ba,realme,realme,realme Note 70,Phone,720x1600,320
+re60cdl1,realme,realme,realme 15 5G,Phone,1080x2392,480
+re6441l1,realme,realme,RMX5555,Phone,1080x2344,480
+re6444l1,realme,realme,realme 15T,Phone,1080x2372,480
+re644c,realme,realme,realme C85 5G,Phone,720x1570,320
+re6452l1,realme,realme,realme Pad 3 5G,Tablet,2000x2800,400
+re6458l1,realme,realme,realme 16 Pro+ 5G,Phone,1280x2800,560
+re645dl1,realme,realme,realme 16 Pro 5G,Phone,1272x2772,560
+re645f,realme,realme,realme C85,Phone,720x1570,320
+re646b,realme,realme,realme C100,Phone,720x1570,320
+re6474l1,realme,realme,realme 16 5G,Phone,1080x2372,480
+re6478l1,realme,realme,RMX5261,Phone,720x1570,320
+re6488,realme,realme,realme P4x,Phone,720x1570,320
+re648b,realme,realme,realme P4 Lite,Phone,720x1570,320
+re6491l1,realme,realme,realme 16T 5G,Phone,720x1570,320
+re879al1,realme,Realme,realme GT Neo2 5G,Phone,1080x2400,480
+re879el1,realme,realme,realme 9 Pro+,Phone,1080x2400,480
+re87bal1,realme,realme,realme C35,Phone,1080x2408,480
+re87ccl1,realme,realme,realme Pad mini,Tablet,800x1340,213
+re8ddcl1,realme,realme,realme 10,Phone,1080x2400,480
+rece4244,realme,Realme,realme C15 Qualcomm Edition,Phone,720x1600,320
+red8acl1,realme,realme,realme GT 2 Pro,Phone,1440x3216,480
+red8af,realme,realme,realme narzo 50A,Phone,720x1600,320
+red8bel1,realme,realme,realme GT NEO 3 150W,Phone,1080x2412,480
+red8c1l1,realme,realme,realme 9i,Phone,1080x2412,480
+red8cdl1,realme,realme,narzo 50 5G,Phone,1080x2408,480
+red8d1,realme,realme,realme C21-Y,Phone,720x1600,320
+red8d7,realme,realme,RMX3268,Phone,720x1600,320
+red8f6,realme,realme,realme C25Y,Phone,720x1600,320
+red8fa,realme,realme,realme narzo 50i,Phone,720x1600,320
+redfin,google,Google,Pixel 5,Phone,1080x2340,440
+redwood,AIWA,Aiwa,Smart TV,TV,720x1280,213
+redwood,ANEXA,ANEXA,Smart TV,TV,720x1280,213
+redwood,ASHER,ASHER,Smart TV,TV,720x1280,213
+redwood,Albadeel,ALBADEEL,Smart TV,TV,720x1280,213
+redwood,BAUHN,Bauhn,Smart TV,TV,720x1280,213
+redwood,BLAUPUNKT,Blaupunkt,Android TV,TV,720x1280,213
+redwood,BPL,BPL,Smart TV,TV,720x1280,213
+redwood,BRANDO,BRANDO,Smart TV,TV,720x1280,213
+redwood,BenQ,BenQ,Smart TV,TV,720x1280,213
+redwood,CHiQ,CHiQ,H7,TV,720x1280,213
+redwood,CLASSPRO,Classpro,G7N,TV,720x1280,213
+redwood,Changhong,Changhong,H7,TV,720x1280,213
+redwood,Condor,Condor,Smart TV,TV,720x1280,213
+redwood,Cristor,Cristor,Smart TV,TV,720x1280,213
+redwood,DORA,DORA,Smart TV,TV,720x1280,213
+redwood,ELSONIC,ELSONIC,ESD,TV,720x1280,213
+redwood,ERGO,Ergo,GHS55,TV,720x1280,213
+redwood,Grunhelm,Grunhelm,Smart TV,TV,720x1280,213
+redwood,HOMEZ,homez,Smart TV,TV,720x1280,213
+redwood,HYUNDAI,Hyundai,Smart TV,TV,720x1280,213
+redwood,Hyundai,Hyundai,BS5002,TV,720x1280,213
+redwood,JETPOINT,Jetpoint,Smart TV,TV,720x1280,213
+redwood,KUNFT,KUNFT,Smart TV,TV,720x1280,213
+redwood,Kogan,Kogan,RF9220,TV,720x1280,213
+redwood,LIBERTON,LIBERTON,Smart TV,TV,720x1280,213
+redwood,Motorola,Motorola,Android TV,TV,720x1280,213
+redwood,NIKKEI,Nikkei,Android TV,TV,720x1280,213
+redwood,Nokia,Nokia,Smart TV,TV,720x1280,213
+redwood,OK,OK (Mediamark),Android TV,TV,720x1280,213
+redwood,ORION,ORION,Smart TV,TV,720x1280,213
+redwood,PILOT,PILOT,Smart TV,TV,720x1280,213
+redwood,POCO,POCO,POCO X5 Pro 5G,Phone,1080x2400,440
+redwood,POLAROID,Polaroid,G5N,TV,720x1280,213
+redwood,PREMIER,Premier,Smart TV,TV,720x1280,213
+redwood,Redmi,Redmi,Redmi Note 12 Pro Speed,Phone,1080x2400,440
+redwood,Rindo,Rindo,Smart TV,TV,720x1280,213
+redwood,SABA,SABA,Smart TV,TV,720x1280,213
+redwood,SHINON,SHINON,Smart TV,TV,720x1280,213
+redwood,STRONG,Strong,Android TV,TV,720x1280,213
+redwood,Singer,Singer,Smart TV,TV,720x1280,213
+redwood,Syinix,Syinix,Smart TV,TV,720x1280,213
+redwood,TDSYSTEMS,TD SYSTEMS,Android TV,TV,720x1280,213
+redwood,TECHLIFE,TECHLIFE,Smart TV,TV,720x1280,213
+redwood,TEKLIO,TEKLIO,Smart TV,TV,720x1280,213
+redwood,THOMSON,Thomson,Smart TV,TV,720x1280,213
+redwood,UD,UD (EU),Smart TV,TV,720x1280,213
+redwood,United,UNITED TV,Smart TV,TV,720x1280,213
+redwood,Wansa,Wansa,Smart TV,TV,720x1280,213
+redwood,biolux,biolux,Android TV,TV,720x1280,213
+redwood,hp,HP,7 G2,Tablet,720x1280,160
+redwood,itel,Itel,Smart TV,TV,720x1280,213
+redwood,kolin,Kolin,Smart TV,TV,720x1280,213
+redwood,realme,realme,Smart TV,TV,720x1280,213
+ree2adl1,realme,realme,realme C55,Phone,1080x2400,480
+renoir,Xiaomi,Xiaomi,Mi 11 Lite 5G,Phone,1080x2400,440
+riva,Xiaomi,Xiaomi,Redmi 5A,Phone,720x1280,320
+river,Redmi,Redmi,Redmi 12 5G,Phone,1080x2460,440
+river,Xiaomi,Xiaomi,MiTV,TV,2160x3840,320
+river,motorola,Motorola,moto g(7),Phone,1080x2270,480
+rku,Nokia,Nokia,Nokia C1,Phone,480x960,240
+rmx1801,OPPO,Realme,realme 2 Pro,Phone,1080x2340,480
+rmx1805,OPPO,Oppo,realme 2,Phone,720x1520,320
+rmx1807,OPPO,Oppo,realme 2 Pro,Phone,1080x2340,480
+rmx1811,OPPO,Oppo,realme C1,Phone,720x1520,320
+rmx1821,Realme,Oppo,realme 3,Phone,720x1520,320
+rmx1831,Realme,Oppo,realme U1,Phone,1080x2340,480
+rmx1851,Realme,Realme,realme 3Pro,Phone,1080x2340,480
+rmx1911,realme,Oppo,realme 5,Phone,720x1600,320
+rmx1921,realme,Realme,realme XT,Phone,1080x2340,480
+rmx1925,realme,Realme,realme 5,Phone,720x1600,320
+rmx1931l1,realme,Realme,realme X2Pro,Phone,1080x2400,480
+rmx1941,Realme,Oppo,realme C2,Phone,720x1560,320
+rmx1971,realme,Realme,realme 5pro,Phone,1080x2340,480
+rmx2001l1,realme,Realme,realme 6,Phone,1080x2400,480
+rmx2002l1,realme,Realme,realme 6s,Phone,1080x2400,480
+rmx2020,realme,Realme,RMX2020,Phone,720x1600,320
+rmx2030,realme,Realme,realme 5i,Phone,720x1600,320
+rmx2040,realme,Realme,realme 6i,Phone,720x1600,320
+rmx2061l1,realme,realme,realme 6Pro,Phone,1080x2400,480
+rmx2075l1,realme,Realme,realme X50 Pro,Phone,1080x2400,480
+rmx2083l1,realme,realme,realme X3,Phone,1080x2400,480
+rmx2086l1,realme,realme,realme X3,Phone,1080x2400,480
+rmx2111l1,realme,realme,realme 7 5G,Phone,1080x2400,480
+rmx2144l1,realme,Realme,realme X50 5G,Phone,1080x2400,480
+rmx2151l1,realme,realme,realme 7,Phone,1080x2400,480
+rmx2170l1,realme,Realme,realme 7 Pro,Phone,1080x2400,480
+rmx2180,realme,Realme,realme C15,Phone,720x1600,320
+rmx2185,realme,Realme,realme C11,Phone,720x1600,320
+rmx2189,realme,Realme,realme C12,Phone,720x1600,320
+rmx2193,realme,Realme,realme 7i,Phone,720x1600,320
+rmx3063,realme,Realme,realme C20,Phone,720x1600,320
+rmx3081l1,realme,realme,realme 8 Pro,Phone,1080x2400,480
+rmx3085l1,realme,realme,realme  8,Phone,1080x2400,480
+rmx3171,realme,Realme,realme narzo 30A,Phone,720x1600,320
+rmx3191,realme,realme,realme C25,Phone,720x1600,320
+rmx3195,realme,realme,realme C25s,Phone,720x1600,320
+rmx3201,realme,Realme,realme C21,Phone,720x1600,320
+rmx3231,realme,realme,realme C11 2021,Phone,720x1600,320
+rmx3261,realme,realme,realme C21 Y,Phone,720x1600,320
+rnn,Nokia,Nokia,Nokia G20,Phone,720x1600,280
+rodin,POCO,POCO,POCO X7 Pro,Phone,1220x2712,520
+rodin,Redmi,Redmi,REDMI Turbo 4,Phone,1220x2712,520
+roga,Nokia,Nokia,Nokia G10,Phone,720x1600,280
+rolex,Xiaomi,Xiaomi,Redmi 4A,Phone,720x1280,320
+rolex,acer,Acer,GT-810,Tablet,1200x1920,320
+roon_sprout,Nokia,Nokia,Nokia 3.1 Plus,Phone,720x1440,280
+rosemary,POCO,Xiaomi,POCO M5s,Phone,1080x2400,440
+rosemary,Redmi,Redmi,Redmi Note 10S,Phone,1080x2400,440
+rosy,Xiaomi,Xiaomi,Redmi 5,Phone,720x1440,320
+rothko,Redmi,Redmi,Redmi K70 Ultra,Phone,1220x2712,520
+rothko,Xiaomi,Xiaomi,Xiaomi 14T Pro,Phone,1220x2712,520
+rse,E-LEAD,E-LEAD,RSE,Tablet,1080x1920,240
+ruan,Redmi,Redmi,Redmi Pad Pro 5G,Tablet,1600x2560,320
+ruby,Mobicel,Mobicell,RUBY,Phone,480x960,240
+ruby,Redmi,Redmi,Redmi Note 12 Pro 5G,Phone,1080x2400,440
+rubypro,Redmi,Redmi,Redmi Note 12 Pro+ 5G,Phone,1080x2400,440
+s10,AFRICELL,AFRICELL,S10,Phone,480x960,200
+s10,Bluebird,Bluebird,S10,Phone,720x1440,320
+s10,DIALN,DIALN,S10,Tablet,800x1280,200
+s10,DUODUOGO,DUODUOGO,S10,Tablet,800x1280,160
+s10,G-Tab,G-Tab,S10,Tablet,800x1280,213
+s10,Gplus,Gplus,S10,Phone,720x1600,320
+s10,NOMU,Nomu,S10,Phone,720x1280,320
+s10,VANKYO,Vankyo,S10,Tablet,800x1280,160
+s10,i-custom,i-custom,S10,Tablet,2160x3840,360
+s10_pro,Ulefone,Ulefone,S10_Pro,Phone,720x1498,320
+s12,ALTICE,Altice,AlTICE S12,Phone,480x800,240
+s12,G-Tab,G-Tab,S12,Phone,800x1280,240
+s13,Altice,Altice,S13,Phone,540x1200,240
+s19_max_pro,reeder,Reeder,S19 Max Pro,Phone,720x1650,320
+s24,Altice,Altice,S24,Phone,480x854,240
+s24,SEGO,SEGO,SEGO_S24,Phone,720x1600,320
+s25,Altice,Altice,S25,Phone,480x854,240
+s25,Attila,Attila,S25,Phone,720x1640,320
+s25,Q7,Q7mobile,S25,Phone,720x1640,320
+s25,SEGO,SEGO,S25,Phone,720x1600,320
+s26,TRECFONE,Trecfone,TRECFONE S26,Phone,720x1600,280
+s45b,EVERCOSS,Evercoss,S45B,Phone,480x854,240
+s6,ASANZO,Asanzo,S6,Phone,600x1280,240
+s6,Blackview,Blackview,S6,Phone,720x1440,320
+s6,EVERCOSS,Evercoss,S6,Phone,720x1600,320
+s6,Sparx,SparX,S6,Phone,480x960,200
+s6,TechPad,Techpad,S6,Phone,480x960,240
+sabahl,motorola,Motorola,moto e13,Phone,720x1600,280
+sagit,Xiaomi,Xiaomi,MI6,Phone,1080x1920,480
+sailfish,google,Google,Pixel,Phone,1080x1920,420
+sakura_india,xiaomi,Xiaomi,Redmi 6 Pro,Phone,1080x2280,440
+samba65s,IPRO,Ipro,SAMBA65S,Phone,720x1612,320
+santoni,Xiaomi,Xiaomi,Redmi 4X,Phone,720x1280,320
+sapphire,Redmi,Redmi,Redmi Note 13,Phone,1080x2400,440
+sapphire,Teracube,Teracube,Teracube 2s,Phone,720x1560,320
+sapphire,ZTE,ZTE,Sapphire 3G,Phone,480x800,240
+sapphiren,Redmi,Redmi,Redmi Note 13,Phone,1080x2400,440
+sargo,google,Google,Pixel 3a,Phone,1080x2220,440
+sb-tm700,Sunbio,Sunbio,SB-TM700,Tablet,800x1280,213
+sc-01m,samsung,Samsung,Galaxy Note10+,Phone,1440x3040,420
+sc-02h,samsung,Samsung,Galaxy S7 Edge,Phone,1080x1920,480
+sc-03l,samsung,Samsung,Galaxy S10,Phone,1440x3040,420
+sc-04l,samsung,Samsung,Galaxy S10+,Phone,1440x3040,420
+sc-51b,samsung,Samsung,Galaxy S21 5G,Phone,1080x2400,480
+sc-51c,samsung,Samsung,Galaxy S22,Phone,1080x2340,480
+sc-51d,samsung,Samsung,Galaxy S23,Phone,1080x2340,480
+sc-51f,samsung,Samsung,Galaxy S25,Phone,1080x2340,480
+sc-52c,samsung,Samsung,Galaxy S22 Ultra,Phone,1440x3088,450
+sc-52e,samsung,Samsung,Galaxy S24 Ultra,Phone,1440x3120,450
+sc-53a,samsung,Samsung,Galaxy Note20 Ultra 5G,Phone,1440x3088,420
+sc-53c,samsung,Samsung,Galaxy A53 5G,Phone,1080x2400,450
+sc-53f,samsung,Samsung,Galaxy A25 5G,Phone,720x1600,300
+sc-54d,samsung,Samsung,Galaxy Z Flip5,Phone,1080x2640,480
+sc-55c,samsung,Samsung,Galaxy Z Fold4,Tablet,1812x2176,420
+scg08,samsung,Samsung,Galaxy A32 5G,Phone,720x1600,300
+scg09,samsung,Samsung,Galaxy S21 5G,Phone,1080x2400,480
+scg13,samsung,Samsung,Galaxy S22,Phone,1080x2340,480
+scg14,samsung,Samsung,Galaxy S22 Ultra,Phone,1440x3088,450
+scg20,samsung,Samsung,Galaxy S23 Ultra,Phone,1440x3088,450
+scg22,samsung,Samsung,Galaxy Z Fold5,Tablet,1812x2176,420
+scg24,samsung,Samsung,Galaxy S23 FE,Phone,1080x2340,450
+scg26,samsung,Samsung,Galaxy S24 Ultra,Phone,1440x3120,450
+scg33,samsung,Samsung,Galaxy A25 5G,Phone,720x1600,300
+scout,motorola,Motorola,motorola edge 60,Phone,1220x2712,450
+scp_sprout,Nokia,Nokia,Nokia G21,Phone,720x1600,280
+scv38,KDDI,Samsung,Galaxy S9,Phone,1440x2960,480
+scv41,KDDI,Samsung,Galaxy S10,Phone,1440x3040,420
+scv42,KDDI,Samsung,Galaxy S10+,Phone,1440x3040,420
+scv43,KDDI,Samsung,Galaxy A30,Phone,1080x2340,420
+scv45,KDDI,Samsung,Galaxy Note10+,Phone,1440x3040,420
+sdm660_64,ZTE,ZTE,ZTE V890,Phone,1080x2160,480
+sea,Redmi,Redmi,Redmi Note 12S,Phone,1080x2400,440
+secret,Redmi,Redmi,Redmi Note 10S,Phone,1080x2400,440
+seeker,solanamobile,solanamobile,Seeker,Phone,1200x2670,480
+selene,Redmi,Radger,Redmi 10 Prime,Phone,1080x2400,440
+selene,google,Google,Pixel watch 3,Wearable,408x408,320
+seoul,Alcatel,TCT (Alcatel),Alcatel 1B,Phone,720x1440,320
+seoul,Lenovo,Lenovo,K520,Phone,1080x2160,480
+seoul,TCL,TCL,TCL L7,Phone,720x1440,320
+serenity,POCO,POCO,POCO C71,Phone,720x1640,320
+serenity,Redmi,Redmi,Redmi A5,Phone,720x1640,320
+sfi,Nokia,Nokia,Nokia G22,Phone,720x1600,280
+sh-52e,DOCOMO,Sharp,AQUOS wish4,Phone,720x1612,280
+sheng,Xiaomi,Xiaomi,Xiaomi Pad 6S Pro 12.4,Tablet,2032x3048,400
+shennong,Xiaomi,Xiaomi,Xiaomi 14 Pro,Phone,1440x3200,560
+shiba,google,Google,Pixel 8,Phone,1080x2400,420
+sirius,Xiaomi,Xiaomi,MI 8 SE,Phone,720x1600,320
+sky,POCO,POCO,POCO M6 Pro 5G,Phone,1080x2460,440
+skywalker,blackshark,Blackshark,Black Shark 2,Phone,1080x2340,440
+smart,maxtron,Maxtron,smart,Phone,600x1024,213
+smart_12,VGOTEL,Vgo Tel,SMART 12,Phone,720x1600,260
+smart_phone,Stylo,Stylo,ERA,Phone,720x1612,480
+smartphone,Bigme,Bigme,HiBreak_EEA,Phone,824x1648,300
+smartphone,Kalley,Kalley,Element 4 Plus,Phone,480x800,240
+smartphone,VGO_TEL,Vgo Tel,NEW 11,Phone,720x1560,320
+snow,POCO,POCO,POCO C50,Phone,720x1600,320
+snow,Redmi,Redmi,Redmi A1+,Phone,720x1600,320
+so-01j,docomo,Sony,Xperia XZ,Phone,1080x1920,480
+so-01l,docomo,Sony,Xperia XZ3,Phone,1440x2880,560
+so-01m,docomo,Sony,Xperia 5,Phone,1080x2520,420
+so-02j,docomo,Sony,Xperia X Compact,Phone,720x1280,320
+so-02k,docomo,Sony,Xperia XZ1 Compact,Phone,720x1280,320
+so-03j,docomo,Sony,Xperia XZs,Phone,1080x1920,480
+so-03k,docomo,Sony,Xperia XZ2,Phone,1080x2160,480
+so-03l,docomo,Sony,Xperia 1,Phone,1096x2560,420
+so-04h,docomo,Sony,Xperia X Performance,Phone,1080x1920,480
+so-04j,docomo,Sony,Xperia XZ Premium,Phone,1080x1920,480
+so-05k,docomo,Sony,Xperia XZ2 Compact,Phone,1080x2160,480
+so-51a,docomo,Sony,Xperia 1 II,Phone,1096x2560,420
+sog01,KDDI,Sony,Xperia 1 II,Phone,1096x2560,420
+sog02,KDDI,Sony,Xperia 5 II,Phone,1080x2520,420
+sog03,KDDI,Sony,Xperia 1 III,Phone,1096x2560,420
+sog04,KDDI,Sony,Xperia 10 III,Phone,1080x2520,420
+sog07,KDDI,Sony,Xperia 10 IV,Phone,1080x2520,420
+sorap,motorola,Motorola,moto g75 5G,Phone,1080x2388,400
+sov35,KDDI,Sony,Xperia XZs,Phone,1080x1920,480
+sov36,KDDI,Sony,Xperia XZ1,Phone,1080x1920,480
+sov37,KDDI,Sony,Xperia XZ2,Phone,1080x2160,480
+sov38,KDDI,Sony,Xperia XZ2 Premium,Phone,1080x1920,420
+sov39,KDDI,Sony,Xperia XZ3,Phone,1440x2880,560
+sov40,KDDI,Sony,Xperia 1,Phone,1096x2560,420
+sov41,KDDI,Sony,Xperia 5,Phone,1080x2520,420
+sov42,KDDI,Sony,Xperia 8,Phone,1080x2520,420
+sp7731e_1h10,SPRD,,,Tablet,600x1024,160
+spacewar,Nothing,Nothing,Nothing Phone (1),Phone,1080x2400,420
+spark,Redmi,Redmi,Redmi Pad SE 8.7 4G,Tablet,800x1340,213
+spes,Redmi,Redmi,Redmi Note 11,Phone,1080x2400,440
+spesn,Redmi,Redmi,Redmi Note 11,Phone,1080x2400,440
+spinel,Redmi,Redmi,REDMI Note 15,Phone,1080x2392,450
+spring,POCO,POCO,POCO M7 Plus 5G,Phone,1080x2340,450
+spring,Redmi,Redmi,Redmi 15 5G,Phone,1080x2340,450
+stallion,google,Google,Pixel 10a,Phone,1080x2424,420
+star,RAMTECHNOLOGY,RAMTECHNOLOGY,Star,Tablet,600x1024,160
+star,Xiaomi,Xiaomi,Mi 11 Ultra,Phone,1440x3200,560
+star2lte,samsung,Samsung,Galaxy S9+,Phone,1080x2220;1440x2960,420
+star2lteks,samsung,Samsung,Galaxy S9+,Phone,1440x2960,420
+star2qltechn,samsung,Samsung,Galaxy S9+,Phone,1440x2960,420
+star2qltesq,samsung,Samsung,Galaxy S9+,Phone,1440x2960,420
+star2qlteue,samsung,Samsung,Galaxy S9+,Phone,1440x2960,420
+starlte,samsung,Samsung,Galaxy S9,Phone,1080x2220;1440x2960,480
+starlteks,samsung,Samsung,Galaxy S9,Phone,1440x2960,480
+starqltechn,samsung,Samsung,Galaxy S9,Phone,1440x2960,480
+starqltesq,samsung,Samsung,Galaxy S9,Phone,1440x2960,480
+starqlteue,samsung,Samsung,Galaxy S9,Phone,1440x2960,480
+stone,POCO,POCO,POCO M5,Phone,1080x2408,440
+sunfish,google,Google,Pixel 4a,Phone,1080x2340,440
+sunny,Redmi,Redmi,Redmi Note 10,Phone,1080x2400,440
+sunstone,Redmi,Redmi,Redmi Note 12 5G,Phone,1080x2400,440
+surya,POCO,POCO,POCO X3 NFC,Phone,1080x2400,440
+sweet,Redmi,Redmi,Redmi Note 12 Pro,Phone,1080x2400,440
+sweet,ZTE,ZTE,Z839,Phone,480x854,240
+sx,strawberry,Strawberry,SX,Phone,720x1520,320
+sx1,RAKUTEN,Sharp,AQUOS wish,Phone,720x1520,280
+sx1,SG,Sharp,AQUOS wish,Phone,720x1520,280
+sx1,SHARP,Sharp,AQUOS wish,Phone,720x1520,280
+sx4,SG,Sharp,AQUOS wish4,Phone,720x1612,280
+sx4,SHARP,Sharp,AQUOS wish4,Phone,720x1612,280
+sydnyl,motorola,Motorola,moto g47,Phone,720x1604,260
+t1,AYYA,AYYA,T1,Phone,720x1600,320
+t1,DOOGEE,Doogee,T10W,Tablet,800x1280,213
+t1,QPS,QPS Digital Electronics,T1,Tablet,1200x1920,213
+t1,TCL,TCL,TCL PLEX,Phone,1080x2340,320
+t1,Tevau,Tevau,T1,Phone,720x1640,320
+t1,TrumpMobile,TrumpMobile,T1,Phone,1080x2436,480
+t1,digITS,digITS,T1,Tablet,800x1280,213
+t1,iData,iData,iData T1,Phone,720x1440,320
+t2q,samsung,Samsung,Galaxy S21+ 5G,Phone,1080x2400,450
+t2s,samsung,Samsung,Galaxy S21+ 5G,Phone,1080x2400,450
+t3-k2001-nwd,Allwinner,,,Tablet,600x1024,160
+t3-p1,Allwinner,,,Tablet,600x1024,160
+t30max,ATOZEE,Atozee,T30MAX,Tablet,1200x2000,280
+t8,Benten,Benten,T8,Phone,800x1280,320
+t8,FOXXD,FOXXD,T8,Tablet,800x1280,213
+t8,HOTWAV,Hotwav,T8,Phone,720x1600,300
+t8,LEAGOO,Leagoo,T8,Phone,1080x1920,480
+t8,MITO,Mito,T8,Phone,600x1024,213
+t8,Winnovo,Winnovo,T8,Tablet,800x1280,213
+t8,iKU,IkuMobile,T8,Tablet,800x1280,213
+t90,AAUW,AAUW,T90,Tablet,1200x1920,272
+t90,TABWEE,TABWEE,T90_US,Tablet,1200x1920,280
+tab-s1,MOVISUN,MOVISUN,TAB-S1,Phone,600x1024,213
+tab_a10,TENCH,TENCH,TAB_A10,Tablet,800x1280,213
+taiko,Redmi,Redmi,Redmi Pad 2,Tablet,1600x2560,360
+taimen,google,Google,Pixel 2 XL,Phone,1440x2880;900x1920,240;560
+tangorpro,google,Google,Pixel Tablet,Tablet,1600x2560,320
+tanzanite,Redmi,Redmi,Redmi Note 14,Phone,1080x2400,450
+taoyao,Xiaomi,Xiaomi,Xiaomi 12 Lite,Phone,1080x2400,440
+tapas,Redmi,Redmi,Redmi Note 12,Phone,1080x2400,440
+tb305xu,Lenovo,Lenovo,Lenovo Tab K9 / Lenovo Tab One,Tablet,800x1340,180
+tb320fc,Lenovo,Lenovo,Lenovo Legion Tab,Tablet,1600x2560,400
+tb321fu,Lenovo,Lenovo,"Lenovo Legion Tab (8.8'',3)",Tablet,1600x2560,400
+tb323fu,Lenovo,Lenovo,"Lenovo Legion Tab (8.8"",5)",Tablet,1904x3040,440
+tb330fu,Lenovo,Lenovo,Lenovo Tab M11,Tablet,1200x1920,240
+tb330xu,Lenovo,Lenovo,Lenovo Tab M11,Tablet,1200x1920,240
+tb336fu,Lenovo,Lenovo,Lenovo Idea Tab / Lenovo Tab K11 Gen 2,Tablet,1600x2560,320
+tb371fc,Lenovo,Lenovo,xiaoxin pad Pro 12.7,Tablet,1840x2944,340
+tb373fu,Lenovo,Lenovo,Lenovo Idea Tab Pro,Tablet,1840x2944,340
+tb390fu,Lenovo,Lenovo,Lenovo Idea Tab Pro Gen 2 / Lenovo Tab K13,Tablet,2190x3504,360
+tb520fu,Lenovo,Lenovo,Lenovo Yoga Tab Plus,Tablet,1840x2944,340
+tb710fu,Lenovo,Lenovo,联想小新平板Pro GT,Tablet,2000x3200,400
+tc21,Zebra,Zebra,TC21,Phone,720x1280,320
+tc22,Zebra,Zebra,HC50,Phone,1080x2160,480
+tecno-ad11,TECNO,Tecno,PHANTOM V Flip 5G,Phone,1080x2640,480
+tecno-bc1s,TECNO,Tecno,POP 4 LTE,Phone,540x1200,240
+tecno-bd4,TECNO,Tecno,TECNO POP 5 LTE,Phone,720x1600,320
+tecno-bd4i,TECNO,Tecno,POP 5 LTE,Phone,720x1600,320
+tecno-bf6,TECNO,Tecno,TECNO POP 7,Phone,720x1612,320
+tecno-bf7,TECNO,Tecno,TECNO,Phone,720x1612,320
+tecno-bg6,TECNO,Tecno,SPARK Go 2024,Phone,720x1612,320
+tecno-bg6m,TECNO,Tecno,TECNO,Phone,720x1612,320
+tecno-bg7,TECNO,Tecno,TECNO SPARK 20C,Phone,720x1612,320
+tecno-bg7n,TECNO,Tecno,TECNO SPARK 20C,Phone,720x1612,320
+tecno-ci8n,TECNO,Tecno,CAMON 19 Pro,Phone,1080x2460,480
+tecno-ck6,TECNO,Tecno,TECNO CAMON 20,Phone,1080x2400,480
+tecno-ck6n,TECNO,Tecno,TECNO CAMON 20,Phone,1080x2400,480
+tecno-ck7n,TECNO,Tecno,CAMON 20 Pro,Phone,1080x2400,480
+tecno-ck8n,TECNO,Tecno,CAMON 20 Pro 5G,Phone,1080x2400,480
+tecno-ck9n,TECNO,Tecno,TECNO CAMON 20 Premier 5G,Phone,1080x2400,480
+tecno-cm5,TECNO,Tecno,TECNO CAMON 40,Phone,1080x2436,440
+tecno-cm6,TECNO,Tecno,TECNO CAMON 40 Pro,Phone,1080x2436,440
+tecno-cm7,TECNO,Tecno,TECNO CAMON 40 5G,Phone,1080x2436,440
+tecno-cn5,TECNO,Tecno,TECNO CAMON 50,Phone,1080x2364,440
+tecno-cn7c,TECNO,Tecno,TECNO CAMON 50 Ultra 5G,Phone,1208x2644,480
+tecno-kd7,TECNO,Tecno,TECNO SPARK 5 Pro,Phone,720x1600,320
+tecno-ke5,TECNO,Tecno,SAPRK GO 2021,Phone,720x1600,320
+tecno-ke5j,TECNO,Tecno,SPARK 6 GO,Phone,720x1600,320
+tecno-ke5k,TECNO,Tecno,SPARK 6 Go,Phone,720x1600,320
+tecno-kf6m,TECNO,Tecno,TECNO SPARK 7,Phone,720x1600,320
+tecno-kf8,TECNO,Tecno,TECNO SPARK 7 Pro,Phone,720x1600,320
+tecno-kg5k,TECNO,Tecno,TECNO SPARK 8C,Phone,720x1612,320
+tecno-kh6,TECNO,Tecno,TECNO SPARK 9T,Phone,720x1612,320
+tecno-ki5k,TECNO,Tecno,TECNO SPARK 10C,Phone,720x1612,320
+tecno-ki5m,TECNO,Tecno,TECNO SPARK 10C,Phone,720x1612,320
+tecno-ki5q,TECNO,Tecno,TECNO SPARK 10,Phone,720x1612,320
+tecno-ki7,TECNO,Tecno,TECNO SPARK 10 Pro,Phone,1080x2460,480
+tecno-kj5,TECNO,Tecno,TECNO SPARK 20,Phone,720x1612,320
+tecno-kj5n,TECNO,Tecno,TECNO SPARK 20,Phone,720x1612,320
+tecno-kj6,TECNO,Tecno,TECNO SPARK 20 Pro,Phone,1080x2460,480
+tecno-kj7,TECNO,Tecno,TECNO SPARK 20 Pro+,Phone,1080x2436,480
+tecno-kl4,TECNO,Tecno,TECNO SPARK Go 1,Phone,720x1600,320
+tecno-kl5,TECNO,Tecno,TECNO SPARK 30C,Phone,720x1600,320
+tecno-kl5n,TECNO,Tecno,TECNO SPARK 30C,Phone,720x1600,320
+tecno-kl7,TECNO,Tecno,TECNO SPARK 30 Pro,Phone,1080x2436,480
+tecno-kl8,TECNO,Tecno,TECNO SPARK 30 5G,Phone,720x1600,320
+tecno-km4,TECNO,Tecno,TECNO SPARK Go 2,Phone,720x1600,280
+tecno-km4k,TECNO,Tecno,TECNO SPARK 40C,Phone,720x1600,320
+tecno-km5,TECNO,Tecno,TECNO SPARK 40,Phone,720x1600,320
+tecno-km5n,TECNO,Tecno,TECNO SPARK 40,Phone,720x1600,320
+tecno-km6,TECNO,Tecno,TECNO SPARK 40 Pro,Phone,1080x2400,420
+tecno-km7,TECNO,Tecno,TECNO SPARK 40 Pro+,Phone,1080x2400,420
+tecno-km7k,TECNO,Tecno,TECNO SPARK Slim,Phone,1080x2400,420
+tecno-km8n,TECNO,Tecno,TECNO SPARK 40 5G,Phone,720x1600,280
+tecno-km9,TECNO,Tecno,TECNO POVA Slim 5G,Phone,1080x2400,420
+tecno-kn3,TECNO,Tecno,TECNO SPARK Go 3,Phone,720x1600,280
+tecno-kn4,TECNO,Tecno,TECNO SPARK 50,Phone,720x1576,280
+tecno-kn4n,TECNO,Tecno,TECNO SPARK 50,Phone,720x1576,280
+tecno-kn8,TECNO,Tecno,TECNO SPARK 50 5G,Phone,720x1576,280
+tecno-ld7,TECNO,Tecno,POVA,Phone,720x1640,320
+tecno-le6,TECNO,Tecno,POVA Neo,Phone,720x1640,320
+tecno-le7,TECNO,Tecno,TECNO POVA 2,Phone,1080x2460,480
+tecno-lf7,TECNO,Tecno,TECNO POVA 3,Phone,1080x2460,480
+tecno-lf7n,TECNO,Tecno,TECNO POVA 3,Phone,1080x2460,480
+tecno-lg6n,TECNO,Tecno,POVA Neo 2,Phone,720x1640,320
+tecno-lg7n,TECNO,Tecno,TECNO POVA 4,Phone,720x1640,320
+tecno-lg8n,TECNO,Tecno,TECNO POVA 4 Pro,Phone,1080x2400,480
+tecno-lh6n,TECNO,Tecno,TECNO POVA Neo 3,Phone,720x1640,320
+tecno-lh7n,TECNO,Tecno,POVA 5,Phone,1080x2460,480
+tecno-lh8n,TECNO,Tecno,POVA 5 Pro 5G,Phone,1080x2460,480
+tecno-li6,TECNO,Tecno,TECNO POVA 6 Neo,Phone,1080x2460,440;480
+tecno-li7,TECNO,Tecno,TECNO POVA 6,Phone,1080x2436,440
+tecno-li9,TECNO,Tecno,TECNO POVA 6 Pro 5G,Phone,1080x2436,440
+tecno-lj6,TECNO,Tecno,TECNO POVA 7,Phone,1080x2460,440
+tecno-lj7,TECNO,Tecno,TECNO POVA 7 5G,Phone,1080x2460,440
+tecno-lj8k,TECNO,Tecno,TECNO POVA Curve 5G,Phone,1080x2436,440
+tecno-lj9,TECNO,Tecno,TECNO POVA 7 Ultra 5G,Phone,1080x2400,520
+tecno-lk6,TECNO,Tecno,TECNO POVA 8 5G,Phone,1080x2344,420
+tecno-lk7,TECNO,Tecno,TECNO POVA 8 Pro 5G,Phone,1208x2644,520
+tecno-pr651,TECNO,Tecno,TECNO SPARK 7,Phone,720x1600,320
+tecno-t1002,TECNO,Tecno,TECNO MEGAPAD SE 2,Tablet,1280x2048,300
+tecno-t1101,TECNO,Tecno,TECNO MegaPad 11,Tablet,1200x1920,280
+tecno-t1102,TECNO,Tecno,TECNO MEGAPAD  SE,Tablet,1200x1920,240
+tecno-t1103,TECNO,Tecno,TECNO MEGAPAD 2,Tablet,1600x2560,360
+tegu,google,Google,Pixel 9a,Phone,1080x2424,420
+tetris,Nothing,CMF by Nothing,CMF by Nothing Phone 1,Phone,1080x2400,420
+thunder,POCO,POCO,POCO M4 5G,Phone,1080x2408,440
+thunder,Redmi,Redmi,Redmi 10 5G,Phone,1080x2408,440
+tiare,Xiaomi,Xiaomi,Redmi Go,Phone,720x1280,320
+tides,Redmi,Redmi,Redmi 13,Phone,1080x2460,440
+tiffany,Meitu,Meitu,T9,Phone,1080x1920,480
+tiffany,xiaomi,Xiaomi,MI 5X,Phone,1080x1920,480
+tiger_13,OSCAL,OSCAL,TIGER 13,Phone,720x1604,320
+timelm,lge,LGE,LG V60 ThinQ,Phone,1080x2460,420
+tissot_sprout,xiaomi,Xiaomi,Mi A1,Phone,1080x1920,480
+tokay,google,Google,Pixel 9,Phone,1080x2424,420
+tokyo,Alcatel,TCT (Alcatel),Alcatel 1S,Phone,720x1520,320
+tokyo,My,My,Android TV,TV,720x1280,213
+tonga,motorola,Motorola,moto g power (2022),Phone,720x1600,280
+topaz,Redmi,Redmi,Redmi Note 12,Phone,1080x2400,440
+topaz,SICO,Sico,Sico Topaz,Phone,720x1280,300
+tornado,POCO,POCO,POCO C85 5G,Phone,720x1600,320
+tornado,Redmi,Redmi,Redmi 15C 5G,Phone,720x1600,320
+tre3g,samsung,Samsung,Galaxy Note4,Phone,1440x2560,640
+ttg_sprout,Nokia,Nokia,Nokia XR20,Phone,1080x2400,400
+tucana,Xiaomi,Xiaomi,Mi Note 10,Phone,1080x2340,440
+tulip,ZTE,ZTE,B2017G,Phone,1080x1920,480
+tulip,xiaomi,Xiaomi,Redmi  Note  6  Pro,Phone,1080x2280,440
+u70b,EVERCOSS,Evercoss,U70B,Phone,600x1024,213
+u70c,EVERCOSS,Evercoss,U70C,Phone,600x1024,240
+ugg,xiaomi,Xiaomi,Redmi Note 5A,Phone,720x1280,320
+ugglite,xiaomi,Xiaomi,Redmi Note 5A,Phone,720x1280,320
+uke,Xiaomi,Xiaomi,Xiaomi Pad 7,Tablet,2136x3200,440
+umi,Xiaomi,Xiaomi,Mi 10,Phone,1080x2340,440
+unicorn,Xiaomi,Xiaomi,Xiaomi 12S Pro,Phone,1440x3200,560
+v0,Vocal,Vocal,v0,Phone,720x1612,280
+v2144,vivo,Vivo,X80,Phone,1080x2400,440
+v2145,vivo,Vivo,X80 Pro,Phone,1080x2400,440
+v2151,vivo,Vivo,T1 5G,Phone,1080x2404,440
+v2154,vivo,Vivo,T1,Phone,1080x2400,440
+v2158,vivo,Vivo,V25 Pro,Phone,1080x2376,440
+v2201,vivo,Vivo,V25e,Phone,1080x2404,440
+v2202,vivo,Vivo,V25,Phone,1080x2404,440
+v2204,vivo,Vivo,Y16,Phone,720x1600,300
+v2205,vivo,Vivo,Y35,Phone,1080x2408,440
+v2206,vivo,Vivo,Y22s,Phone,720x1612,300
+v2207,vivo,Vivo,vivo Y22,Phone,720x1612,300
+v2217,vivo,Vivo,Y02,Phone,720x1600,300
+v2225,vivo,Vivo,T2x 5G,Phone,1080x2408,440
+v2231,vivo,Vivo,V27,Phone,1080x2400,440
+v2236,vivo,Vivo,Y02,Phone,720x1600,320
+v2237,vivo,Vivo,T2,Phone,1080x2400,440
+v2244,vivo,Vivo,V29 Lite 5G,Phone,1080x2400,440
+v2247,vivo,Vivo,Y27s,Phone,1080x2388,440
+v2248,vivo,Vivo,Y36 5G,Phone,1080x2388,440
+v2248g,vivo,Vivo,Y27 5G,Phone,1080x2388,440
+v2249,vivo,Vivo,Y27,Phone,1080x2388,440
+v2250,vivo,Vivo,V29,Phone,1260x2800,480
+v2254,vivo,Vivo,Y02t,Phone,720x1600,300
+v2308,vivo,Vivo,X100,Phone,1260x2800,480
+v2309,vivo,Vivo,X100 Pro,Phone,1260x2800,480
+v2310,vivo,Vivo,Y17s,Phone,720x1612,300
+v2317,vivo,Vivo,V30 Lite,Phone,1080x2400,440
+v2318,vivo,Vivo,V30,Phone,1260x2800,420
+v2319,vivo,Vivo,V30 Pro,Phone,1260x2800,480
+v2327,vivo,Vivo,Y200e 5G,Phone,1080x2400,440
+v2330,vivo,Vivo,X Fold3 Pro,Tablet,2200x2480,480
+v2333,vivo,Vivo,Y18,Phone,720x1612,300
+v2339,vivo,Vivo,V30e,Phone,1080x2400,440
+v2342,vivo,Vivo,V40 Lite,Phone,1080x2400,440
+v2343,vivo,Vivo,Y38 5G,Phone,720x1608,300
+v2344,vivo,Vivo,Y03t,Phone,720x1612,300
+v2346,vivo,Vivo,Y28s 5G,Phone,720x1612,300
+v2348,vivo,Vivo,V40,Phone,1260x2800,420
+v2352,vivo,Vivo,Y28,Phone,720x1608,300
+v2413,vivo,Vivo,X200 Pro,Phone,1260x2800,480
+v2415,vivo,Vivo,vivo X200,Phone,1260x2800,480
+v2418,vivo,Vivo,V40 Lite 5G,Phone,1080x2400,440
+v2419,vivo,Vivo,vivo Y19s,Phone,720x1608,300
+v2427,vivo,Vivo,V50,Phone,1080x2392,440
+v2429,vivo,vivo,X Fold5,Tablet,2200x2480,480
+v2430,vivo,Vivo,Y04s,Phone,720x1600,300
+v2434,vivo,Vivo,vivo Y29,Phone,720x1608,300
+v2436,vivo,Vivo,vivo Y39 5G,Phone,720x1608,300
+v2440,vivo,vivo,vivo V50 Lite 5G,Phone,1080x2392,440
+v2441,vivo,Vivo,vivo V50 Lite,Phone,1080x2392,440
+v2446,vivo,Vivo,Y29s 5G,Phone,720x1600,300
+v2455,vivo,vivo,Y400,Phone,1080x2400,440
+v2503,vivo,vivo,X200 FE,Phone,1216x2640,480
+v2511,vivo,vivo,V60,Phone,1080x2392,440
+v2514,vivo,vivo,X300 Pro,Phone,1260x2800,520
+v2515,vivo,vivo,X300,Phone,1216x2640,480
+v2520,vivo,vivo,Y21d,Phone,720x1608,300
+v2521l,vivo,vivo,Y31 5G,Phone,720x1608,300
+v2529,vivo,vivo,V70 Lite 5G,Phone,1080x2392,440
+v2537,vivo,vivo,X300 FE,Phone,1216x2640,480
+v2538,vivo,vivo,V70,Phone,1260x2750,440
+v2543,vivo,vivo,Y31d,Phone,720x1570,300
+v2543u,vivo,vivo,Y31d,Phone,720x1570,300
+v2548,vivo,vivo,V70 Elite,Phone,1260x2750,440
+v2550,vivo,vivo,V70 FE,Phone,1260x2800,440
+v2553,vivo,vivo,Y21 5G,Phone,720x1600,300
+v2556,vivo,vivo,Y11d,Phone,720x1600,300
+v2562,vivo,vivo,X300 Ultra,Phone,1440x3168,520
+v2570,vivo,vivo,V70 Lite,Phone,1260x2800,440
+v2606,vivo,vivo,Y05e,Phone,720x1600,300
+v3,SUNMI,Sunmi,V3,Phone,720x1600,320
+v3,WIGOR,Wigor,V3,Phone,720x1280,320
+v3,vivo,Vivo,V3,Phone,720x1280,320
+v3953,WIKO,Wiko,HARRY,Phone,720x1280,320
+v55c,ELEVATE,Elevate,V55C,Phone,1080x1920,480
+v57,ELEVATE,Elevate,LUNA V57,Phone,720x1440,320
+v9,Mafe,Mafe,V9,Phone,720x1600,320
+v9,POPTEL,POPTEL,V9,Phone,800x1280,320
+vantage,motorola,Motorola,motorola signature,Phone,1264x2780,480
+vayu,POCO,POCO,POCO X3 Pro,Phone,1080x2400,440;480
+vayu,Xiaomi,,,Phone,1256x2760,540
+vegas,motorola,Motorola,moto g power - 2025,Phone,1080x2388,390
+vegas,starlight,Starlight,Vegas,Phone,720x1560,320
+veidoo_t50,Veidoo,Veidoo,VEIDOO_T50,Tablet,1200x2000,240
+venus,Xiaomi,Xiaomi,Mi 11,Phone,1080x2376;1080x2388;1084x2412;1256x2760;1260x2844;1440x3200;720x1600,320;480;540;560
+venus,starlight,Starlight,venus,Phone,480x960,240
+vermeer,POCO,POCO,POCO F6 Pro,Phone,1440x3200,560
+vermeer,Redmi,Redmi,Redmi K70,Phone,1440x3200,560
+veux,POCO,POCO,POCO X4 Pro 5G,Phone,1080x2400,440
+veux,Redmi,Redmi,Redmi Note 11 Pro 5G,Phone,1080x2400,440
+vg2,RAKUTEN,Sharp,AQUOS sense4 plus,Phone,1080x2400,480
+vg2,SHARP,Sharp,AQUOS sense4 plus,Phone,1080x2400,480
+vgo,SHARP,Sharp,AQUOS V,Phone,1080x2160,420
+vhem,WIKO,Wiko,WIKO 10,Phone,720x1600,320
+vienna,motorola,Motorola,ThinkPhone 25 by motorola,Phone,1200x2670,450
+vili,Xiaomi,Xiaomi,Xiaomi 11T Pro,Phone,1080x2400,440
+villaon-v40s,VILLAON,VILLAON,V40s,Phone,720x1600,320
+villaon-v654l,VILLAON,VILLAON,V50s,Phone,720x1600,320
+villaon-v6752l,VILLAON,VILLAON,VILLAON Hyper 100,Phone,720x1600,480
+villaon-vp1002l,VILLAON,VILLAON,VP1002L-OP,Tablet,800x1280,200
+vince,xiaomi,Xiaomi,Redmi 5 Plus,Phone,1080x2160,480
+violet,xiaomi,Xiaomi,Redmi  Note  7 Pro,Phone,1080x2340,440
+viva,Redmi,Redmi,Redmi Note 11 Pro,Phone,1080x2400,440
+vsi,Nokia,Nokia,Nokia C31,Phone,720x1600,280
+w-k560,WIKO,Wiko,Y61,Phone,480x960,240
+w30,Crelander,Crelander,W30,Tablet,800x1280,213
+w_k600,WIKO,Wiko,W_K600,Phone,480x960,240
+walleye,google,Google,Pixel 2,,1080x1920;720x1280,160;213;420
+warhol,Xiaomi,Xiaomi,Xiaomi 17T Pro,Phone,1280x2772,520
+water,LIFEPHONE,LIFEPHONE,WATER,Phone,720x1612,300
+water,POCO,POCO,POCO C51,Phone,720x1600,320
+water,Redmi,Redmi,Redmi A2+,Phone,720x1600,320
+wayne,xiaomi,Xiaomi,MI 6X,Phone,1080x1920,480
+whyred,xiaomi,Xiaomi,Redmi Note 5 Pro,Phone,1080x2160,440;480
+willow,xiaomi,Redmi,Redmi Note 8T,Phone,1080x2340,440
+wind,Redmi,Redmi,Redmi 10C,Phone,720x1650,320
+winner,samsung,Samsung,Galaxy Fold,Phone,1536x2152,420
+wisdom,samsung,Samsung,Galaxy Tab A with S Pen,Tablet,1200x1920,320
+wp12_pro,OUKITEL,Oukitel,WP12_Pro_EEA,Phone,720x1440,320
+wsp_sprout,Nokia,Nokia,Nokia 2.2,Phone,720x1520,320
+x1,Mobicel,Mobicell,X1,Phone,720x1440,320
+x1,Neffos,Neffos,Neffos X1,Phone,720x1280,320
+x1,PHONEMAX,Phone Max,X1,Phone,720x1440,320
+x1,Rizzen,Rizzen,X1,Tablet,1200x2000,240
+x1,X-PREMIUM,X-PREMIUM,X1,Tablet,800x1280,160
+x1,Xmobile,Xmobile,X1,Phone,480x960,213
+x1,iKU,IkuMobile,X1,Phone,720x1600,320
+x1,vernee,Vernee,X1,Phone,1080x2160,400
+x1q,samsung,Samsung,Galaxy S20 5G,Phone,1440x3200,480
+x1s,LANIX,Lanix,X1S,Phone,480x854,200
+x1s,samsung,Samsung,Galaxy S20,Phone,1440x3200,480
+x20,ABCTECH,ABCTECH,X20,Tablet,1200x1920,320
+x20,CUBOT,Cubot,X20,Phone,1080x2340,480
+x20,DOOGEE,Doogee,X20,Phone,720x1280,320
+x20,LiteTEL,LiteTEL,X20,Phone,480x960,240
+x20,Neffos,Neffos,Neffos X20,Phone,720x1520,320
+x20,coolpad,Coolpad,X20,Phone,720x1600,480
+x2034,OMIX,OMIX,X2034,Phone,720x1600,320
+x30,CUBOT,Cubot,X30,Phone,1080x2310,480
+x30,DOOGEE,Doogee,X30,Phone,720x1280,320
+x30,Rebecco,Rebecco,X30_EEA,Tablet,800x1280,213
+x7,DAEWOO,Daewoo,X7,Phone,720x1560,320
+x7,Dragon_Touch,Dragontouch,X7,Tablet,600x1024,160
+x7,EVERCOSS,Evercoss,X7,Phone,600x1024,213
+x7,LANIX,Lanix,X7,Phone,480x1014,200
+x7,Mobicel,Mobicel,X7,Phone,720x1600,320
+x7,OMIX,OMIX,X7,Phone,1080x2460,480
+x7,STYLO,Stylo,X7,Phone,720x1640,320
+x7,TechPad,Techpad,X7,Phone,720x1560,320
+x7,Xmobile,Xmobile,X7,Phone,600x1024,213
+x7,eks,Eks Mobility,x7,Phone,600x1024,186
+x9009,OPPO,Oppo,X9009,Phone,1080x1920,480
+x95,DOOGEE,Doogee,X95,Phone,540x1200,240
+x95,PREMIO,Premio,X95,Phone,720x1600,320
+x96pro,DOOGEE,Doogee,X96Pro,Phone,720x1600,320
+x_pro_ai,G-Tab,G-Tab,X_PRO_AI,Phone,720x1576,320
+xaga,POCO,POCO,POCO X4 GT,Phone,1080x2460,440
+xaga,Redmi,Redmi,Redmi Note 11T Pro,Phone,1080x2460,440
+xcover4lte,samsung,Samsung,Galaxy XCover4,Phone,720x1280,320
+xcover5,samsung,Samsung,Galaxy XCover 5,Phone,720x1480,340
+xcover7,samsung,Samsung,Galaxy XCover7,Phone,1080x2408,450
+xcoverpro,samsung,Samsung,Galaxy XCover Pro,Phone,1080x2340,420
+xig02,Redmi,Redmi,Redmi Note 10 JE,Phone,1080x2400,440
+xig03,Redmi,Redmi,Redmi 12 5G,Phone,1080x2460,440
+xig04,Xiaomi,Xiaomi,Xiaomi 13T,Phone,1220x2712,480
+xig05,Redmi,Redmi,Redmi Note 13 Pro 5G,Phone,1220x2712,480
+xig07,Xiaomi,Xiaomi,Xiaomi 14T,Phone,1220x2712,520
+xq-as42,Sony,Sony,Xperia 5 II,Phone,1080x2520,420
+xq-as52,Sony,Sony,Xperia 5 II,Phone,1080x2520,420
+xq-at42,Sony,Sony,Xperia 1 II,Phone,1096x2560,420
+xq-at52,Sony,Sony,Xperia 1 II,Phone,1096x2560,420
+xq-bc42,Sony,Sony,Xperia 1 III,Phone,1096x2560,420
+xq-bc72,Sony,Sony,Xperia 1 III,Phone,1096x2560,420
+xq-be42,Sony,Sony,Xperia PRO-I,Phone,1096x2560,420
+xq-cc72,Sony,Sony,Xperia 10 IV,Phone,1080x2520,420
+xq-cq44,Sony,Sony,Xperia 5 IV,Phone,1080x2520,450
+xq-ct44,Sony,Sony,Xperia 1 IV,Phone,1096x2560,420
+xq-de44,Sony,Sony,Xperia 5 V,Phone,1080x2520,450
+xt2575-1,Motorola,Motorola,moto pad 60 neo,Tablet,1600x2560,320
+xuanyuan,Xiaomi,Xiaomi,Xiaomi 15 Ultra,Phone,1080x2400,600
+xun,Redmi,Redmi,Redmi Pad SE,Tablet,1200x1920,280
+y21,vivo,Vivo,Y21,Phone,480x854,240
+y2q,samsung,Samsung,Galaxy S20+ 5G,Phone,1440x3200,450
+y2s,samsung,Samsung,Galaxy S20+ 5G,Phone,1440x3200,450
+y31i,vivo,Vivo,Y31i,Phone,540x960,240
+yeti,Lenovo,Lenovo,YOGA BOOK,Tablet,1200x1920,280
+ysl,xiaomi,Xiaomi,Redmi S2,Phone,720x1440,320
+yt-j706f,Lenovo,Lenovo,Lenovo Yoga Tab 11,Tablet,1200x2000,240
+yunluo,Redmi,Redmi,Redmi Pad,Tablet,1200x2000,280
+yupei,Xiaomi,Xiaomi,Xiaomi Pad 8,Tablet,2136x3200,440
+z00a,asus,Asus,ZenFone 2 (ZE551ML),Phone,1080x1920,480
+z01b_1,asus,Asus,ZenFone 3 Laser (ZC551KL),Phone,1080x1920,480
+z3103o,ZTE,ZTE,P505,Phone,576x1152,240
+z33,Symphony,Symphony,Z33,Phone,720x1600,280
+z33,ZOJI,Zoji,Z33,Phone,720x1512,320
+z3q,samsung,Samsung,Galaxy S20 Ultra 5G,Phone,1440x3200;900x1600,240;420
+z3s,samsung,Samsung,Galaxy S20 Ultra 5G,Phone,1440x3200,420
+z6301s,nubia,ZTE,A504ZT,Phone,1080x2400,480
+z6561s,ZTE,ZTE,Z6561J,Phone,1080x2408,480
+z6571s,ZTE,ZTE,A103ZT,Phone,1080x2400,480
+z6575s,ZTE,ZTE,A202ZT,Phone,1080x2400,480
+z6701s,nubia,ZTE,A403ZT,Phone,1080x2400,480
+z8888s,ZTE,ZTE,Libero Flip,Phone,1188x2790,520
+zeekr,motorola,Motorola,motorola razr 40 ultra,Phone,1080x2640,420
+zenlte,samsung,Samsung,Galaxy S6 edge+,Phone,1080x1920,420
+zeroflte,samsung,Samsung,Galaxy S6,Phone,1440x2560,640
+zerolte,samsung,Samsung,Galaxy S6 Edge,Phone,1440x2560,640
+zeus,Xiaomi,Xiaomi,Xiaomi 12 Pro,Phone,1440x3200,560
+zeus,kobo,Kobo,Arc,Tablet,800x1205,213
+zircon,Redmi,Redmi,Redmi Note 13 Pro+ 5G,Phone,1220x2712,480
+ziyi,Xiaomi,Xiaomi,Xiaomi 13 Lite,Phone,1080x2400,440
+zorn,POCO,POCO,Poco F7 Pro,Phone,1440x3200,600
+zorn,Redmi,Redmi,REDMI K80,Phone,1440x3200,600
+zt216_1,zyrex,zyrex,ZT216_1,Tablet,800x1280,160
